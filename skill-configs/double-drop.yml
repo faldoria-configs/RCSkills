@@ -1,0 +1,6 @@
+name: double-drop
+description: Ermöglicht es von abgebauten Blöcken Doppel Drops zu bekommen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

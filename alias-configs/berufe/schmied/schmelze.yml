@@ -1,0 +1,15 @@
+name: Schmelzenergie
+description: 'Es erscheint ein Lavaeimer in deinem Inventar, den du als Schmelzenergie verwenden kannst.'
+skill: conjure
+custom:
+  min-items: 1
+  max-items: 1
+  items:
+    327:
+      amount: 1
+      chance:
+        base: 1.0
+      level: 1
+      exp: 10
+cooldown:
+  base: 900

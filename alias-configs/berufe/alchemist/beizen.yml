@@ -1,0 +1,7 @@
+name: Beizen
+description: Entfernt die Verzauberungen von einem Item.
+skill: disenchant
+cooldown:
+  base: 300
+reagents:
+  ghast_tear: 1

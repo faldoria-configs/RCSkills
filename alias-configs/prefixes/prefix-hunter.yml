@@ -1,0 +1,7 @@
+name: Chatprefix Hunter
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.hunter
+

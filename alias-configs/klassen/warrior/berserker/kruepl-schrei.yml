@@ -1,0 +1,18 @@
+name: Verkrueppelnder Schrei
+description: 'Verkrüppelt alle Gegner im Umkreis von 7m für 8s und verlangsamt sie um 50%.'
+skill: area-slow
+cooldown:
+  base: 25
+resources:
+  rage:
+    base: 10
+  stamina:
+    base: 3
+range:
+  base: 7
+effects:
+  slow:
+    custom:
+      potion-amplifier: 3
+    duration:
+      base: 8

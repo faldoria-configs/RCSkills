@@ -1,0 +1,6 @@
+name: grace
+description: Verringert die Zauberzeit des nächsten Heilzaubers nach einer heiligen Attacke
+max-level: 10
+enabled: true
+level: 1
+hidden: false

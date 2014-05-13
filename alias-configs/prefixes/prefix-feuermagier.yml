@@ -1,0 +1,7 @@
+name: Chatprefix Feuermagier
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.feuermagier
+

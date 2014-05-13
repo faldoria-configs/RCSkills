@@ -1,0 +1,6 @@
+name: resource-conversion
+description: Beim Verlust von einer Resource wird eine andere erneuert.
+max-level: 10
+enabled: true
+level: 1
+hidden: false

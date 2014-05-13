@@ -1,0 +1,14 @@
+name: Opferung
+description: 'Opfert bis zu 5 zufällige beschworene Kreaturen und stellt für jede geopferte Kreatur 125 Leben wieder her.'
+skill: sacrifice
+custom:
+  max-sacrifice: 5
+  health-per-sacrifice:
+    base: 125
+cooldown:
+  base: 180
+resources:
+  mana:
+    mana-base-modifier: 0.05
+  stamina:
+    base: 1

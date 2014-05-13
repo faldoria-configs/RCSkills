@@ -1,0 +1,11 @@
+name: Sühne
+description: 'Wenn du einem Ziel mit heiligen Schaden zufügst, wird das Gruppenmitglied das dem Ziel am nächsten steht um 100% des verursachten Schadens geheilt. Wenn der Priester am nächsten steht wird der Effekt um 50% verringert.'
+skill: impact-heal
+custom:
+  element: holy
+  heal-percentage:
+    base: 1.0
+  self-heal-percentage:
+    base: 0.5
+range:
+  base: 3

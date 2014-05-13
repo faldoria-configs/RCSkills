@@ -1,0 +1,19 @@
+max-level: 100
+tag: SR
+name: Server Rang
+description: Ermoeglicht es dir auf dem Server zu spielen.
+health:
+  base: 20
+  level-modifier: 0.0
+skills:
+  guest:
+    level: 1
+  member:
+    level: 5
+  eat-and-drink:
+    level: 5
+  ruhestein:
+    level: 5
+allowed-armor: {}
+allowed-weapons: {}
+color: GRAY

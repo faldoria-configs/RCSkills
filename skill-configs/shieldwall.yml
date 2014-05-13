@@ -1,0 +1,8 @@
+name: shieldwall
+description: Du hebst deinen Schild und erhälst weniger Schaden.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+linked-skills: {}
+weapons: []

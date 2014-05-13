@@ -1,0 +1,39 @@
+name: Bauer
+description: 'Die Bauern der Gegenden von Azuran dürfen in keiner Ortschaft fehlen. Sie kümmern sich um alles, was die Herstellung und Verarbeitung von Nahrung betrifft und züchten zu diesem Zwecke auch Tiere heran. Dabei fällt den Bauern besonders die effektive Nutzung der Rohmaterialien leicht.'
+tag: BAU
+max-level: 60
+formula: beruf
+exp-money-conversion-rate:
+  base: 0.0001
+skills:
+  kraeuteranbau:
+    level: 1
+  holzfaeller:
+    level: 3
+  axtprofi:
+    level: 5
+  feldarbeit:
+    level: 7
+  angler:
+    level: 10
+  aufzucht:
+    level: 12
+  profi-scherer:
+    level: 21
+  sproessling-i:
+    level: 25
+  obstgaertner:
+    level: 27
+  sproessling-ii:
+    level: 30
+  trueffel-jaeger:
+    level: 33
+  sproessling-iii:
+    level: 37
+  koch:
+    level: 45
+  konservierung:
+    level: 51
+health:
+  base: 20
+  level-modifier: 0.0

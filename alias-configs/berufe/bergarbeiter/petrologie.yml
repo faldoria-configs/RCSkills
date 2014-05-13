@@ -1,0 +1,17 @@
+name: Petrologie
+description: 'Dein Gespür verrät dir ob Diamanten oder Smaragde in der Nähe zu finden sind.'
+skill: ore-finder
+custom:
+  find-message: 'Es liegt ein Geruch von wertvollen Erzen in der Luft...'
+  blocks:
+    - 56
+    - 129
+cooldown:
+  base: 120
+effects:
+  ore-finder:
+    interval:
+      base: 10
+range:
+  base: 15
+  path-level-modifier: 1

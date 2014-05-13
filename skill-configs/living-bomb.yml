@@ -1,0 +1,8 @@
+name: living-bomb
+description: Sprengt alle Gegner nach Ablauf der Zeit um das Ziel.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+linked-skills: {}
+weapons: []

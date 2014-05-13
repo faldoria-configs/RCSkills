@@ -1,0 +1,14 @@
+name: Gottesschild
+description: ' Du bist für 7 Sekunden unverwundbar, kannst jedoch nicht angreifen. '
+skill: divine-shield
+cooldown:
+  base: 120
+resources:
+  mana:
+    mana-base-modifier: 0.10
+  stamina:
+    base: 5
+effects:
+  divine-shield:
+    duration:
+      base: 7

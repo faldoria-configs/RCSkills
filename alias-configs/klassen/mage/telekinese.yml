@@ -1,0 +1,22 @@
+name: Telekinese
+description: 'Ermöglicht es, Schalter aus der Ferne zu betätigen.'
+skill: telekinesis
+cooldown:
+  base: 30
+range:
+  base: 40
+resources:
+  mana:
+    mana-base-modifier: 0.02
+  stamina:
+    base: 1
+visual-effects:
+  CAST:
+    1:
+      type: particle
+      effect: enchantmenttable
+      amount: 200
+      x-offset: 1
+      y-offset: 1
+      z-offset: 1
+      h-offset: 2

@@ -1,0 +1,35 @@
+name: Totenbeschwörer
+description: Default description
+tag: NEK
+max-level: 30
+formula: secundary
+skills:
+  prefix-necromancer:
+    level: 1
+  seelenernter:
+    level: 1
+  beschwoerung:
+    level: 3
+  fluch-der-schwaeche:
+    level: 5
+  lebensentzug:
+    level: 7
+  giftatem:
+    level: 10
+  fluch-der-blindheit:
+    level: 15
+  opferung:
+    level: 20
+  armee-der-toten:
+    level: 25
+  verbannung:
+    level: 30
+health:
+  base: 20
+  level-modifier: 0.0
+requirements:
+  profession-level:
+    mage:
+      profession: mage
+      level: 30
+color: GRAY

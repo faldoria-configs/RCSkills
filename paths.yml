@@ -1,0 +1,19 @@
+class:
+  name: Klassen
+  priority: 10
+  parents:
+  - warrior
+  - rogue
+  - mage
+  - priest
+  select-in-combat: true
+  select-out-of-combat: false
+prof:
+  name: Beruf
+  priority: 5
+  parents:
+  - bergarbeiter
+  - bauer
+  - alchemist
+  select-in-combat: false
+  select-out-of-combat: true

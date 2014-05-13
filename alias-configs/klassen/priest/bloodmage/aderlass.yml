@@ -1,0 +1,16 @@
+name: Aderlass
+description: 'Opfert 25% der maximalen Leben des Blutmagiers um den geopferten Wert in Mana wiederherzustellen. Aderlass entfernt zusätzlichen 2 schädliche Effekte die auf dem Blutmagier liegen.'
+skill: remove-effects
+custom:
+  self: true
+  amount:
+    base: 2
+  harmfull: true
+  helpfull: false
+resources:
+  health:
+    from-max: true
+    health-modifier: 0.25
+  mana:
+    from-max: true
+    health-modifier: -0.25

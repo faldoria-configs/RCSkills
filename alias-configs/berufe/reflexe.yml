@@ -1,0 +1,11 @@
+name: Reflexe
+description: 'Geistesgegenwärtig wirfst du alle 2 Sekunden ein Rüstungsteil von dir, sobald du in Brand gerätst und verhinderst so schlimmere Verbrennungen.'
+skill: fire-protection
+cooldown:
+  base: 180
+effects:
+  fire-proection:
+    interval:
+      base: 2
+    duration:
+      base: 10

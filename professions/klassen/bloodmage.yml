@@ -1,0 +1,54 @@
+name: Blutmagier
+description: Der Blutmagier scheut sich bei der Unterstützung seiner Gruppe nicht vor dem Aufopfern eigener Lebensenergie, schließlich kann er diese aus gegnerischen Truppen aufsaugen und aufnehmen.
+tag: BLU
+max-level: 30
+formula: secundary
+parent: priest
+skills:
+  prefix-bloodmage:
+    level: 1
+  blutgeschoss:
+    level: 1
+  blutsauger:
+    level: 3
+  verderbnis:
+    level: 5
+  blutige-opferung:
+    level: 7
+  mana-sucht:
+    level: 8
+  knochenschild:
+    level: 10
+  fluch-der-pein:
+    level: 12
+  schattenruestung:
+    level: 14
+  blutnova:
+    level: 16
+  heiliges-blut:
+    level: 18
+  blutruestung:
+    level: 20
+  fluch-der-magie:
+    level: 22
+  elkires-pakt:
+    level: 24
+  aderlass:
+    level: 25
+  blutregen:
+    level: 25
+  dickes-blut:
+    level: 27
+  elkires-macht:
+    level: 30
+requirements:
+  profession-level:
+    mage:
+      profession: priest
+      level: 30
+health:
+  base: 120
+  stamina-attr-modifier: 15
+allowed-armor:
+  LEATHER: 1
+color: GRAY

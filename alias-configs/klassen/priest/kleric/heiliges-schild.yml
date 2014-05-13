@@ -1,0 +1,25 @@
+name: Heiliges Schild
+description: 'Belegt ein Gruppenmitglied oder den Priester mit einem heiligen Schild, der die nächsten 182 + 2* Schaden absorbiert. Das Ziel bekommt für 30s den Debuff Geschwächte Seele, der verhindert, dass das Ziel mit einem Heiligen Schild gebufft wird.'
+skill: holy-shield
+resources:
+  mana:
+    mana-base-modifier: 0.02
+  stamina:
+    base: 1
+range:
+  base: 25
+effects:
+  shielded:
+    name: Heiliges Schild
+    custom:
+      reduction:
+        base: 1.0
+      max-absorption:
+        base: 282
+        path-level-modifier: 2
+    duration:
+      base: 30
+  weaken-soul:
+    name: 'Geschwächte Seele'
+    duration:
+      base: 30

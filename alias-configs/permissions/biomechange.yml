@@ -1,0 +1,7 @@
+name: 'Biom ändern Dungeon'
+skill: permission
+custom:
+  dungeon:
+    - weatherman.basic
+    - weatherman.cmdbiome
+    - weatherman.wandbiome

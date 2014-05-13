@@ -1,0 +1,21 @@
+name: Kraefte Sammeln
+description: ' Wenn deine Leben unter 35% fallen heilst du dich für 12s jede Sekunde um 1% deiner maximalen Leben. '
+skill: gather-strength
+custom:
+  trigger-at: 0.35
+cooldown:
+  base: 30
+resources:
+  mana:
+    base: 5
+  stamina:
+    base: 1
+effects:
+  gather-strength:
+    custom:
+      heal-percent-per-tick:
+        base: 0.01
+    duration:
+      base: 12
+    interval:
+      base: 1

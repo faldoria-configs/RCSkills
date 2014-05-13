@@ -1,0 +1,22 @@
+name: Verderbnis
+description: 'Fügt dem Ziel für 22s alle 2s Schaden zu.'
+skill: magic-bolt
+range:
+  base: 20
+custom:
+  bleed: true
+resources:
+  health:
+    from-max: true
+    health-modifier: 0.02
+  stamina:
+    base: 1
+effects:
+  bleed:
+    duration:
+      base: 16
+    interval:
+      base: 2
+    damage:
+      base: 33
+      path-level-modifier: 13

@@ -1,0 +1,7 @@
+name: aura
+description: Schützt dich und deine Gruppe mit einer Aura.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

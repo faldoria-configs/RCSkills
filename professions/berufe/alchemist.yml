@@ -1,0 +1,41 @@
+name: Alchemist
+description: 'Die Alchemisten der Gegenden von Azuran besitzen ein tiefes Verständnis über die nicht sichtbaren Zusammenhänge in der Welt. So ist es ihnen auch möglich die Struktur eines Materials zu verändern und so Blöcke zu erschaffen, die sich normalerweise nicht schadenfrei abbauen ließen.'
+tag: ALC
+max-level: 60
+formula: beruf
+exp-money-conversion-rate:
+  base: 0.0001
+skills:
+  kraeuterkunde:
+    level: 1
+  antiguestbrew:
+    level: 1
+  destruktive-alchemie:
+    level: 5
+  frostig:
+    level: 11
+  bewusstessen:
+    level: 15
+  alchemie2:
+    level: 15
+  spannungsriss:
+    level: 17
+  beizen:
+    level: 20
+  kondensation:
+    level: 24
+  klebetrank:
+    level: 27
+  konstruktive-alchemie:
+    level: 33
+  verpufft:
+    level: 40
+  mcblyver:
+    level: 45
+  granate:
+    level: 50
+  verbesserte-alchemie:
+    level: 55
+health:
+  base: 20
+  level-modifier: 0.0

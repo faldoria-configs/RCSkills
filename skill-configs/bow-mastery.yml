@@ -1,0 +1,5 @@
+name: bow-mastery
+description: Erhöht die Spannkraft des Bogens
+max-level: 10
+hidden: false
+level: 1

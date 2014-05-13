@@ -1,0 +1,7 @@
+name: bloodthirst
+description: Heilt dich basierend auf der Menge deiner Wut.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+weapons: []

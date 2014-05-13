@@ -1,0 +1,6 @@
+name: acrobatics
+description: Minimiert Fallschaden
+max-level: 10
+enabled: true
+hidden: false
+level: 1

@@ -1,0 +1,8 @@
+name: retreat
+description: Zieht sich durch einen gekonnten Sprung aus dem Kampf zurück.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

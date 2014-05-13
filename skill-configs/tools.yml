@@ -1,0 +1,5 @@
+name: tools
+description: Ermöglicht es mit der Zeit bestimmte Werkzeuge zu tragen.
+max-level: 10
+enabled: true
+level: 1

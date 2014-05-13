@@ -1,0 +1,8 @@
+name: chain-heal
+description: Schickt eine Welle von Heilung auf den Weg.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

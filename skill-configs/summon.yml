@@ -1,0 +1,8 @@
+name: summon
+description: Beschwört eine Kreatur die für den Beschwörer kämpft.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+linked-skills: {}
+weapons: []

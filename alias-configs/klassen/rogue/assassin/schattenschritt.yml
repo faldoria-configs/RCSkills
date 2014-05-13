@@ -1,0 +1,21 @@
+name: Schattenschritt
+description: 'Teleportiert dich hinter dein Ziel und dein nächster Angriff verursacht 50% mehr Schaden. '
+skill: shadow-step
+custom:
+  bonus-damage: true
+cooldown:
+  base: 12
+range:
+  base: 20
+resources:
+  energy:
+    base: 15
+effects:
+  damage-buff:
+    name: Schattenschritt
+    custom:
+      increase:
+        base: 0.50
+      one-time: true
+    duration:
+      base: 5

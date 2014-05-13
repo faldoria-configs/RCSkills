@@ -1,0 +1,11 @@
+name: 'Schattenrüstung'
+description: 'Beschwört eine Schützende Rüstung für den Blutmagier hinauf, die seine maximale Leben um 15% und erhaltene Heilung um 20% erhöht. Es kann immer nur eine Rüstung aktiv sein.'
+skill: buffing-armor
+custom:
+  types:
+    - health_increase
+    - heal_increase
+  health-increase:
+    base: 0.15
+  heal-increase:
+    base: 0.20

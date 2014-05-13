@@ -1,0 +1,15 @@
+name: Augenmass
+description: 'In den Trümmern um dich herum erspähst du einen spitzen Stein und nutzt ihn als Werkzeug.'
+skill: conjure
+max-level: 100
+custom:
+  items:
+    stone_pickaxe:
+      amount: 1
+      exp: 100
+      chance:
+        base: 0.75
+        skill-level-modifier: 0.01
+        cap: 1.0
+cooldown:
+  base: 600

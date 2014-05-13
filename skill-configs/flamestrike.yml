@@ -1,0 +1,8 @@
+name: flamestrike
+description: Verursacht Feuerschaden und nachhaltige Verbrennungen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+linked-skills: {}
+weapons: []

@@ -1,0 +1,63 @@
+name: Berserker
+description: Default description
+tag: BER
+parent: warrior
+max-level: 30
+formula: secundary
+skills:
+  prefix-berserker:
+    level: 1
+  wutaufbau:
+    level: 1
+  schlachtruf:
+    level: 1
+  wuetender-schlag:
+    level: 3
+  blutdurst:
+    level: 5
+  faustschlag:
+    level: 7
+  wirbelwind:
+    level: 10
+  blutrausch:
+    level: 13
+  kruepl-schrei:
+    level: 16
+  blutige-angelegenheit:
+    level: 20
+  hinrichten:
+    level: 23
+  wutanfall:
+    level: 25
+  berserker:
+    level: 30
+requirements:
+  profession-level:
+    warrior:
+      profession: warrior
+      level: 30
+health:
+  base: 20
+  level-modifier: 0.0
+resources:
+  rage:
+    name: Wut
+    types:
+    - EXPERIENCE
+    default: 0
+    max:
+      base: 100
+    min: 0
+    out-of-combat-regen:
+      percent: true
+      base: -0.15
+    in-combat-regen:
+      base: 0.01
+      percent: true
+    interval:
+      base: 3
+    color:
+      filled: DARK_RED
+      unfilled: DARK_GRAY
+allowed-armor:
+  PLATE: 1

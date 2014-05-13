@@ -1,0 +1,9 @@
+logging: false
+driver: MYSQL
+host: localhost
+port: 3306
+database: minecraft_main
+username: minecraft
+password: '#M8Ui$BYeV80CbKs32-xNUOLiQLzc&OX'
+isolation: SERIALIZABLE
+rebuild: false

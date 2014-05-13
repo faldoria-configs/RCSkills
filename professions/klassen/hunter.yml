@@ -1,0 +1,67 @@
+name: Waldläufer
+tag: WAL
+parent: rogue
+max-level: 30
+formula: secundary
+skills:
+  prefix-hunter:
+    level: 1
+  meisterschuetze:
+    level: 1
+  multischuss:
+    level: 3
+  lokalisierung:
+    level: 5
+  rueckzug:
+    level: 7
+  feuerfalle:
+    level: 10
+  bogenbeherrschung:
+    level: 13
+  pfeilregen:
+    level: 15
+  eispfeil:
+    level: 17
+  feuerpfeil:
+    level: 20
+  heiliger-schuss:
+    level: 23
+  schwaechender-pfeil:
+    level: 25
+  pfeil-der-stille:
+    level: 27
+  avatar-des-waldes:
+    level: 30
+requirements:
+  profession-level:
+    rogue:
+      profession: rogue
+      level: 30
+health:
+  base: 20
+resources:
+   mana:
+    name: Mana
+    types:
+    - EXPERIENCE
+    default: 0
+    base:
+      base: 100
+      path-level-modifier: 27.25
+    max:
+      intellect-attr-modifier: 15
+    min: 0
+    in-combat-regen:
+      percent: false
+      mana-base-modifier: 0.05
+      spirit-attr-modifier: 0.1
+    out-of-combat-regen:
+      percent: true
+      base: 0.01
+      mana-base-modifier: 0.05
+      spirit-attr-modifier: 0.001
+    interval:
+      base: 5
+allowed-armor:
+  MAIL: 1
+description: Default description

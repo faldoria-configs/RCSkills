@@ -1,0 +1,7 @@
+name: heal-over-time
+description: Heilt das Ziel über eine bestimmte Zeit.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

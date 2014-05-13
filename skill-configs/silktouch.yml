@@ -1,0 +1,6 @@
+name: silktouch
+description: Ermöglicht es Blöcke ohne die Verzauberung Silktouch genauso abzubauen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

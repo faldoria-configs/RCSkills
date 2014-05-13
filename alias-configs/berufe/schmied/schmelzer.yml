@@ -1,0 +1,8 @@
+name: Schmelzer
+description: '1% Chance pro Level auf doppeltes Schmelzergebnis.'
+skill: double-drop
+custom:
+  furnace: true
+  chance:
+    skill-level-modifier: 0.01
+exp: 3

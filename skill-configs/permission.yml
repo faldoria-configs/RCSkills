@@ -1,0 +1,6 @@
+name: permission
+description: Represents a generic permissions skill.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

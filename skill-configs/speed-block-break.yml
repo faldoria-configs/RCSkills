@@ -1,0 +1,7 @@
+name: speed-block-break
+description: Baut Blöcke instant ab.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

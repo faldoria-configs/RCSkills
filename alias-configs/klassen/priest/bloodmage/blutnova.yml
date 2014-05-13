@@ -1,0 +1,19 @@
+name: Blutnova
+description: 'Der Blutmagier lässt an seinen Füßen eine Nova entstehen die allen Personen im Umkreis von 20m Schaden zufügt. Je weiter weg umso mehr Schaden.'
+skill: blood-nova
+custom:
+  damage-per-block:
+    base: 12.3
+damage:
+  base: 6.0
+  path-level-modifier: 13
+cooldown:
+  base: 4
+resources:
+  health:
+    from-max: true
+    health-modifier: 0.10
+  stamina:
+    base: 1
+range:
+  base: 10

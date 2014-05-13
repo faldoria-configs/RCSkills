@@ -1,0 +1,112 @@
+weapons:
+  WOOD_SWORD:
+    min: 13
+    max: 22
+    swing-time: 1.4
+  STONE_SWORD:
+    min: 19
+    max: 28
+    swing-time: 1.5
+  GOLD_SWORD:
+    min: 25
+    max: 35
+    swing-time: 1.6
+  IRON_SWORD:
+    min: 32
+    max: 48
+    swing-time: 1.7
+  DIAMOND_SWORD:
+    min: 42
+    max: 61
+    swing-time: 1.8
+  WOOD_AXE:
+    min: 17
+    max: 29
+    swing-time: 1.8
+  STONE_AXE:
+    min: 26
+    max: 35
+    swing-time: 1.8
+  GOLD_AXE:
+    min: 32
+    max: 43
+    swing-time: 1.9
+  IRON_AXE:
+    min: 39
+    max: 55
+    swing-time: 2.0
+  DIAMOND_AXE:
+    min: 49
+    max: 68
+    swing-time: 2.1
+  WOOD_SPADE:
+    min: 14
+    max: 26
+    swing-time: 16
+  STONE_SPADE:
+    min: 23
+    max: 32
+    swing-time: 1.6
+  GOLD_SPADE:
+    min: 29
+    max: 40
+    swing-time: 1.7
+  IRON_SPADE:
+    min: 36
+    max: 52
+    swing-time: 1.8
+  DIAMOND_SPADE:
+    min: 46
+    max: 65
+    swing-time: 1.9
+  WOOD_PICKAXE:
+    min: 27
+    max: 39
+    swing-time: 3.5
+  STONE_PICKAXE:
+    min: 36
+    max: 45
+    swing-time: 3.5
+  GOLD_PICKAXE:
+    min: 42
+    max: 53
+    swing-time: 3.5
+  IRON_PICKAXE:
+    min: 49
+    max: 65
+    swing-time: 3.6
+  DIAMOND_PICKAXE:
+    min: 59
+    max: 78
+    swing-time: 3.6
+  WOOD_HOE:
+    min: 22
+    max: 25
+    swing-time: 2.4
+  STONE_HOE:
+    min: 24
+    max: 29
+    swing-time: 2.4
+  GOLD_HOE:
+    min: 32
+    max: 35
+    swing-time: 2.4
+  IRON_HOE:
+    min: 39
+    max: 42
+    swing-time: 2.4
+  DIAMOND_HOE:
+    min: 45
+    max: 51
+    swing-time: 2.4
+  BOW:
+    min: 47
+    max: 63
+  STICK:
+    min: 22
+    max: 29
+    swing-time: 1.0
+  BLAZE_ROD:
+    min: 35
+    max: 47
+    swing-time: 1.0

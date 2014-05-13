@@ -1,0 +1,45 @@
+name: Kleriker
+description: Der Kleriker hat sich auf die Heilung und Unterstützung von Freunden und seiner Gruppe spezialisiert.
+tag: KLE
+parent: priest
+max-level: 30
+formula: secundary
+skills:
+  prefix-cleric:
+    level: 1
+  heilige-pein:
+    level: 1
+  grosse-heilung:
+    level: 3
+  hast:
+    level: 5
+  heiliges-feuer:
+    level: 7
+  reinigung:
+    level: 10
+  heiliges-schild:
+    level: 12
+  kettenheilung:
+    level: 14
+  suehne:
+    level: 16
+  schmerzunterdrueckung:
+    level: 19
+  kreis-der-heilung:
+    level: 22
+  stille:
+    level: 24
+  gnade:
+    level: 26
+  staerkende-seele:
+    level: 28
+  erzengel:
+    level: 30
+health:
+  base: 20
+  level-modifier: 0.0
+requirements:
+  profession-level:
+    priest:
+      profession: priest
+      level: 30

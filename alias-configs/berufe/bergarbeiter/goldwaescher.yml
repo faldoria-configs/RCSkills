@@ -1,0 +1,388 @@
+name: Goldwäscher
+description: ' Mit erhöhter Geschwindigkeit durchsuchst du Erde, Sand, Lehm und Kies nach Erzbrocken. '
+skill: special-drop
+max-level: 100
+description: Ermöglicht es vergrabene Schätze in der Erde zu finden.
+custom:
+  blocks:
+    DIRT:
+      tool: SHOVEL
+      drops:
+        dirt:
+          exp: 1
+          chance:
+            base: 0.5
+        glowstone_dust:
+          exp: 5
+          chance:
+            base: 0.05
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 10
+                profession: bergarbeiter
+        cocoa:
+          exp: 15
+          chance:
+            base: 0.0133
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 20
+                profession: bergarbeiter
+        BROWN_MUSHROOM:
+          exp: 20
+          chance:
+            base: 0.005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 30
+                profession: bergarbeiter
+        RED_MUSHROOM:
+          exp: 30
+          chance:
+            base: 0.005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 40
+                profession: bergarbeiter
+        diamond:
+          exp: 250
+          chance:
+            base: 0.0013
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 50
+                profession: bergarbeiter
+        green_record:
+          exp: 500
+          chance:
+            base: 0.0005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 60
+                profession: bergarbeiter
+        gold_record:
+          exp: 750
+          chance:
+            base: 0.0005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 70
+                profession: bergarbeiter
+        smaragd:
+          exp: 1000
+          chance:
+            base: 0.0001
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 85
+                profession: bergarbeiter
+    GRASS:
+      tool: SHOVEL
+      drops:
+        apple:
+          exp: 1
+          chance:
+            base: 0.01
+        glowstone_dust:
+          exp: 5
+          chance:
+            base: 0.05
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 10
+                profession: bergarbeiter
+        cocoa:
+          exp: 15
+          chance:
+            base: 0.0133
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 20
+                profession: bergarbeiter
+        BROWN_MUSHROOM:
+          exp: 20
+          chance:
+            base: 0.005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 30
+                profession: bergarbeiter
+        RED_MUSHROOM:
+          exp: 30
+          chance:
+            base: 0.005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 40
+                profession: bergarbeiter
+        diamond:
+          exp: 250
+          chance:
+            base: 0.0013
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 50
+                profession: bergarbeiter
+        green_record:
+          exp: 500
+          chance:
+            base: 0.0005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 60
+                profession: bergarbeiter
+        gold_record:
+          exp: 750
+          chance:
+            base: 0.0005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 70
+                profession: bergarbeiter
+        smaragd:
+          exp: 1000
+          chance:
+            base: 0.0001
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 85
+                profession: bergarbeiter
+    SAND:
+      tool: SHOVEL
+      drops:
+        glowstone_dust:
+          exp: 5
+          chance:
+            base: 0.05
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 10
+                profession: bergarbeiter
+        soul_sand:
+          exp: 25
+          chance:
+            base: 0.01
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 25
+                profession: bergarbeiter
+        diamond:
+          exp: 250
+          chance:
+            base: 0.0013
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 50
+                profession: bergarbeiter
+        green_record:
+          exp: 500
+          chance:
+            base: 0.0005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 60
+                profession: bergarbeiter
+        gold_record:
+          exp: 750
+          chance:
+            base: 0.0005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 70
+                profession: bergarbeiter
+        smaragd:
+          exp: 1000
+          chance:
+            base: 0.0001
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 85
+                profession: bergarbeiter
+    GRAVEL:
+      tool: SHOVEL
+      drops:
+        flint:
+          exp: 1
+          chance:
+            base: 0.25
+          min-amount:
+            base: 1
+          max-amount:
+            base: 3
+        bone:
+          exp: 10
+          chance:
+            base: 0.05
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 15
+                profession: bergarbeiter
+        gunpowder:
+          exp: 25
+          chance:
+            base: 0.01
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 25
+                profession: bergarbeiter
+        diamond:
+          exp: 250
+          chance:
+            base: 0.0013
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 50
+                profession: bergarbeiter
+        green_record:
+          exp: 500
+          chance:
+            base: 0.0005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 60
+                profession: bergarbeiter
+        gold_record:
+          exp: 750
+          chance:
+            base: 0.0005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 70
+                profession: bergarbeiter
+        smaragd:
+          exp: 1000
+          chance:
+            base: 0.0001
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 85
+                profession: bergarbeiter
+    CLAY_BLOCK:
+      tool: SHOVEL
+      drops:
+        clay:
+          exp: 2
+          min-amount:
+            base: 1
+          max-amount:
+            base: 4
+          chance:
+            base: 0.5
+        map:
+          exp: 5
+          chance:
+            base: 0.02
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 10
+                profession: bergarbeiter
+        slimeball:
+          exp: 10
+          chance:
+            base: 0.01
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 15
+                profession: bergarbeiter
+        string:
+          exp: 15
+          chance:
+            base: 0.05
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 20
+                profession: bergarbeiter
+        bucket:
+          exp: 50
+          chance:
+            base: 0.001
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 25
+                profession: bergarbeiter
+        clock:
+          exp: 100
+          chance:
+            base: 0.001
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 30
+                profession: bergarbeiter
+        cobweb:
+          exp: 15
+          chance:
+            base: 0.05
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 40
+                profession: bergarbeiter
+        diamond:
+          exp: 250
+          chance:
+            base: 0.0013
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 50
+                profession: bergarbeiter
+        green_record:
+          exp: 500
+          chance:
+            base: 0.0005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 60
+                profession: bergarbeiter
+        gold_record:
+          exp: 750
+          chance:
+            base: 0.0005
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 70
+                profession: bergarbeiter
+        smaragd:
+          exp: 1000
+          chance:
+            base: 0.0001
+          requirements:
+            skill-level:
+              goldwaescher:
+                level: 85
+                profession: bergarbeiter

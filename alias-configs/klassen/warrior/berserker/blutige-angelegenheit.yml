@@ -1,0 +1,19 @@
+name: Blutige Angelegenheit
+description: ' Du fokussierst all deine Wut und verursachst je Stack Blutrausch mit dem nächsten Schlag Schaden an deinem Gegner. '
+skill: blood-strike
+weapons:
+  - sword
+  - axe
+  - polearm
+  - mace
+cooldown:
+  base: 12
+resources:
+  rage:
+    base: 30
+  stamina:
+    base: 10
+damage:
+  base: 55
+  path-level-modifier: 1.5
+  weapon-damage: true

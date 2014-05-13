@@ -1,0 +1,47 @@
+exp-rate: 1.0
+skill-prof-exp-rate: 1.0
+prof-hero-exp-rate: 1.0
+entities:
+  Chicken: 1
+  Cow: 1
+  Creeper: 0
+  Ghast: 0
+  Giant: 35
+  Pig: 1
+  PigZombie: 0
+  Sheep: 1
+  Skeleton: 0
+  Ozelot: 1
+  Slime: 4
+  Spider: 0
+  Squid: 1
+  Zombie: 0
+  Wolf: 16
+  CaveSpider: 0
+  Enderman: 0
+  EnderDragon: 0
+  Silverfish: 8
+  Villager: 1
+  Blaze: 0
+  MushroomCow: 1
+  LavaSlime: 6
+  SnowMan: 0
+  VillagerGolem: 0
+  Bat: 0
+  WitherBoss: 250
+  Witch: 0
+blocks:
+  Netherrack: 3
+  Mossy_Cobblestone: 3
+  Stone: 3
+  Sandstone: 3
+  Glowstone: 3
+  '16': 10
+  '73': 15
+  '74': 15
+  Ender_Stone: 15
+  Obsidian: 15
+  Iron_Ore: 25
+  Gold_Ore: 35
+  Lapis_Ore: 40
+  Diamond_Ore: 75

@@ -1,0 +1,19 @@
+name: Feuerfalle
+description: ' Am Aufschlagort deines Pfeils entsteht eine 5x5 breite Feuerfläche die für 20 Sekunden bestehen bleibt. '
+skill: fire-trap
+weapons:
+  - bow
+custom:
+  width:
+    base: 2
+  length:
+    base: 2
+cooldown:
+  base: 35
+resources:
+  mana:
+    base: 15
+effects:
+  trap:
+    duration:
+      base: 15

@@ -1,0 +1,25 @@
+﻿name: Verwüsten
+description: ' Stapelt den Effekt Rüstungszerreissen bis zu 5mal auf dem Gegner. Jeder Stack verringert die Rüstung um 25%. '
+skill: strike
+weapons:
+  - sword
+  - axe
+  - polearm
+  - mace
+custom:
+  sunder-armor: true
+resources:
+  stamina:
+    base: 3
+damage:
+  base: 52
+  path-level-modifier: 1
+  weapon-damage: true
+effects:
+  sundering-armor:
+    duration:
+      base: 30
+    custom:
+      reduction:
+        base: 0.05
+        cap: 0.25

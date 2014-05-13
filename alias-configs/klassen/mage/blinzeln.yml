@@ -1,0 +1,12 @@
+name: Blinzeln
+description: 'Du blinkst dich 15m nach vorne. Kann dich aus Betäubungs-Effekten befreien.'
+skill: blink
+cooldown:
+  base: 20
+range:
+  base: 20
+resources:
+  mana:
+    mana-base-modifier: 0.02
+  stamina:
+    base: 1

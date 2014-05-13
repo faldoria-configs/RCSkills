@@ -1,0 +1,7 @@
+name: cone-cast
+description: Kegelförmiger Zauber mit einigen Effekten.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

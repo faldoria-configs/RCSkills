@@ -1,0 +1,20 @@
+name: Sisyphoss
+description: 'Es besteht eine Chance von 0.1% pro Level Doppeldrops beim Umgraben von Erde zu erhalten.'
+skill: double-drop
+max-level: 100
+use-in-combat: false
+exp:
+  base: 1
+  path-level-modifier: 0.2
+custom:
+  tool: SHOVEL
+  chance:
+    base: 0.0
+    skill-level-modifier: 0.001
+    cap: 0.6
+  blocks:
+    - dirt
+    - grass
+    - sand
+    - gravel
+    - clay

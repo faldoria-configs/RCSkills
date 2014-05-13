@@ -1,0 +1,9 @@
+name: SprösslingI
+description: 'Im Umkreis von 2 Blöcken, reifen gepflanzte Produkte sofort heran.'
+skill: instant-growth
+range:
+  base: 2
+reagents:
+  bonemeal: 2
+cooldown:
+  base: 360

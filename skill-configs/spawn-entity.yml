@@ -1,0 +1,6 @@
+name: spawn-entity
+description: Lässt zufällig beliebige Entities spawnen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

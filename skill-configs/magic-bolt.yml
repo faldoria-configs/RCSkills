@@ -1,0 +1,6 @@
+description: Greift ein Ziel mit Magie an.
+name: magic-bolt
+max-level: 10
+level: 1
+hidden: false
+weapons: []

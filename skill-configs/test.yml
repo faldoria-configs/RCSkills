@@ -1,0 +1,12 @@
+name: test
+description: Skill is for testing stuff...
+max-level: 10
+enabled: true
+range:
+  base: 100
+cooldown:
+  base: 0
+custom:
+  type: HUGE_EXPLOSION
+hidden: false
+level: 1

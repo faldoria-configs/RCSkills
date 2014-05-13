@@ -1,0 +1,15 @@
+name: Blitzheilung
+description: ' Heilt ein Gruppenmitglied oder den Priester. '
+skill: heal
+range:
+  base: 25
+cooldown:
+  base: 1.5
+resources:
+  mana:
+    mana-base-modifier: 0.03
+  stamina:
+    base: 1
+damage:
+  base: 68
+  path-level-modifier: 1

@@ -1,0 +1,17 @@
+name: Einschmelzen
+description: 'Schmelze Items ein um teile ihrer Ausgangsprodukte wieder zu gewinnen.'
+skill: permission
+custom:
+  world:
+    - raidcraft.furnace.diahelm
+    - raidcraft.furnace.diachest
+    - raidcraft.furnace.dialegs
+    - raidcraft.furnace.diaboots
+    - raidcraft.furnace.ironhelm
+    - raidcraft.furnace.ironchest
+    - raidcraft.furnace.ironlegs
+    - raidcraft.furnace.ironboots
+    - raidcraft.furnace.bucket
+    - raidcraft.furnace.irondoor
+    - raidcraft.furnace.cauldron
+    - raidcraft.furnace.anvil

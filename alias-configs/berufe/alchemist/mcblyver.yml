@@ -1,0 +1,10 @@
+name: McBlyver
+description: 'Auf dem Block vor dir entsteht ein improvisierter Braustand. Kann nicht eingesammelt werden und es kann immer nur einen McBlyver Improvisations Stand geben.'
+skill: summon-block
+custom:
+  block: '117'
+cooldown:
+  base: 900
+reagents:
+  torch: 1
+  stick: 1

@@ -1,0 +1,18 @@
+name: Feldarbeit
+description: 'Effizienteres Ernten von Pflanzen (möglicher Doppeldropp)'
+skill: double-drop
+exp:
+  base: 3
+custom:
+  chance:
+    base: 0.0
+    skill-level-modifier: 0.01
+  blocks:
+    - 86
+    - 103
+    - 81
+    - 115
+    - 127
+    - 141
+    - 142
+    - 59

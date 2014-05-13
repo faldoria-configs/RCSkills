@@ -1,0 +1,7 @@
+name: cleave
+description: Fügt allen Gegenern neben dem getroffenen Ziel Schaden zu.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

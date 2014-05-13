@@ -1,0 +1,12 @@
+name: Flammender Eifer
+description: 'Du hast eine zunehmende Chance, bei einem Feuerball einen Stack "Flammender Eifer" zu erhalten. "Flammender Eifer" verringert deine Zauberzeit des nächsten Feuerzaubers, der kein Feuerball ist, um 20% je Stack (max. 5 Stacks).'
+skill: flaming-rage
+custom:
+  casttime-bonus-per-stack:
+    base: 0.20
+    cap: 1.0
+effects:
+  flaming-rage:
+    max-stacks: 5
+    duration:
+      base: 30

@@ -1,0 +1,7 @@
+name: Bogenbeherrschung
+description: 'Je nach Level deines Meisterschütze Skills haben deine Pfeile eine Mindest Kraft beim Abschuss die nach und nach der eines voll gespannten Bogens entspricht.'
+skill: bow-mastery
+custom:
+  minimal-force:
+    meisterschuetze-modifier: 0.01
+    cap: 0.75

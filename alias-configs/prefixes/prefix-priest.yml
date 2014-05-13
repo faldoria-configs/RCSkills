@@ -1,0 +1,7 @@
+name: Chatprefix Priester
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.priest
+

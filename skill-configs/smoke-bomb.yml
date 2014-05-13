@@ -1,0 +1,6 @@
+name: smoke-bomb
+description: Hüllt alle am Aufschlagsort in Rauch ein und blendet diese.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

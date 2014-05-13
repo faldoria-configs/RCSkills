@@ -1,0 +1,41 @@
+name: Lohenbeschwoerung
+description: ' Beschwört 1-4 Lohen die alle Gegner im Umkreis angreifen. '
+skill: summon
+max-level: 100
+exp:
+  base: 30
+  path-level-modifier: 1.75
+range:
+  base: 30
+cooldown:
+  base: 240
+effects:
+  summoned:
+    duration:
+      base: 30
+resources:
+  mana:
+    mana-base-modifier: 0.05
+  stamina:
+    base: 1
+custom:
+  creatures:
+    blaze:
+      name: Blaze
+      type: BLAZE
+      amount:
+        base: 1
+        skill-level-modifier: 0.03
+        cap: 4
+      min-damage:
+        base: 21
+        skill-level-modifier: 0.1
+      max-damage:
+        base: 27
+        skill-level-modifier: 0.1
+      min-health:
+        base: 250
+        skill-level-modifier: 0.1
+      max-health:
+        base: 270
+        skill-level-modifier: 0.1

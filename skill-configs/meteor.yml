@@ -1,0 +1,7 @@
+name: meteor
+description: Lässt einen Meteor auf das Ziel herab regnen.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+weapons: []

@@ -1,0 +1,20 @@
+﻿name: Krautanbau
+description: 'Ermöglicht die Chance von 0.1% pro Level einen Doppeldrop beim Craften von Pflanzenprodukte und Farben zu erhalten.'
+skill: double-drop
+max-level: 100
+exp:
+  base: 1
+  path-level-modifier: 0.2
+custom:
+  chance:
+    base: 0.0
+    skill-level-modifier: 0.001
+    cap: 0.6
+  crafting:
+    - 91
+    - 351
+    - 353
+    - 360
+    - 361
+    - 362
+use-in-combat: false

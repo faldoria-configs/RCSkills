@@ -1,0 +1,7 @@
+name: Bewusstes Essen
+beschreibung: Nahrung regeneriert 30% mehr Lebenspunkte.
+skill: food-boost
+enabled: false
+custom:
+  boost:
+    base: 0.30

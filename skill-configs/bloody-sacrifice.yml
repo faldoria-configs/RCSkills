@@ -1,0 +1,7 @@
+name: bloody-sacrifice
+description: Heilt die Gruppe des Blutmagiers um die Menge der geopferten Leben und fügt allen Gegnern im Umkreis von 10m den selben Schaden zu. Es werden die aktuellen Leben verrechnet, nicht die max. Leben.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+weapons: []

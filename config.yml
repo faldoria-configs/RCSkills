@@ -1,0 +1,50 @@
+disable-error-skills: true
+callback-purge-ticks: 1200
+health-scale: 20.0
+defaults:
+  environment-damage-in-percent: true
+  effect-priority: 1.0
+  global-cooldown: 1.5
+  permission-group: guest
+  fist-damage: 1.0
+  skeleton-knockback: 0.75
+  party-timeout: 30.0
+  swing-time: 1.0
+  userinterface-refresh-interval: 100
+  pvp-combat-timeout: 300.0
+  party-exp-range: 100
+  pvp-toggle-delay: 300.0
+  exp-bat-despawn-delay: 10.0
+  character-invalidation-interval: 100
+profession:
+  change-cost: 100
+  change-level-modifier: 25.0
+interface:
+  updateinterval: 20
+hero:
+  max-level: 100
+paths:
+  skill-configs: skill-configs/
+  alias-configs: alias-configs/
+  skill-jars: skills-and-effects/
+  effect-configs: effect-configs/
+  effect-jars: skills-and-effects/
+  profession-configs: professions/
+  abilities-jars: abilities/
+ignored-worlds:
+- freebuild
+- lobby
+- event
+excluded-max-out-professions:
+- virtual
+log-interval: 60
+disable-error-abilities: false
+hero-cache-timeout: 300
+cache-offline-players: false
+sidebar-effect-types:
+- SYSTEM
+- HARMFUL
+- HELPFUL
+- DAMAGING
+- BUFF
+- DEBUFF

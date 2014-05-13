@@ -1,0 +1,6 @@
+name: weapons
+description: Erhöht den Schaden deiner Waffen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

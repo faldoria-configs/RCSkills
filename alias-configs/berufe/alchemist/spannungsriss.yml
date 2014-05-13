@@ -1,0 +1,7 @@
+name: Spannungsriss
+skill: transform-splash-potion
+description: Ritze die Flasche in deiner Hand etwas an und mache sie so schnell zum Wurftrank.
+cooldown:
+  base: 360
+reagents:
+  flint: 1

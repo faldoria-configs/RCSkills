@@ -1,0 +1,8 @@
+name: improved-strike
+description: Verursacht mehr Schaden beim nächsten normalen Angriff.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+linked-skills: {}
+weapons: []

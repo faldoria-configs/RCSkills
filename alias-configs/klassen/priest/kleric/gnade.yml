@@ -1,0 +1,7 @@
+name: Gnade
+description: 'Jeder erfolgreiche Angriff mit Heiligem Feuer oder Heiliger Pein verringert die Zauberzeit des nächsten Heilzaubers um 0.4s (max 2.0s).'
+skill: grace
+custom:
+  casttime-bonus-per-stack:
+    base: 0.4
+    cap: 2.0

@@ -1,0 +1,6 @@
+name: disenchant
+description: Entfernt alle Verzauberungen von einem Item.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

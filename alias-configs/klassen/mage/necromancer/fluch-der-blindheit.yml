@@ -1,0 +1,20 @@
+name: 'Fluch der Blindheit'
+description: 'Lässt alle Gegner im Umkreis von 25m für 6s + 0.1s/Level erblinden.'
+skill: curse
+custom:
+  type: blindness
+cooldown:
+  base: 60
+range:
+  base: 15
+resources:
+  mana:
+    mana-base-modifier: 0.03
+  stamina:
+    base: 1
+effects:
+  curse:
+    name: 'Fluch der Blindheit'
+    duration:
+      base: 3
+      prof-level-modifier: 0.05

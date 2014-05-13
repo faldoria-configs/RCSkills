@@ -1,0 +1,16 @@
+name: Gast
+skill: permission
+hidden: true
+custom:
+  lobby:
+    - rcskills.restricted
+    - rcskills.conversation.maxout
+  global:
+    - citizens.npc.talk
+    - antiguest.preventions.fight
+    - antiguest.preventions.damage
+    - antiguest.preventions.pickup
+    - antiguest.preventions.bow
+    - antiguest.preventions.command
+    - antiguest.preventions.item
+    - rcskills.restricted

@@ -1,0 +1,7 @@
+name: fire-trap
+description: Lässt am Aufschlag des Pfeils eine Feuerfalle entstehen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

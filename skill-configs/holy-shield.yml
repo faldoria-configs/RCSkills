@@ -1,0 +1,7 @@
+name: holy-shield
+description: Beschützt das Ziel durch einen heiligen Schild der Schaden absorbiert.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

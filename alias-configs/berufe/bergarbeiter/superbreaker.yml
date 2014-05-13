@@ -1,0 +1,57 @@
+name: Superbreaker
+description: ' Du baust mit einer affenartigen Geschwindigkeit massive Blöcke ab. '
+skill: speed-block-break
+levelable: false
+custom:
+  tools:
+    - WOOD_PICKAXE
+    - STONE_PICKAXE
+    - IRON_PICKAXE
+    - GOLD_PICKAXE
+    - DIAMOND_PICKAXE
+  blocks:
+    - 1
+    - 4
+    - 14
+    - 15
+    - 16
+    - 24
+    - 41
+    - 42
+    - 43
+    - 44
+    - 45
+    - 48
+    - 49
+    - 56
+    - 57
+    - 61
+    - 62
+    - 67
+    - 73
+    - 74
+    - 98
+    - 108
+    - 109
+    - 112
+    - 113
+    - 114
+    - 116
+    - 121
+    - 128
+    - 129
+    - 133
+cooldown:
+  base: 600
+  bergbau-skill-modifier: -1.5
+  path-level-modifier: -1.0
+effects:
+  speed-block-break:
+    duration:
+      base: 2
+      bergbau-skill-modifier: 0.2
+      cap: 22
+    activate-message: "Superbreaker aktiviert!"
+    deactivate-message: "Superbreaker abgelaufen!"
+  queued-interact:
+    activate-message: "Du hebst deine Spitzhacke..."

@@ -1,0 +1,7 @@
+name: telekinesis
+description: Ermöglicht es von der Ferne mit Objekten zu interagieren.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+weapons: []

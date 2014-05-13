@@ -1,0 +1,11 @@
+name: Lokalisierung
+description: 'Mit Rechtsklick auf einem Kompass zeigt dieser dir den Namen und die Richtung des Spielers an, welcher dir am nähesten ist.'
+skill: locate
+range:
+  base: 250
+  path-level-modifier: 2.0
+cooldown:
+  base: 120
+resources:
+  mana:
+    base: 10

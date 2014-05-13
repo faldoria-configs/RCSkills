@@ -1,0 +1,7 @@
+name: parry
+description: Hat die Chance einen Angriff zu parrieren.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+weapons: []

@@ -1,0 +1,6 @@
+name: woodcutting
+description: Macht das Holzfällen spannender und effektiver
+max-level: 10
+enabled: true
+hidden: false
+level: 1

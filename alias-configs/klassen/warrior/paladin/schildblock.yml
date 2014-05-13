@@ -1,0 +1,10 @@
+name: Schildspezialisierung
+description: ' Dein Schild blockt die nächste physische Attacke zu 100%. Benötigt ein ausgeüstets Schild. '
+skill: shield-block
+max-level: 100
+custom:
+  block-chance:
+    base: 0.60
+  block-value:
+    base: 1.0
+  exp-per-block: 10

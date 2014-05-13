@@ -1,0 +1,6 @@
+name: brewing
+description: Reguliert das Brauen von Tränken
+max-level: 10
+enabled: true
+hidden: false
+level: 1

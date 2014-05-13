@@ -1,0 +1,17 @@
+name: Schmettern
+description: ' Schmettert dem Gegner heiliges Licht entgegen und fügt heiligen Schaden zu. '
+skill: magic-bolt
+range:
+  base: 20
+custom:
+  default-attack: true
+  element: light
+  knockback: true
+damage:
+  base: 57
+  path-level-modifier: 13
+resources:
+  mana:
+    mana-base-modifier: 0.01
+  stamina:
+    base: 1

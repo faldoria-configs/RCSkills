@@ -1,0 +1,7 @@
+name: ore-finder
+description: Dein Gespür verrät dir ob Erze in der Nähe zu finden sind.
+max-level: 10
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

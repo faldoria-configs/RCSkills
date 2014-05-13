@@ -1,0 +1,7 @@
+name: Chatprefix Krieger
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.warrior
+

@@ -1,0 +1,6 @@
+name: Alchemie II
+beschreibung: Ermöglicht es spezielle Gegenstände im Kessel herzustellen.
+skill: permission
+custom:
+  global:
+    - craftbook.cauldron.use

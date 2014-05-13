@@ -1,0 +1,13 @@
+name: Axtwurf
+description: 'Wirft eine Axt in deine Blickrichtung. Wenn du dein Ziel triffst wird dieses zu dir herangezogen.'
+skill: pull
+range:
+  base: 30
+resources:
+  rage:
+    base: 15
+  stamina:
+    base: 5
+damage:
+  base: 87
+  path-level-modifier: 13

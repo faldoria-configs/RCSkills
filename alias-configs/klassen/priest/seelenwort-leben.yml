@@ -1,0 +1,16 @@
+﻿name: Seelenwort Leben
+description: ' Erhöht die Leben deiner Gruppe für 10min um 10%. '
+skill: buff
+range:
+  base: 25
+custom:
+  type: health
+effects:
+  health-buff:
+    activate-message: 'Leben wurden um 10% erhöht für 10min.'
+    deactivate-message: 'Seelenwort Leben ist ausgelaufen.'
+    duration:
+      base: 600
+    custom:
+      health:
+        base: 0.1

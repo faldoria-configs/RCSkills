@@ -1,0 +1,22 @@
+name: Lebensentzug
+description: 'Schadet dem Ziel und überträgt den zugefügten Schaden als Heilung auf den Zauberer.'
+skill: magic-bolt
+custom:
+  life-leech:
+    base: 0.25
+    path-level-modifier: 0.01
+    cap: 1.0
+damage:
+  base: 91
+  path-level-modifier: 1.0
+cooldown:
+  base: 22
+casttime:
+  base: 2.0
+range:
+  base: 30
+resources:
+  mana:
+    mana-base-modifier: 0.05
+  stamina:
+    base: 1

@@ -1,0 +1,16 @@
+name: Feuerwand
+description: 'Lässt eine Feuerwand am Zielort entstehen. '
+skill: firewall
+levelable: false
+cooldown:
+  base: 15
+range:
+  base: 30
+resources:
+  mana:
+    mana-base-modifier: 0.03
+  stamina:
+    base: 1
+custom:
+  width:
+    base: 5

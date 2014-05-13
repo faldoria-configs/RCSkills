@@ -1,0 +1,7 @@
+name: Chatprefix Kleriker
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.cleric
+

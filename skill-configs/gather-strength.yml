@@ -1,0 +1,6 @@
+name: gather-strength
+description: Wenn deine leben unter 35% fallen heilst du dich um einen Prozentsatz.
+max-level: 10
+enabled: true
+level: 1
+hidden: false

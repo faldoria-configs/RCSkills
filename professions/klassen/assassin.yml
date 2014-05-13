@@ -1,0 +1,72 @@
+name: Assassine
+description: Default description
+tag: ASS
+parent: rogue
+max-level: 30
+formula: secundary
+skills:
+  prefix-assassine:
+    level: 1
+  schattenstich:
+    level: 1
+  hinterhalt:
+    level: 1
+  ausweiden:
+    level: 3
+  gifte:
+    level: 5
+  tritt:
+    level: 7
+  dolchfaecher:
+    level: 10
+  zerreissen:
+    level: 13
+  nierenhieb:
+    level: 15
+  schattenschritt:
+    level: 17
+  solarplexus:
+    level: 20
+  mantel-der-schatten:
+    level: 23
+  gunst-der-schatten:
+    level: 25
+  schattentanz:
+    level: 30
+requirements:
+  profession-level:
+    rogue:
+      profession: rogue
+      level: 30
+resources:
+  energy:
+    name: Energie
+    types:
+    - experience
+    default: 0
+    max:
+      base: 100
+    min: 0
+    in-combat-regen:
+      base: 1
+      percent: false
+    out-of-combat-regen:
+      base: 1
+      percent: false
+    interval: 
+      base: 0.1
+  combopoints:
+    name: Kombopunkte
+    types: 
+      - scoreboard
+    default: 0
+    max:
+      base: 5
+    min: 0
+    regen:
+      base: 0.0
+    interval:
+      base: 60
+    color:
+      filled: DARK_RED
+      unfilled: DARK_GRAY

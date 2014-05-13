@@ -1,0 +1,29 @@
+name: Ruhestein
+skill: warp
+castable: false
+hidden: true
+custom:
+  x: 32
+  y: 75
+  z: 128
+  yaw: 63.14987
+  pitch: 90
+  world: world
+  bed-spawn: true
+custom:
+  x: -1238
+  y: 125
+  z: -312
+  yaw: -90
+  pitch: 143
+  world: lobby
+  bed-spawn: true
+casttime:
+  base: 10
+cooldown:
+  base: 1800
+effects:
+  immobilize:
+    name: Ruhestein
+    duration:
+      base: 10

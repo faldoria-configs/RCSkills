@@ -1,0 +1,27 @@
+name: Bergarbeiter
+description: 'Den Bergarbeitern der Gegenden von Azuran wohnt eine große wirtschaftliche sowie kulturelle Rolle inne. So stellen die Bergarbeiter nicht nur einen Großteil der verfügbaren Rohstoffe, sondern spielten auch immer eine bedeutende Rolle beim Roden und Planieren von Landschaften.'
+tag: BEA
+max-level: 60
+formula: beruf
+exp-money-conversion-rate:
+  base: 0.0001
+skills:
+  augenmas:
+    level: 1
+  bergbau:
+    level: 3
+  sisyphoss:
+    level: 5
+  goldwaescher:
+    level: 10
+  berg-recycler:
+    level: 14
+  superbreaker:
+    level: 18
+  schwarzauge:
+    level: 22
+  petrologie:
+    level: 34
+health:
+  base: 20
+  level-modifier: 0.0

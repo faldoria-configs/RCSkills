@@ -1,0 +1,6 @@
+name: bloodlust
+description: Erhöht deinen Schaden mit jedem erlittenen Treffer.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

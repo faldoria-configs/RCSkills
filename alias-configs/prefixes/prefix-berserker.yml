@@ -1,0 +1,7 @@
+name: Chatprefix Berserker
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.berserker
+

@@ -1,0 +1,7 @@
+name: 'Bürgermeister'
+skill: permission
+custom:
+  world:
+    - rccities.skill.mayor
+    - rccities.sign.jointown.build
+    - rccities.sign.townbank.build

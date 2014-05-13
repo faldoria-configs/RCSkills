@@ -1,0 +1,13 @@
+name: Angler
+description: 'Es besteht die Wahrscheinlichkeit gleich 2 Fische am Haken zu haben. Manchmal jedoch hängt auch etwas anderes am Haken.'
+skill: special-drop
+custom:
+  fishing:
+    WATER:
+      tool: FISHING_ROD
+      drops:
+        fish:
+          exp: 12
+          chance:
+            base: 0.05
+            skill-level-modifier: 0.0025

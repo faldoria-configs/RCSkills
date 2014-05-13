@@ -1,0 +1,15 @@
+name: Wuetender Schlag
+description: ' Du schlägst mit 2 Äxten gleichzeitig zu und verursachst den doppelten Schaden. '
+skill: improved-strike
+weapons:
+  - axe
+custom:
+  damage:
+    base: 2.0
+cooldown:
+  base: 6
+resources:
+  rage:
+    base: 20
+  stamina:
+    base: 5

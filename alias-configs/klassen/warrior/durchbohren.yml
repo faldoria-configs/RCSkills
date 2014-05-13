@@ -1,0 +1,29 @@
+name: Durchbohren
+description: ' Durchbohrt den Gegener, ignoriert alle Rüstung und lässt ihn für 9s alle 1.5s für 21 Schaden bluten. '
+skill: strike
+weapons:
+  - sword
+  - axe
+  - polearm
+  - mace
+custom:
+  ignore-armor: true
+  bleed: true
+resources:
+  stamina:
+    base: 7
+cooldown:
+  base: 12
+damage:
+  base: 61
+  path-level-modifier: 13
+  weapon-damage: true
+effects:
+  bleed:
+    duration:
+      base: 9
+    interval:
+      base: 1.5
+    damage:
+      base: 21
+      path-level-modifier: 0.5

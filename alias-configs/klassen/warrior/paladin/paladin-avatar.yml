@@ -1,0 +1,23 @@
+name: Avatar des Lichts
+description: ' Verwandelt dich für 15 Sekunden in einen Avatar des Lichts: '
+skill: avatar
+custom:
+  type: paladin
+cooldown:
+  base: 180
+resources:
+  mana:
+    mana-base-modifier: 0.075
+  stamina:
+    base: 5
+effects:
+  paladin-avatar:
+    custom:
+      health-increase:
+        base: 0.25
+      damage-reduction:
+        base: 0.10
+      heal-percentage:
+        base: 0.10
+    duration:
+      base: 20

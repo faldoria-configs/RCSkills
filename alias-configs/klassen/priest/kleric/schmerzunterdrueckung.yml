@@ -1,0 +1,17 @@
+name: Schmerzunterdrückung
+description: 'Verringert allen erlittenen Schaden eines Gruppenmitglieds um 60% für 8s.'
+skill: pain-supression
+custom:
+  reduction:
+    base: 0.60
+cooldown:
+  base: 180
+resouces:
+  mana:
+    mana-base-modifier: 0.06
+effects:
+  pain-supression:
+    duration:
+      base: 8
+range:
+  base: 25

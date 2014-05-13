@@ -1,0 +1,14 @@
+name: 'Blutrüstung'
+description: 'Beschwört eine regenerative Rüstung für den Blutmagier hinauf, die alle 5s 1% der maximalen Leben des Blutmagiers wiederherstellt. Es kann immer nur eine Rüstung aktiv sein.'
+skill: buffing-armor
+custom:
+  resource: 'health'
+  resource-regain:
+    from-max: true
+    health-modifier: 0.025
+  types:
+    - RESOURCE_REGAIN
+effects:
+  buffing-armor:
+    interval:
+      base: 5

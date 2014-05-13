@@ -1,0 +1,21 @@
+name: 'Fluch der Schwäche'
+description: 'Belegt im Umkreis von 25m alle Gegner mit einem Fluch der Schwäche, der den Schaden um 15% verringert.'
+skill: curse
+custom:
+  type: weakness
+  damage-reduction:
+    base: 0.15
+cooldown:
+  base: 30
+range:
+  base: 25
+resources:
+  mana:
+    mana-base-modifier: 0.03
+  stamina:
+    base: 1
+effects:
+  curse:
+    name: 'Fluch der Schwäche'
+    duration:
+      base: 30

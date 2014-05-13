@@ -1,0 +1,8 @@
+name: instant-growth
+description: Lässt Pflanzen um den Benutzer sofort voll auswachsen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+linked-skills: {}
+weapons: []

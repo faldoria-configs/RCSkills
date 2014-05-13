@@ -1,0 +1,8 @@
+name: flame-cloak
+description: Verursacht an Gegnern in Reichweite Schaden.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

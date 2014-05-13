@@ -1,0 +1,15 @@
+name: Blitzgewitter
+description: 'Läst am Zielort ein Blitzgewitter entstehen, welches den verursachten Schaden auf alle betroffenen Gegner aufteilt.'
+skill: lightning-storm
+cooldown:
+  base: 30
+resources:
+  mana:
+    mana-base-modifier: 0.05
+  stamina:
+    base: 1
+range:
+  base: 10
+damage:
+  base: 75
+  path-level-modifier: 13

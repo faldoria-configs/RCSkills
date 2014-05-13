@@ -1,0 +1,11 @@
+﻿name: Verbesserte Alchemie
+description: 'Ermöglicht das Brauen von verbesserten Tränken.'
+skill: brewing
+custom:
+  ingredients:
+    331:
+      exp: 5
+      level: 1
+    348:
+      exp: 5
+      level: 1

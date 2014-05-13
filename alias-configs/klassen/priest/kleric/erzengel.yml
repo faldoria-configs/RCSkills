@@ -1,0 +1,22 @@
+name: Erzengel
+description: 'Der Priester ruft einen schützenden Erzengel zu Hilfe, der das Ziel für 20s schützt. Wenn ein Ziel mit Erzengel sterben würde wird der Erzengel Buff entfernt und das Ziel um 60% seiner Leben geheilt. Während ein Ziel vom Erzengel geschützt ist erhält es 25% mehr Heilung und der Priester erhält für jeden Heilzauber auf dem Ziel 50% der Manakosten des Heilzaubers zurück. Wenn der Erzengel Buff endet und das Ziel keinen tödlichen Treffer erhalten hat, wird die Abklingkeit von Erzengel auf 1min reduziert.'
+skill: arch-angel
+custom:
+  death-heal-amount:
+    base: 0.60
+  bonus-heal-amount:
+    base: 0.25
+  resource: mana
+  resource-bonus:
+    base: 0.50
+  cooldown-reduction:
+    base: 60.0
+cooldown:
+  base: 180
+range:
+  base: 25
+resources:
+  mana:
+    mana-base-modifier: 0.075
+  stamina:
+    base: 1

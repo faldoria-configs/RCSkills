@@ -1,0 +1,7 @@
+name: Chatpräfix Assassine
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.assassin
+

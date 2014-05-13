@@ -1,0 +1,5 @@
+name: interrupt
+priority: 1.0
+enabled: true
+damage:
+  base: 0

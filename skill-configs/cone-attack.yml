@@ -1,0 +1,6 @@
+name: cone-attack
+description: Kegelförmiger Zauber mit einigen Effekten.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

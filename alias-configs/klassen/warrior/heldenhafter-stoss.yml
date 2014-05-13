@@ -1,0 +1,24 @@
+name: Heldenhafter Stoss
+description: ' Du schlägst dein Ziel mit voller Wucht und stößt es dabei zurück. '
+skill: strike
+weapons:
+  - sword
+  - axe
+  - polearm
+  - mace
+cooldown:
+  base: 5
+resources:
+  stamina:
+    base: 7
+damage:
+  base: 89
+  path-level-modifier: 13
+  weapon-damage: true
+custom:
+  knockback: true
+effects:
+  knockback:
+    custom:
+      power: 1.75
+      interrupt: true

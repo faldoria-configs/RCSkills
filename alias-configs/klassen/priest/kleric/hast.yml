@@ -1,0 +1,19 @@
+name: Hast
+description: 'Erhöht für 12s die Bewegungsgeschwindigkeit der Gruppe um 60%.'
+skill: buff
+custom:
+  type: haste
+  group: true
+cooldown:
+  base: 45
+resources:
+  mana:
+    mana-base-modifier: 0.015
+  stamina:
+    base: 1
+range:
+  base: 10
+effects:
+  haste-buff:
+    duration:
+      base: 12

@@ -1,0 +1,6 @@
+name: Chatpräfix NewEden
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.neweden

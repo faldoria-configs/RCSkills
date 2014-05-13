@@ -1,0 +1,22 @@
+name: Laeuterung
+description: ' Läutert dein Ziel und heilt dich und deine Gruppe um 1% + 0.02* des erlittenen Schadens für 8s. '
+skill: purification
+cooldown:
+  base: 24
+resources:
+  mana:
+    mana-base-modifier: 0.025
+  stamina:
+    base: 3
+damage:
+  base: 73
+  path-level-modifier: 1
+  weapon-damage: true
+effects:
+  purification:
+    custom:
+      heal-percent:
+        base: 0.01
+        path-level-modifier: 0.001
+    duration:
+      base: 12

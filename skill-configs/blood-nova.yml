@@ -1,0 +1,7 @@
+name: blood-nova
+description: Verursacht Schaden basierend auf der Entfernung von der Mitte der Nova.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+weapons: []

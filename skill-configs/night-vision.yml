@@ -1,0 +1,7 @@
+name: night-vision
+description: Verleit dem Zaubernden einen Nachtsichttrank.
+max-level: 10
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

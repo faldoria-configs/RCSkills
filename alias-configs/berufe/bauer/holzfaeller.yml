@@ -1,0 +1,11 @@
+name: Holzfäller
+description: '0,1 % Chance pro Level beim Holzabbau einen Doppeldropp zu erhalten.'
+skill: double-drop
+exp:
+  base: 7
+custom:
+  chance:
+    base: 0.0
+    skill-level-modifier: 0.01
+  blocks:
+    - 17

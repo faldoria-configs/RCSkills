@@ -1,0 +1,11 @@
+name: weakness
+priority: 1.0
+enabled: true
+damage:
+  base: 0
+  level-modifier: 0.0
+  prof-level-modifier: 0.0
+duration:
+  base: 0.0
+  level-modifier: 0.0
+  prof-level-modifier: 0.0

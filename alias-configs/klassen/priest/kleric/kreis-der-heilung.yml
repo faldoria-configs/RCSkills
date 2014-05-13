@@ -1,0 +1,15 @@
+name: Kreis der Heilung
+description: 'Heilt alle Gruppenmitglieder im Umkreis von 10m.'
+skill: area-heal
+damage:
+  base: 201
+  path-level-modfier: 1
+range:
+  base: 10
+casttime:
+  base: 1.5
+resources:
+  mana:
+    mana-base-modifier: 0.04
+  stamina:
+    base: 1

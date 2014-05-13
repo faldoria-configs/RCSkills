@@ -1,0 +1,11 @@
+name: Kleiner Phasenwechsel
+description: '6 Erze in deiner Hand verflüssigen sich und werden zu reinen Barren.'
+skill: convert-items
+custom:
+  amount:
+    base: 6
+  items:
+    14: 266
+    15: 265
+cooldown:
+  base: 300

@@ -1,0 +1,16 @@
+name: Gezielter Schuss
+description: ' Wenn du deinen Bogen komplett spannst, verursacht der nächste Schuss mehr Schaden. '
+skill: aimed-shot
+weapons:
+  - bow
+resources:
+  stamina:
+    base: 1
+effects:
+  aimed-shot:
+    duration:
+      base: 15
+damage:
+  base: 121
+  path-level-modifier: 13
+  weapon-damage: true

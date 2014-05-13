@@ -1,0 +1,6 @@
+name: web-trap
+description: Lässt beim Aufprall des Pfeils Spinnennetze entstehen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

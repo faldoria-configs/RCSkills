@@ -1,0 +1,7 @@
+name: volley
+description: Schießt einen Pfeilreigen ab der alles im Umkreis mit Pfeilen eindeckt.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+weapons: []

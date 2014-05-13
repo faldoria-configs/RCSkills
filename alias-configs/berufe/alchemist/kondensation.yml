@@ -1,0 +1,64 @@
+name: Kondensation
+description: 'Die Flasche in deiner Hand, füllt sich spontan mit einem Trank.'
+skill: conjure
+custom:
+  min-items: 1
+  max-items: 1
+  items:
+    '373:8194':
+      amount: 1
+      chance:
+        base: 0.10
+        skill-level-modifier: 0.01
+        cap: 0.20
+      level: 1
+      exp: 35
+    # night vision I 3:00
+    '373:8198':
+      amount: 1
+      chance:
+        base: 0.10
+        skill-level-modifier: 0.01
+        cap: 0.20
+      level: 1
+      exp: 35
+    # fire resistance I 3:00
+    '373:8195':
+      amount: 1
+      chance:
+        base: 0.075
+        skill-level-modifier: 0.01
+        cap: 0.175
+      level: 10
+      exp: 43
+    # strength I 3:00
+    '373:8201':
+      amount: 1
+      chance:
+        base: 0.05
+        skill-level-modifier: 0.01
+        cap: 0.15
+      level: 15
+      exp: 75
+    # regeneration I 0:45
+    '373:8193':
+      amount: 1
+      chance:
+        base: 0.025
+        skill-level-modifier: 0.025
+        cap: 0.15
+      level: 20
+      exp: 81
+    # instant health I
+    '373:8197':
+      amount: 1
+      chance:
+        base: 0.01
+        skill-level-modifier: 0.05
+        cap: 0.10
+      level: 25
+      exp: 101
+cooldown:
+  base: 420
+reagents:
+  glass_bottle: 1

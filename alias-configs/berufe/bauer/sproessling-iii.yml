@@ -1,0 +1,9 @@
+name: SprösslingIII
+description: 'Im Umkreis von 6 Blöcken, reifen gepflanzte Produkte sofort heran.'
+skill: instant-growth
+range:
+  base: 6
+reagents:
+  bonemeal: 6
+cooldown:
+  base: 360

@@ -1,0 +1,6 @@
+description: A default strike with many custom options.
+name: strike
+max-level: 10
+level: 1
+hidden: false
+weapons: []

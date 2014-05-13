@@ -1,0 +1,16 @@
+name: Dolchfächer
+description: ' Verursacht Schaden an allen Gegnern in einem Umkreis von 5m. Baut einen Combopunkt auf. '
+skill: area-attack
+weapons:
+  - dagger
+custom:
+  knockback: true
+damage:
+  base: 61
+  path-level-modifier: 13
+  weapon-damage: true
+resources:
+  energy:
+    base: 30
+  combopoints:
+    base: -1

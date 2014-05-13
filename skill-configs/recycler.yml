@@ -1,0 +1,6 @@
+name: recycler
+description: Es besteht die Chance Materialien aus kaputten Items zu gewinnen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

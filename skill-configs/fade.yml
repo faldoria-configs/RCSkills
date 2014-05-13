@@ -1,0 +1,7 @@
+name: fade
+description: Verblasst und erhöht die Ausweichenchance.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+weapons: []

@@ -1,0 +1,10 @@
+name: Gunst der Schatten
+description: 'Wenn du eine Combo-Attacke ausführst hast du eine Chance von 20% je Combopunkt 25 Energie wiederherzustellen.'
+skill: resource-conversion
+custom:
+  using-resource: combopoints
+  gaining-resource: energy
+  chance-per-resource:
+    base: 0.20
+  amount:
+    base: 25

@@ -1,0 +1,8 @@
+name: arch-angel
+description: Beschützt das Ziel vor dem sicheren Tod.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

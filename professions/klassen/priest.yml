@@ -1,0 +1,114 @@
+name: Priester
+tag: PRI
+description: Der Priester übt sich im Element des Lichts und vermag es, Verbündete im Kampf durch Heilzauber und Gebete zu unterstützen.
+max-level: 30
+formula: primary
+childs:
+- cleric
+- bloodmage
+skills:
+  prefix-priest:
+    level: 1
+  schmettern:
+    level: 1
+  erneuerung:
+    level: 5
+  seelenwort-leben:
+    level: 5
+  schattenwort-schmerz:
+    level: 10
+  blitzheilung:
+    level: 15
+  entrinnen:
+    level: 20
+  gedankenschinden:
+    level: 25
+  gebet-der-heilung:
+    level: 30
+resources:
+  mana:
+    name: Mana
+    types:
+    - EXPERIENCE
+    default: 0
+    base:
+      base: 100
+      path-level-modifier: 19.75
+    max:
+      intellect-attr-modifier: 13
+    min: 0
+    in-combat-regen:
+      percent: false
+      mana-base-modifier: 0.05
+      spirit-attr-modifier: 0.25
+    out-of-combat-regen:
+      percent: true
+      base: 0.01
+      mana-base-modifier: 0.05
+      spirit-attr-modifier: 0.001
+    interval:
+      base: 5
+    usage-delay:
+      base: 5
+  stamina:
+    name: Kondition
+    types:
+    - stamina
+    default: 0
+    min: 0
+    max:
+      base: 20
+      stamina-attr-modifier: 0.05
+    in-combat-regen:
+      base: 0.1
+    out-of-combat-regen:
+      base: 0.1
+    interval:
+      base: 3
+  health:
+    name: Leben
+    out-of-combat-regen:
+      percent: true
+      from-max: true
+      base: 0.025
+    interval:
+      base: 5
+attributes:
+  stamina:
+    base-value:
+      base: 13
+      path-level-modifier: 1
+  agility:
+    base-value:
+      base: 5
+      path-level-modifier: 0.25
+  strength:
+    base-value:
+      base: 9
+      path-level-modifier: 0.25
+    damage-modifiers:
+      PHYSICAL: 0.5
+      DEFAULT_ATTACK: 0.1
+  intellect:
+    base-value:
+      base: 13
+      path-level-modifier: 1
+    damage-modifiers:
+      MAGICAL: 2.0
+  spirit:
+    base-value:
+      base: 17
+      path-level-modifier: 1.5
+health:
+  base: 190
+  prof-level-modifier: 10.5
+  path-level-modifier: 9.0
+  stamina-attr-modifier: 10
+allowed-armor:
+  CLOTH: 1
+allowed-weapons:
+  MACE: 1
+  STAFF: 1
+  magic_wand: 1
+  dagger: 1
+color: GRAY

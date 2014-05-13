@@ -1,0 +1,20 @@
+name: Aufzucht
+description: 'Aus dem Ei in deiner Hand wird zu 50%-100% ein Huhn. Mit 10%-45% Wahrscheinlichkeit schlüft aus dem selben Ei noch ein zweites, mit 5%-20% ein drittes Huhn.'
+skill: chicken-farm
+exp:
+  base: 11
+custom:
+  1:
+    base: 0.5
+    skill-level-modifier: 0.01
+    cap: 1.0
+  2:
+    base: 0.10
+    skill-level-modifier: 0.0025
+    cap: 0.45
+  3:
+    base: 0.05
+    skill-level-modifier: 0.001
+    cap: 0.20
+cooldown:
+  base: 60

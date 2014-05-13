@@ -1,0 +1,12 @@
+﻿name: 'Kräuteranbau'
+description: 'Chance von 0.1% pro Level auf einen Doppeldrop bei Pflanzen.'
+skill: double-drop
+exp:
+  base: 11
+custom:
+  chance:
+    base: 0.0
+    skill-level-modifier: 0.01
+  blocks:
+    - 37
+    - 38

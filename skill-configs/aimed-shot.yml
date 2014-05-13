@@ -1,0 +1,8 @@
+name: aimed-shot
+description: Verursacht extra Schaden wenn der Bogen ganz gespannt wurde.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

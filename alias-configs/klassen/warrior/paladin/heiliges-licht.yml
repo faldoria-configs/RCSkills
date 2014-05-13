@@ -1,0 +1,17 @@
+name: Heiliges Licht
+description: ' Heilt dich selbst oder dein Ziel oder verursacht den selben Schaden an Monstern. '
+skill: heal
+custom:
+  damage-monster: true
+cooldown:
+  base: 5
+resources:
+  mana:
+    mana-base-modifier: 0.05
+damage:
+  base: 104
+  path-level-modifier: 2
+casttime:
+  base: 0.5
+range:
+  base: 20

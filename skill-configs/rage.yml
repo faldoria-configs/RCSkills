@@ -1,0 +1,6 @@
+name: rage
+description: Regeneriert Wut wenn im Kampf.
+max-level: 10
+enabled: true
+level: 1
+hidden: false

@@ -1,0 +1,8 @@
+name: purification
+description: Läutert dein Ziel so dass es dich und deine Gruppe um den erlittenen Schaden heilt.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+linked-skills: {}
+weapons: []

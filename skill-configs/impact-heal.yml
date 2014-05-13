@@ -1,0 +1,6 @@
+name: impact-heal
+description: Heilt das freundliche Ziel welches am nächsten der Schadensquelle steht.
+max-level: 10
+enabled: true
+level: 1
+hidden: false

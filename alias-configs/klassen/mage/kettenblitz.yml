@@ -1,0 +1,25 @@
+name: Kettenblitz
+description: 'Lässt einen Kettenblitz von Gegner zu Gegner springen. Der Schaden wird dabei bei jedem Sprung um 10% verringert. Kann 3 mal überspringen.'
+skill: chain-lightning
+custom:
+  jumps:
+    base: 5
+  reduction-per-jump:
+    base: 0.1
+  jump-range: 7
+range:
+  base: 25
+cooldown:
+  base: 17
+damage:
+  base: 132
+  path-level-modifier: 13
+resources:
+  mana:
+    mana-base-modifier: 0.035
+  stamina:
+    base: 1
+effects:
+  chain-lightning:
+    duration:
+      base: 5

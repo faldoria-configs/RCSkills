@@ -1,0 +1,40 @@
+name: Feuermagier
+description: Default description
+tag: FEU
+max-level: 30
+formula: secundary
+skills:
+  prefix-feuermagier:
+    level: 1
+  feuerball:
+    level: 1
+  meteor-feuer:
+    level: 3
+  feuerwand:
+    level: 5
+  lebende-bombe:
+    level: 7
+  flammenschlag:
+    level: 10
+  pyroschlag:
+    level: 13
+  lohenbeschwoerung:
+    level: 15
+  flammenmantel:
+    level: 17
+  flammender-eifer:
+    level: 20
+  geysir-feuer:
+    level: 23
+  lavapeitsche:
+    level: 25
+  meteorschauer:
+    level: 30
+requirements:
+  profession-level:
+    mage:
+      profession: mage
+      level: 30
+health:
+  base: 20
+  level-modifier: 0.0

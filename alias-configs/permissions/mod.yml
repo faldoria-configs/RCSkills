@@ -1,0 +1,47 @@
+name: Moderator
+skill: permission
+custom:
+  global:
+    - admintools.*
+    - antiguest.*
+    - chestcopy.use
+    - citizens.admin.*
+    - commandbook.*
+    - craftbook.*
+    - dragontravelplus.*
+    - enderchest.admin
+    - iConomy.*
+    - inventorylogger.*
+    - killlogger.*
+    - loot.*
+    - lwc.admin.remove
+    - logblock.lookup
+    - lwc.mod
+    - petition.moderate
+    - petition.moderator    
+    - rcachievements.*
+    - rcachievements.admin
+    - rcchat.channels.team
+    - rcchat.prefix.moderator
+    - rccities.mod
+    - rcinvcleaner.ignore
+    - rcregions.*
+    - rcregions.mod
+    - rcregions.notify
+    - rcwarn.*
+    - vanish.standard
+    - vanish.toggle.all
+    - worldguard.*
+    - worldedit.*    
+    - rcmultiworld.tp
+    - rcmultiworld.return
+    - schematichelper.use
+    - dragontravelplus.warp
+    - multiverse.access.*
+    - rcmultiworld.tp
+    - rcregions.info.worldguard
+    - prism.wand.*
+    - prism.lookup
+    - rcfarm.admin
+    - signedit.color.use
+    - rcgraveyards.admin

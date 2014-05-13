@@ -1,0 +1,8 @@
+name: shot
+description: Schiesst einen Pfeil mit extra Fähigkeiten ab.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+linked-skills: {}
+weapons: []

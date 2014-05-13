@@ -1,0 +1,7 @@
+name: Chatprefix Totenbeschwörer
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.necromancer
+

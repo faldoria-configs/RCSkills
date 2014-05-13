@@ -1,0 +1,7 @@
+name: stealth
+description: Du schwindest in die Schatten und wirst für eine Zeit unsichtbar.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

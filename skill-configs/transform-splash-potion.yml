@@ -1,0 +1,6 @@
+name: transform-splash-potion
+description: Verwandelt einen normalen Trank in einen Wurftrank.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

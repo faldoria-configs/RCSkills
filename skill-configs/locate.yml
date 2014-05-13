@@ -1,0 +1,6 @@
+name: locate
+description: Der Compass zeigt auf den Spieler der am nächsten ist.
+max-level: 10
+enabled: true
+level: 1
+hidden: false

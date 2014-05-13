@@ -1,0 +1,8 @@
+name: Admin
+skill: permission
+custom:
+  global:
+    - worldguard.blacklist.admin
+  freebuild:
+    - plotme.admin
+    - plotme.admin.weanywhere

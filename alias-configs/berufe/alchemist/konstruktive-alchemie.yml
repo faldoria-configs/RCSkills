@@ -1,0 +1,23 @@
+﻿name: Konstruktive Alchemie
+description: 'Ermöglicht das Brauen von stärkenden Tränken.'
+skill: brewing
+custom:
+  ingredients:
+    353:
+      exp: 5
+      level: 1
+    370:
+      exp: 5
+      level: 1
+    372:
+      exp: 5
+      level: 1
+    377:
+      exp: 5
+      level: 1
+    378:
+      exp: 5
+      level: 1
+    382:
+      exp: 5
+      level: 1

@@ -1,0 +1,6 @@
+name: Braustandzugriff
+skill: permission
+hidden: true
+custom:
+  global:
+    - antiguest.preventions.brew

@@ -1,0 +1,20 @@
+name: Stille
+description: 'Unterbricht den aktuellen Zauber des Ziels und verhindert alle Zauber für 5s.'
+skill: magic-bolt
+custom:
+  silence: true
+resources:
+  mana:
+    mana-base-modifier: 0.03
+  stamina:
+    base: 1
+cooldown:
+  base: 30
+range:
+  base: 20
+effects:
+  silence:
+    duration:
+      base: 5
+    custom:
+      interrupt: true

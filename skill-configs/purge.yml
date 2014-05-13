@@ -1,0 +1,7 @@
+name: purge
+description: Entfernt einen positiven Effekt von einem Gegner oder einen negativen Effekt von einem Gruppenmitglied.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

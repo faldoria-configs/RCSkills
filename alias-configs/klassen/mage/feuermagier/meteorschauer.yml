@@ -1,0 +1,19 @@
+name: Meteorschauer
+description: ' Lässt 5 Meteoren vom Himmel regnen. '
+skill: meteor
+levelable: false
+range:
+  base: 30
+cooldown:
+  base: 50
+resources:
+  mana:
+    mana-base-modifier: 0.065
+  stamina:
+    base: 1
+damage:
+  base: 50
+  path-level-modifier: 13
+custom:
+  amount:
+    base: 5

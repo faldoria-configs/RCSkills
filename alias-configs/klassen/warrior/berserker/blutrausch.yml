@@ -1,0 +1,13 @@
+name: Blutrausch
+description: ' Wenn du innerhalb von 5s Schaden erleidest erhältst du einen Stapel Blutrausch dazu. Max. Stapel = 5. '
+skill: bloodlust
+effects:
+  bloodlust:
+    custom:
+      max-stacks: 5
+      damage-increase:
+        base: 0.05
+      attack-increase:
+        base: 0.05
+    duration:
+      base: 10

@@ -1,0 +1,13 @@
+name: Schwarzauge
+description: 'Du kannst für 1-5 Minuten im Dunkeln sehen.'
+skill: night-vision
+cooldown:
+  base: 600
+effects:
+  night-vision:
+    duration:
+      base: 60
+      prof-level-modifier: 4
+      cap: 300
+reagents:
+  glowstone_dust: 2

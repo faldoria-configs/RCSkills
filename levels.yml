@@ -1,0 +1,22 @@
+professions:
+  default:
+    type: wow
+    modifier: 100
+  primary:
+    type: wow
+    modifier: 100
+  secundary:
+    type: wow
+    modifier: 220
+  beruf:
+    type: wow
+    modifier: 46.7
+skills:
+  default:
+    type: mcmmo
+    base: 200
+    x: 225
+heroes:
+  default:
+    type: wow
+    modifier: 146.5

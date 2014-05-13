@@ -1,0 +1,22 @@
+name: Gedankenschinden
+description: ' Fügt dem Gegner Schaden zu und verlangsamt ihn um 60% für 9s. '
+skill: magic-bolt
+range:
+  base: 20
+cooldown:
+  base: 15
+damage:
+  base: 86
+  path-level-modifier: 13
+resources:
+  mana:
+    mana-base-modifier: 0.045
+  stamina:
+    base: 1
+custom:
+  slow: true
+effects:
+  slow:
+    duration:
+      base: 7
+    potion-amplifier: 4

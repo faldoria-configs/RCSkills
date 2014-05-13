@@ -1,0 +1,6 @@
+name: flash-freeze
+description: Friert die Erde rund um den Spieler in Eis ein.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

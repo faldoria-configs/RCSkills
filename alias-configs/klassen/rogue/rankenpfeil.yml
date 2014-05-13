@@ -1,0 +1,12 @@
+name: Rankenpfeil
+description: 'Lässt am Aufprallort eine Ranke bis zum Boden wachsen.'
+skill: vine-arrow
+custom:
+  duration:
+    base: 30
+  persistant: false
+cooldown:
+  base: 180
+resources:
+  stamina:
+    base: 1

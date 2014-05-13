@@ -1,0 +1,6 @@
+name: weapon-bonus
+description: Ermöglicht es mehr Schaden mit bestimmten Waffen zu verursachen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

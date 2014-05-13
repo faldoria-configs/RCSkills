@@ -1,0 +1,7 @@
+name: soul-leecher
+description: Verschiesst Witherköpfe und sammelt Seelen von den Opfern
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

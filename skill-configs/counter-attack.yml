@@ -1,0 +1,7 @@
+name: counter-attack
+description: Der nächste Schlag nach einer Parrade fügt zusätzlichen Schaden zu.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

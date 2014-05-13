@@ -1,0 +1,6 @@
+name: Konservierung
+description: 'Du kannst Pilzblöcke ganz abbauen, ohne Silk Touch nutzen zu müssen.'
+skill: silktouch
+custom:
+  blocks:
+    - 110

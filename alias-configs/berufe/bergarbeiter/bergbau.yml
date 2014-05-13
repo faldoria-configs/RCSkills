@@ -1,0 +1,25 @@
+name: Bergbau
+description: Ermöglicht die Chance von 0.1% pro Level einen Doppeldrop bei Erzen zu erhalten.
+skill: double-drop
+max-level: 100
+exp:
+  base: 5
+  path-level-modifier: 0.5
+custom:
+  tool: PICKAXE
+  chance:
+    base: 0.05
+    skill-level-modifier: 0.001
+    cap: 0.6
+  blocks:
+    - 1
+    - 14
+    - 15
+    - 16
+    - 21
+    - 24
+    - 56
+    - 73
+    - 74
+    - 129
+use-in-combat: false

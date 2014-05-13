@@ -1,0 +1,8 @@
+name: chain-lightning
+description: Lässt einen Blitz auf Nachbarn überspringen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+linked-skills: {}
+weapons: []

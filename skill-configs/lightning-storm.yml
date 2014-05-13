@@ -1,0 +1,8 @@
+name: lightning-storm
+description: Lässt ein Blitzgewitter auf deine Feinde herab regnen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+linked-skills: {}
+weapons: []

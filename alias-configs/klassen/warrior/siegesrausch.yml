@@ -1,0 +1,17 @@
+name: Siegesrausch
+description: ' Kann nur nach einem Todesstoﬂ verwendet werden. Heilt den Krieger um 25% seiner maximalen Leben. '
+skill: death-strike
+custom:
+  heal-amount:
+    from-max: true
+    health-modifier: 0.25
+damage:
+  base: 64
+  path-level-modifier: 1.0
+effects:
+  death-strike:
+    name: Siegesrausch
+    duration:
+      base: 10
+cooldown:
+  base: 25

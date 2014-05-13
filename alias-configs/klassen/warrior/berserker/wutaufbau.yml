@@ -1,0 +1,12 @@
+name: Wutregeneration
+description: 'Regenereiert Wut'
+skill: rage
+hidden: true
+effects:
+  rage:
+    rage-amount:
+      base: 3
+    rage-interval:
+      base: 3
+    rage-per-attack: 0.2
+    rage-per-damage: 0.1

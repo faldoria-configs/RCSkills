@@ -1,0 +1,20 @@
+name: 'Schattenwort: Schmerz'
+description: ' Belegt das Ziel für 15s mit dem Schattenwort: Schmerz und verursacht alle 1.5s Schaden. '
+skill: magic-bolt
+range:
+  base: 20
+resources:
+  mana:
+    mana-base-modifier: 0.025
+custom:
+  bleed: true
+effects:
+  bleed:
+    name: 'SW: Schmerz'
+    duration:
+      base: 15
+    interval:
+      base: 3
+    damage:
+      base: 31
+      path-level-modifier: 0.1

@@ -1,0 +1,22 @@
+name: Pyroschlag
+description: ' Verursacht für jeden Stack von Flammenschlag 25 zusätzlichen Schaden. '
+skill: pyroblast
+levelable: false
+range:
+  base: 20
+casttime:
+  base: 3.5
+resources:
+  mana:
+    mana-base-modifier: 0.05
+  stamina:
+    base: 1
+custom:
+  stack-damage:
+    base: 25
+    path-level-modifier: 0.25
+duration:
+  base: 20
+damage:
+  base: 71
+  path-level-modifier: 13

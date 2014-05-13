@@ -1,0 +1,15 @@
+name: Schildschlag
+description: ' Schlägt dein Ziel mit dem Schild und entfernt zwei positive Effekte. '
+skill: shield-bash
+custom:
+  purge: 2
+cooldown:
+  base: 6
+resources:
+  mana:
+    mana-base-modifier: 0.020
+  stamina:
+    base: 2
+damage:
+  base: 96
+  path-level-modifier: 13

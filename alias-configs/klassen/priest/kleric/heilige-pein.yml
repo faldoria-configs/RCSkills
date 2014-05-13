@@ -1,0 +1,17 @@
+name: Heilige Pein
+description: 'Verursacht heiligen Schaden und an Monstern den doppelten Schaden.'
+skill: magic-bolt
+custom:
+  entity-damage-bonus:
+    base: 77
+    path-level-modifier: 13
+damage:
+  base: 77
+  path-level-modifier: 1
+resources:
+  mana:
+    mana-base-modifier: 0.035
+range:
+  base: 20
+cooldown:
+  base: 3.0

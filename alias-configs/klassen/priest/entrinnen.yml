@@ -1,0 +1,17 @@
+name: Entrinnen
+description: 'Lässt den Priester verblassen und erhöht seine Ausweichchance um 75% für 8s.'
+skill: fade
+cooldown:
+  base: 30
+resources:
+  mana:
+    mana-base-modifier: 0.05
+  stamina:
+    base: 1
+custom:
+  evade-chance:
+    base: 0.75
+effects:
+  fade:
+    duration:
+      base: 8

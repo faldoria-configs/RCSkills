@@ -1,0 +1,5 @@
+name: Voxelsniper
+skill: permission
+custom:
+  world:
+    - voxelsniper.sniper

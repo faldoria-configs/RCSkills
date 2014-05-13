@@ -1,0 +1,8 @@
+name: shadow-cloak
+description: Entfernt alle schädlichen Effekte und macht dich immun gegen Zauber.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

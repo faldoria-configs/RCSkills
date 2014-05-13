@@ -1,0 +1,19 @@
+name: Seelenernter
+description: 'Verschießt einen Witherskull und belegt dein Ziel mit dem Wither-Effekt. Wenn dein Gegner mit dem Effekt stirbt erhältst du eine Seele. '
+skill: soul-leecher
+levelable: false
+custom:
+  resource: stamina
+damage:
+  base: 73
+  path-level-modifier: 13
+resources:
+  mana:
+    mana-base-modifier: 0.01
+  stamina:
+    base: 1
+effects:
+  soul-leecher:
+    name: Seelenernter
+    duration:
+      base: 15

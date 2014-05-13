@@ -1,0 +1,6 @@
+name: armor
+description: Erlaubt es spezielle Rüstungen zu tragen.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

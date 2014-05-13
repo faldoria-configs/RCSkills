@@ -1,0 +1,8 @@
+name: rampage
+description: Versetzt dich in einen Wutanfall und generiert sofort die max. Anzahl an Blutrausch Stacks.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

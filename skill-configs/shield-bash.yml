@@ -1,0 +1,7 @@
+name: shield-bash
+description: Zieht deinem Ziel mit voller Wucht eins mit dem Schild drüber.
+max-level: 10
+enabled: true
+hidden: false
+level: 1
+weapons: []

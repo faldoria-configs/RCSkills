@@ -1,0 +1,13 @@
+name: Recycler
+description: 'Du hast eine Chance einen Eisenbarren aus einer kaputten Spitzhacke zu erhalten.'
+skill: recycler
+max-level: 100
+custom:
+  items:
+    iron_pickaxe:
+      item: IRON_INGOT
+      amount: 1
+      chance:
+        base: 0.0175
+        bergarbeiter-modifier: 0.001
+        cap: 0.05

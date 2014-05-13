@@ -1,0 +1,7 @@
+name: death-strike
+description: Heilt den Benutzter um einen Teil der Leben. Kann nur nach einem Todestoß genutzt werden.
+max-level: 10
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

@@ -1,0 +1,15 @@
+name: Hieb
+description: ' Verpasst deinem Gegner einen heftigen Schlag. '
+skill: strike
+weapons:
+  - sword
+  - axe
+  - polearm
+  - mace
+resources:
+  stamina:
+    base: 1
+damage:
+  base: 45
+  path-level-modifier: 13
+  weapon-damage: true

@@ -1,0 +1,28 @@
+name: Schmied
+description: 'Schmiede können Gegenstände reparieren, sowie Rüstungen und Waffen herstellen und verbessern.'
+tag: SCH
+max-level: 60
+formula: beruf
+exp-money-conversion-rate:
+  base: 0.0001
+skills:
+  schmelzer:
+    level: 1
+  einschmelzen:
+    level: 3
+  flicken:
+    level: 7
+  ausbesser:
+    level: 12
+  phasenwechsel:
+    level: 15
+  reflexe:
+    level: 19
+  wiederherstellen:
+    level: 27
+  schmelze:
+    level: 34
+  metallurgie:
+    level: 44
+health:
+  base: 20

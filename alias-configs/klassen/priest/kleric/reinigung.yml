@@ -1,0 +1,10 @@
+name: Reinigung
+description: 'Entfernt einen negativen Effekt von einem Gruppenmitglied oder einen postiven Effekt von einem Gegner.'
+skill: purge
+resources:
+  mana:
+    mana-base-modifier: 0.05
+  stamina:
+    base: 1
+range:
+  base: 25

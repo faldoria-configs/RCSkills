@@ -1,0 +1,9 @@
+name: Rasende Wut
+description: 'Je niedriger deine Leben um so höher die Chance(0.0025*-%HP) bei einem Angriff einen extra Schlag zu landen.'
+skill: bonus-strike
+custom:
+  chance:
+    health-percent-modifier: -1.0
+    base: 1.0
+cooldown:
+  base: 2.5

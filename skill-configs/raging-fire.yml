@@ -1,0 +1,6 @@
+name: raging-fire
+description: Verringert die Zauberzeit des nächsten Feuerzaubers nach einem Feuerball.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

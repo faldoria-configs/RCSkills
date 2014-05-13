@@ -1,0 +1,23 @@
+name: 'Giftatem'
+description: 'Der Nekromant atmet kegelförmig aus und vergiftet alle getroffenen Gegner.'
+skill: cone-cast
+custom:
+  poison: true
+cooldown:
+  base: 45
+damage:
+  base: 69
+  path-level-modifier: 13
+range:
+  base: 5
+resources:
+  mana:
+    mana-base-modifier: 0.025
+effects:
+  poison:
+    damage:
+      base: 27
+    interval:
+      base: 2
+    duration:
+      base: 20

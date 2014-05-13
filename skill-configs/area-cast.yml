@@ -1,0 +1,6 @@
+name: area-cast
+description: Standard Attacke um den Zauberer herum.
+max-level: 10
+enabled: true
+hidden: false
+level: 1

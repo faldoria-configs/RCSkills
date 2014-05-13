@@ -1,0 +1,14 @@
+﻿name: Destruktive Alchemie
+description: 'Ermöglicht das Brauen von giftigen Tränken.'
+skill: brewing
+custom:
+  ingredients:
+    372:
+      exp: 5
+      level: 1
+    376:
+      exp: 5
+      level: 1
+    375:
+      exp: 5
+      level: 1

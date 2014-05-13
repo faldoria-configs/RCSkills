@@ -1,0 +1,19 @@
+name: Erneuerung
+description: ' Erneuert die Lebensenergie von einem Gruppenmitglied oder dem Priester für 12s. '
+skill: heal-over-time
+range:
+  base: 25
+resources:
+  mana:
+    mana-base-modifier: 0.015
+  stamina:
+    base: 1
+effects:
+  heal-over-time:
+    name: 'Erneuerung'
+    duration:
+      base: 12
+    interval:
+      base: 2
+    damage:
+      base: 27

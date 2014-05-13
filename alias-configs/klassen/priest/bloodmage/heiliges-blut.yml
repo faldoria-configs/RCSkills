@@ -1,0 +1,10 @@
+name: Heiliges Blut
+description: 'Immer wenn der Blutmagier Leben verliert (auch durch eigene Zauber) wird die Gruppe des Blutmagiers (nicht er selbst) um 10% + 0.1%/* der verlorenen Leben geheilt.'
+skill: holy-blood
+custom:
+  heal-amount:
+    base: 0.10
+    path-level-modifier: 0.001
+  resource-damage: true
+range:
+  base: 25

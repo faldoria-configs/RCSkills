@@ -1,0 +1,6 @@
+name: 'Stärkende Seele'
+description: 'Jedes mal wenn du ein Ziel mit dem Debuff Geschwächte Seele heilst, wird die Dauer des Debuffs um 2s verringert.'
+skill: strong-soul
+custom:
+  cooldown-reduction:
+    base: 2.0

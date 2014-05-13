@@ -1,0 +1,94 @@
+name: Schurke
+description: Der Schurke versteht sich auf das Brauen von Giften und ist auf den heimlichen Angriff aus dem Schatten spezialisiert.
+tag: SCH
+childs:
+- assassin
+- hunter
+max-level: 30
+formula: primary
+skills:
+  prefix-rogue:
+    level: 1
+  schattenschlag:
+    level: 1
+  schleichen:
+    level: 1
+  pfeilbeschwoerung:
+    level: 3
+  todesstoss:
+    level: 5
+  gezielter-schuss:
+    level: 7
+  geschicklichkeit:
+    level: 10
+  schurke-entwaffnen:
+    level: 20
+  dunkler-stich:
+    level: 25
+  verkrueppelnder-schuss:
+    level: 25
+resources:
+  stamina:
+    name: Kondition
+    types:
+    - stamina
+    default: 0
+    min: 0
+    max:
+      base: 20
+      stamina-attr-modifier: 0.05
+    in-combat-regen:
+      base: 0.1
+    out-of-combat-regen:
+      base: 0.1
+    interval:
+      base: 3
+  health:
+    name: Leben
+    out-of-combat-regen:
+      percent: true
+      from-max: true
+      base: 0.025
+    interval:
+      base: 5
+attributes:
+  strength:
+    base-value:
+      base: 7
+      path-level-modifier: 0.75
+    damage-modifiers:
+      PHYSICAL: 1.0
+  agility:
+    base-value:
+      base: 17
+      path-level-modifier: 1.5
+    damage-modifiers:
+      PHYSICAL: 2.0
+      DEFAULT_ATTACK: 0.1
+  stamina:
+    base-value:
+      base: 14
+      path-level-modifier: 1
+  intellect:
+    base-value:
+      base: 9
+      path-level-modifier: 0.75
+  spirit:
+    base-value:
+      base: 5
+      path-level-modifier: 0.5
+health:
+  base: 280
+  prof-level-modifier: 12.5
+  path-level-modifier: 9.0
+  stamina-attr-modifier: 10
+allowed-armor:
+  CLOTH: 1
+  LEATHER: 1
+allowed-weapons:
+  dagger: 1
+  sword: 1
+  mace: 1
+  axe: 1
+  bow: 1
+color: GRAY

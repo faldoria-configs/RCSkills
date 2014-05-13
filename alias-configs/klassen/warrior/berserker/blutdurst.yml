@@ -1,0 +1,15 @@
+name: Blutdurst
+description: ' Heilt dich basierend auf der Menge deiner Wut um (Wut*1.0+0.05*).'
+skill: bloodthirst
+custom:
+  resource: rage
+  heal:
+    base: 1.0
+    path-level-modifier: 0.005
+  min:
+    base: 20
+cooldown:
+  base: 30
+resources:
+  stamina:
+    base: 5

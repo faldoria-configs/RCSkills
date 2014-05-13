@@ -1,0 +1,8 @@
+name: blood-strike
+description: Zerfetzt deinen Gegner mit all deiner Wut.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

@@ -1,0 +1,29 @@
+name: Frostnova
+description: 'Lässt die Erde rund um den Magier zu Eis werden und friert alle Betroffenen 4s am Boden fest.'
+skill: frostnova
+range:
+  base: 7
+cooldown:
+  base: 20
+damage:
+  base: 56
+  path-level-modifier: 0.1
+resources:
+  mana:
+    mana-base-modifier: 0.03
+  stamina:
+    base: 1
+effects:
+  immobilize:
+    duration:
+      base: 4
+visual-effects:
+  CAST:
+    1:
+      type: particle
+      effect: snowballpoof
+      amount: 10
+      shape: circle
+      radius: 7
+      height: 1
+      hollow: false

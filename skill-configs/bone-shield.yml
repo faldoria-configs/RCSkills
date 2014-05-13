@@ -1,0 +1,7 @@
+name: bone-shield
+description: Schütz das Ziel mit Knochen
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+weapons: []

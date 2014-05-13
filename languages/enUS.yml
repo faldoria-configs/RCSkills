@@ -1,0 +1,5 @@
+pvp:
+  cooldown: 'You need to wait {1} until you can toggle your pvp status.'
+  toggled: 'PvP has been {1}.'
+  enabled: 'enabled'
+  disabled: 'disabled'

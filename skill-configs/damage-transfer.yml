@@ -1,0 +1,7 @@
+name: damage-transfer
+description: Transferiert genommenen Schaden vom Ziel auf den Zaubernden.
+max-level: 10
+enabled: true
+level: 1
+hidden: false
+weapons: []
