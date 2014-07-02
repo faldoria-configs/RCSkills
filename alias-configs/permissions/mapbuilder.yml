@@ -14,6 +14,7 @@ custom:
     - commandbook.teleport
     - commandbook.weather 
     - commandbook.spawn
+    - commandbook.time.player
     - craftbook.ic.restricted.0210
     - craftbook.ic.restricted.1200
     - craftbook.ic.restricted.1201

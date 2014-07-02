@@ -1,0 +1,5 @@
+pvp:
+  enabled: enabled.
+  toggled: PvP has been enabled.
+  disabled: disabled.
+  cooldown: You need to wait 5.49s until you can toggle your PvP status.

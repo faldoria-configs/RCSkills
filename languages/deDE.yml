@@ -1,5 +1,8 @@
 pvp:
-  cooldown: 'Du kannst dein PvP Status erst in {1} umschalten.'
-  toggled: 'PvP wurde {1}.'
+  cooldown: 'Du kannst dein PvP Status erst in %s umschalten.'
+  toggled: 'PvP wurde %s.'
   enabled: 'eingeschaltet'
   disabled: 'ausgeschaltet'
+commands:
+  skill:
+    add: 'Du hast %s$1 den Skill %s$2 (%s$3) zugeteilt.'

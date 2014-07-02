@@ -18,9 +18,15 @@ custom:
     - logblock.lookup
     - lwc.mod
     - petition.moderate
-    - petition.moderator    
-    - rcachievements.*
-    - rcachievements.admin
+    - petition.moderator
+    - rcachievements.achievement.create
+    - rcachievements.achievement.enable
+    - rcachievements.achievement.disable
+    - rcachievements.achievement.give
+    - rcachievements.achievement.remove
+    - rcachievements.cmd.listall
+    - rcachievement.achievement.teleport
+    - rcachievements.reload
     - rcchat.channels.team
     - rcchat.prefix.moderator
     - rccities.mod
@@ -45,3 +51,4 @@ custom:
     - rcfarm.admin
     - signedit.color.use
     - rcgraveyards.admin
+    - rcconversation.*

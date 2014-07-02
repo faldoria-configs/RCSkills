@@ -118,3 +118,6 @@ custom:
     - rccities.player
     - antiguest.preventions.spam
     - rcskills.admin.debug
+    - rcachievements.cmd.top
+    - rcachievements.cmd.list
+    - rcskills.hero.allow-level-above-treshhold

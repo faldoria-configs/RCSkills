@@ -5,3 +5,13 @@ custom:
   health-cost: 0.25
 cooldown:
   base: 20
+effects:
+  bloodlust:
+    custom:
+      max-stacks: 5
+      damage-increase:
+        base: 0.05
+      attack-increase:
+        base: 0.05
+    duration:
+      base: 10

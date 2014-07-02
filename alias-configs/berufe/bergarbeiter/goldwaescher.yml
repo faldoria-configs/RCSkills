@@ -19,6 +19,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 10
                 profession: bergarbeiter
         cocoa:
@@ -28,6 +29,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 20
                 profession: bergarbeiter
         BROWN_MUSHROOM:
@@ -37,6 +39,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 30
                 profession: bergarbeiter
         RED_MUSHROOM:
@@ -46,6 +49,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 40
                 profession: bergarbeiter
         diamond:
@@ -55,6 +59,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 50
                 profession: bergarbeiter
         green_record:
@@ -73,6 +78,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 70
                 profession: bergarbeiter
         smaragd:
@@ -82,6 +88,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 85
                 profession: bergarbeiter
     GRASS:
@@ -98,6 +105,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 10
                 profession: bergarbeiter
         cocoa:
@@ -107,6 +115,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 20
                 profession: bergarbeiter
         BROWN_MUSHROOM:
@@ -116,6 +125,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 30
                 profession: bergarbeiter
         RED_MUSHROOM:
@@ -125,6 +135,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 40
                 profession: bergarbeiter
         diamond:
@@ -134,6 +145,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 50
                 profession: bergarbeiter
         green_record:
@@ -143,6 +155,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 60
                 profession: bergarbeiter
         gold_record:
@@ -152,6 +165,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 70
                 profession: bergarbeiter
         smaragd:
@@ -161,6 +175,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 85
                 profession: bergarbeiter
     SAND:
@@ -173,6 +188,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 10
                 profession: bergarbeiter
         soul_sand:
@@ -182,6 +198,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 25
                 profession: bergarbeiter
         diamond:
@@ -191,6 +208,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 50
                 profession: bergarbeiter
         green_record:
@@ -200,6 +218,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 60
                 profession: bergarbeiter
         gold_record:
@@ -209,6 +228,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 70
                 profession: bergarbeiter
         smaragd:
@@ -218,6 +238,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 85
                 profession: bergarbeiter
     GRAVEL:
@@ -238,6 +259,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 15
                 profession: bergarbeiter
         gunpowder:
@@ -247,6 +269,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 25
                 profession: bergarbeiter
         diamond:
@@ -256,6 +279,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 50
                 profession: bergarbeiter
         green_record:
@@ -265,6 +289,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 60
                 profession: bergarbeiter
         gold_record:
@@ -274,6 +299,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 70
                 profession: bergarbeiter
         smaragd:
@@ -283,6 +309,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 85
                 profession: bergarbeiter
     CLAY_BLOCK:
@@ -303,6 +330,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 10
                 profession: bergarbeiter
         slimeball:
@@ -312,6 +340,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 15
                 profession: bergarbeiter
         string:
@@ -321,6 +350,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 20
                 profession: bergarbeiter
         bucket:
@@ -330,6 +360,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 25
                 profession: bergarbeiter
         clock:
@@ -339,6 +370,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 30
                 profession: bergarbeiter
         cobweb:
@@ -348,6 +380,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 40
                 profession: bergarbeiter
         diamond:
@@ -357,6 +390,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 50
                 profession: bergarbeiter
         green_record:
@@ -366,6 +400,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 60
                 profession: bergarbeiter
         gold_record:
@@ -375,6 +410,7 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 70
                 profession: bergarbeiter
         smaragd:
@@ -384,5 +420,6 @@ custom:
           requirements:
             skill-level:
               goldwaescher:
+                skill: goldwaescher
                 level: 85
                 profession: bergarbeiter

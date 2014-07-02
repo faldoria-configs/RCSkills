@@ -38,3 +38,4 @@ requirements:
 health:
   base: 20
   level-modifier: 0.0
+color: GRAY

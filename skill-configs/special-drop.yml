@@ -1,6 +1,6 @@
 name: special-drop
 description: Ermöglicht es spezielle Items in abgebauten Blöcken zu finden.
 max-level: 10
-enabled: true
+enabled: false
 hidden: false
 level: 1

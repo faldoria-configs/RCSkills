@@ -8,6 +8,7 @@ exp:
   path-level-modifier: 0.05
 custom:
   exp-per-damage: 0.025
-  bow:
-    cap: 0.6
-    weapon-bow-modifier: 0.01
+  weapons:
+    bow:
+      cap: 0.6
+      weapon-bow-modifier: 0.01

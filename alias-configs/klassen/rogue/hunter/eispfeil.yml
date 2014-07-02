@@ -1,6 +1,7 @@
 name: Eispfeil
 description: ' Deine Pfeile vereisen den Gegner für 7s, wodurch seine Bewegungsgeschwindigkeit verringert wird. '
 skill: shot
+levelable: false
 weapons:
   - bow
 custom:

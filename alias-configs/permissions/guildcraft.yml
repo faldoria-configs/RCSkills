@@ -5,16 +5,23 @@ custom:
     - rcportals.portal.use.lobby_guildcraft
     - rcportals.portal.use.lobby_dungeon
     - rcportals.portal.use.lobby_guildcraftwar
+    - rcportals.portal.use.lobby_guildcraftwar
     - rcportals.portal.use.lobby_nether
     - multiverse.teleport.self.guildcraft
     - multiverse.teleport.self.guildcraftwar
+    - multiverse.teleport.self.old_dungon
     - multiverse.teleport.self.dungeon
     - multiverse.teleport.self.nether
     - multiverse.teleport.self.w
     - multiverse.access.nether
     - multiverse.access.guildcraftwar
+    - multiverse.access.old_dungeon
     - multiverse.access.guildcraft
     - multiverse.access.dungeon
+    - multiverse.core.list.worlds
+    - commandbook.flight.toggle
+    - commandbook.flight.toggle.other
+    - commandbook.time
   dungeon:
     - admintools.*
     - antiguest.*

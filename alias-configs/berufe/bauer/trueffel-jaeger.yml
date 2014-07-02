@@ -1,4 +1,5 @@
 name: Trüffel Jäger
+disabled: false
 skill: special-drop
 max-level: 100
 description: 'Du hast eine Chance beim Erde umgraben Karotten, Kartoffeln und Pilze zu finden.'
@@ -37,7 +38,8 @@ custom:
             base: 0.0005
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 60
                 profession: bergarbeiter
         gold_record:
@@ -46,7 +48,8 @@ custom:
             base: 0.0005
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 70
                 profession: bergarbeiter
         smaragd:
@@ -55,7 +58,8 @@ custom:
             base: 0.0001
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 85
                 profession: bergarbeiter
     GRASS:
@@ -71,7 +75,8 @@ custom:
             base: 0.05
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 10
                 profession: bergarbeiter
         'dye:3':
@@ -80,7 +85,8 @@ custom:
             base: 0.0133
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 20
                 profession: bergarbeiter
         BROWN_MUSHROOM:
@@ -89,7 +95,8 @@ custom:
             base: 0.005
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 30
                 profession: bergarbeiter
         RED_MUSHROOM:
@@ -98,7 +105,8 @@ custom:
             base: 0.005
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 40
                 profession: bergarbeiter
         diamond:
@@ -107,7 +115,8 @@ custom:
             base: 0.0013
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 50
                 profession: bergarbeiter
         green_record:
@@ -116,7 +125,8 @@ custom:
             base: 0.0005
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 60
                 profession: bergarbeiter
         gold_record:
@@ -125,7 +135,8 @@ custom:
             base: 0.0005
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 70
                 profession: bergarbeiter
         smaragd:
@@ -134,7 +145,8 @@ custom:
             base: 0.0001
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 85
                 profession: bergarbeiter
     SAND:
@@ -146,7 +158,8 @@ custom:
             base: 0.05
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 10
                 profession: bergarbeiter
         soul_sand:
@@ -155,7 +168,8 @@ custom:
             base: 0.01
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 25
                 profession: bergarbeiter
         diamond:
@@ -164,7 +178,8 @@ custom:
             base: 0.0013
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 50
                 profession: bergarbeiter
         green_record:
@@ -173,7 +188,8 @@ custom:
             base: 0.0005
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 60
                 profession: bergarbeiter
         gold_record:
@@ -182,7 +198,8 @@ custom:
             base: 0.0005
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 70
                 profession: bergarbeiter
         smaragd:
@@ -191,7 +208,8 @@ custom:
             base: 0.0001
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 85
                 profession: bergarbeiter
     GRAVEL:
@@ -211,7 +229,8 @@ custom:
             base: 0.05
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 15
                 profession: bergarbeiter
         gunpowder:
@@ -220,7 +239,8 @@ custom:
             base: 0.01
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 25
                 profession: bergarbeiter
         diamond:
@@ -229,7 +249,8 @@ custom:
             base: 0.0013
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 50
                 profession: bergarbeiter
         green_record:
@@ -238,7 +259,8 @@ custom:
             base: 0.0005
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 60
                 profession: bergarbeiter
         gold_record:
@@ -247,7 +269,8 @@ custom:
             base: 0.0005
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 70
                 profession: bergarbeiter
         smaragd:
@@ -256,6 +279,7 @@ custom:
             base: 0.0001
           requirements:
             skill-level:
-              goldwaescher:
+              trueffel-jaeger:
+                skill: trueffel-jaeger
                 level: 85
                 profession: bergarbeiter

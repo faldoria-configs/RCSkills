@@ -23,6 +23,7 @@ interface:
   updateinterval: 20
 hero:
   max-level: 100
+  level-treshhold: 10
 paths:
   skill-configs: skill-configs/
   alias-configs: alias-configs/

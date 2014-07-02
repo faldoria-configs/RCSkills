@@ -1,0 +1,10 @@
+commands:
+  max-out: All skills and classes of %s have been maxed out.
+  skill:
+    add: You gave {1} the skill {2} ({3}).
+    duplicate: The player already has the skill.
+pvp:
+  disabled: disabled.
+  toggled: PvP has been disabled.
+hero:
+  reached-level-treshhold: §cDu musst dich freischalten lassen (http://rc-mc.eu/bewerbung) um über Level %s zu leveln.

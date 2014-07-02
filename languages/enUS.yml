@@ -1,5 +1,8 @@
 pvp:
-  cooldown: 'You need to wait {1} until you can toggle your pvp status.'
-  toggled: 'PvP has been {1}.'
+  cooldown: 'You need to wait %s until you can toggle your pvp status.'
+  toggled: 'PvP has been %s.'
   enabled: 'enabled'
   disabled: 'disabled'
+commands:
+  skill:
+    add: 'You gave %s$1 the skill %s$2 (%s$3).'
