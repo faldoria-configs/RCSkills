@@ -22,4 +22,4 @@ range:
 effects:
   knockback:
     custom:
-      power: 0.4
+      power: 0.9
