@@ -36,9 +36,9 @@ blocks:
   Stone: 3
   Sandstone: 3
   Glowstone: 3
-  '16': 10
-  '73': 15
-  '74': 15
+  Coal_Ore: 10
+  Redstone_Ore: 15
+  Lit_Redstone_Ore: 15
   Ender_Stone: 15
   Obsidian: 15
   Iron_Ore: 25

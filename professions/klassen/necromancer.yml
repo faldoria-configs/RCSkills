@@ -1,5 +1,5 @@
 name: Totenbeschwörer
-description: Default description
+description: Der Nekromant beschwört durch dunkle Magie gefährliche Kreaturen aus dem Nether, die für ihn kämpfen.
 tag: NEK
 max-level: 30
 formula: secundary

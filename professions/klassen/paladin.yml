@@ -1,5 +1,5 @@
 name: Paladin
-description: default stuff
+description: Der Paladin dient als defensive, vorderste Fronteinheit.
 tag: PAL
 max-level: 30
 formula: secundary

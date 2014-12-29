@@ -11,9 +11,9 @@ skills:
   member:
     level: 5
   eat-and-drink:
-    level: 5
+    level: 1
   ruhestein:
-    level: 5
+    level: 1
 allowed-armor: {}
 allowed-weapons: {}
 color: GRAY

@@ -1,5 +1,5 @@
 name: Krieger
-description: Default description
+description: Der Krieger ist die Grundklasse des direkten Angriffs. 
 tag: KRI
 childs:
 - berserker

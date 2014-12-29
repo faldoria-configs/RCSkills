@@ -1,5 +1,5 @@
 name: Assassine
-description: Default description
+description: Der Assassine benutzt Gifte und Verwirrung, um Gegner kampfunfähig und so zu leichter Beute zu machen.
 tag: ASS
 parent: rogue
 max-level: 30
@@ -19,6 +19,8 @@ skills:
     level: 7
   dolchfaecher:
     level: 10
+  maskierung:
+    level: 12
   zerreissen:
     level: 13
   nierenhieb:

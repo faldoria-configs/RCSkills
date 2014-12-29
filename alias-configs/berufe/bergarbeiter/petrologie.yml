@@ -6,12 +6,17 @@ custom:
   blocks:
     - 56
     - 129
+  max-active-time:
+    base: 10
+    path-level-modifier: 2
+    cap: 600
 cooldown:
-  base: 120
+  base: 1200
 effects:
   ore-finder:
     interval:
-      base: 10
+      base: 1
 range:
   base: 15
   path-level-modifier: 1
+  cap: 30

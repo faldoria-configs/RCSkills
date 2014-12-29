@@ -3,3 +3,5 @@ skill: permission
 custom:
   world:
     - voxelsniper.sniper
+  dungeon:
+    - voxelsniper.sniper

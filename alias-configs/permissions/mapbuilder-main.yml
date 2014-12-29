@@ -8,6 +8,10 @@ custom:
     - commandbook.gamemode.change
     - commandbook.kit.kits.admin
     - commandbook.teleport
+    - commandbook.warp.set
+    - commandbook.warp.list
+    - commandbook.warp.remove
+    - commandbook.warp.teleport
     - commandbook.weather 
     - commandbook.spawn
     - commandbook.spawnmob.*
@@ -115,6 +119,14 @@ custom:
     - craftbook.mech.elevator
     - craftbook.mech.elevator.use
     - craftbook.mech.hiddenswitch 
+    - craftbook.mech.teleporter
+    - craftbook.mech.teleporter.use
+    - craftbook.mech.area.sign.area
+    - craftbook.mech.area.sign.savearea
+    - craftbook.mech.area.use
+    - craftbook.mech.area.save.self
+    - craftbook.mech.area.list.self
+    - craftbook.mech.area.delete.self
     - craftbook.mech.gate
     - craftbook.mech.dgate 
     - elevatorpro.build
@@ -134,3 +146,31 @@ custom:
     - rcpetition.admin
     - rcfarms.admin
     - rcregions.info.worldguard
+  dungeon:
+    - bukkit.command.give
+    - bukkit.command.time.add
+    - bukkit.command.time.set
+    - bukkit.command.gamemode
+    - bukkit.command.weather
+    - bukkit.command.kill
+    - commandbook.clear 
+    - commandbook.gamemode
+    - commandbook.gamemode.change
+    - commandbook.kit.kits.admin
+    - commandbook.teleport
+    - commandbook.warp.set
+    - commandbook.warp.list
+    - commandbook.warp.remove
+    - commandbook.warp.teleport
+    - commandbook.weather 
+    - commandbook.spawn
+    - commandbook.spawnmob.*
+    - commandbook.time.player
+    - worldguard.*
+    - worldedit.*
+    - skulls.get
+    - rcmultiworld.tp
+    - rcmultiworld.return
+    - signedit.color.use
+    - rchome.home.everywhere
+    - rchome.cmd.sethome

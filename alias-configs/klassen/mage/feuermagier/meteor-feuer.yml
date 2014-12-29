@@ -13,4 +13,7 @@ resources:
   mana:
     mana-base-modifier: 0.03
   stamina:
+    base: 
+custom:
+  amount:
     base: 1

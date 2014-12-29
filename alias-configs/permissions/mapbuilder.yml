@@ -6,12 +6,16 @@ custom:
     - multiverse.teleport.self.dungeon
     - multiverse.access.dungeon
   dungeon:
-    - admintools.*
+    - admintools.admin
     - commandbook.clear 
     - commandbook.gamemode
     - commandbook.gamemode.change
     - commandbook.kit.kits.admin
     - commandbook.teleport
+    - commandbook.warp.set
+    - commandbook.warp.list
+    - commandbook.warp.remove
+    - commandbook.warp.teleport
     - commandbook.weather 
     - commandbook.spawn
     - commandbook.time.player
@@ -118,15 +122,23 @@ custom:
     - craftbook.mech.elevator
     - craftbook.mech.elevator.use
     - craftbook.mech.hiddenswitch 
+    - craftbook.mech.teleporter
+    - craftbook.mech.teleporter.use
+    - craftbook.mech.area.sign.area
+    - craftbook.mech.area.sign.savearea
+    - craftbook.mech.area.use
+    - craftbook.mech.area.save.self
+    - craftbook.mech.area.list.self
+    - craftbook.mech.area.delete.self
     - craftbook.mech.gate
-    - craftbook.mech.dgate 
+    - craftbook.mech.dgate
     - elevatorpro.build
     - rcchat.prefix.mapbuilder
     - worldguard.*
     - worldedit.*
     - rchome.home.everywhere
     - rchome.cmd.sethome
-    - antiguest.preventions.itemframe
+    - antiguest.*
     - schematichelper.use
     - dragontravelplus.warp
     - multiverse.access.*

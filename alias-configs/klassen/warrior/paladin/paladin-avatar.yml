@@ -2,7 +2,7 @@ name: Avatar des Lichts
 description: 'Verwandelt dich für 20 Sekunden in einen Avatar des Lichts:'
 usage:
   - 'Erhöht die Leben um 25%'
-  - 'Verringert des erlittenen Schaden um 10%'
+  - 'Verringert den erlittenen Schaden um 10%'
   - 'Erhöht die erhaltene Heilung um 10%'
 skill: avatar
 custom:

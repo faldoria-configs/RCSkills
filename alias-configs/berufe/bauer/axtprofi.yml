@@ -1,6 +1,6 @@
 name: Axtprofi
 description: 'Der anvisierte Baum wird mit einem Schlag abgebaut.'
-skill: recursive-block-break
+skill: woodcutting
 custom:
   tools:
     - WOOD_AXE
@@ -8,13 +8,15 @@ custom:
     - IRON_AXE
     - GOLD_AXE
     - DIAMOND_AXE
-  allowed-blocks:
-    - 17
   max-amount:
     base: 5
     path-level-modifier: 0.25
+  leave-radius:
+    base: 4
+    path-level-modifier: 0.1
+    cap: 6
 cooldown:
-  base: 300
+  base: 1
 effects:
   queued-interact:
     activate-message: 'Du hebst deine Axt.'

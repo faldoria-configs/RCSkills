@@ -6,6 +6,12 @@ custom:
     - antiguest.*
     - chestcopy.use
     - citizens.admin.*
+    - bukkit.command.give
+    - bukkit.command.time.add
+    - bukkit.command.time.set
+    - bukkit.command.gamemode
+    - bukkit.command.weather
+    - bukkit.command.kill
     - commandbook.*
     - craftbook.*
     - dragontravelplus.*
@@ -44,11 +50,21 @@ custom:
     - schematichelper.use
     - dragontravelplus.warp
     - multiverse.access.*
+    - multiverse.core.confirm
+    - multiverse.core.coord
+    - multiverse.core.info
+    - multiverse.core.list.environments
+    - multiverse.core.list.who
+    - multiverse.core.list.worlds
+    - multiverse.teleport.self.*
+    - multiverse.teleport.other.*
     - rcmultiworld.tp
     - rcregions.info.worldguard
     - prism.wand.*
     - prism.lookup
+    - rcportals.portal.all
     - rcfarm.admin
     - signedit.color.use
     - rcgraveyards.admin
     - rcconversation.*
+    - voxelsniper.sniper

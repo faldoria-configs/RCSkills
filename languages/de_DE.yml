@@ -3,3 +3,7 @@ pvp:
   toggled: PvP has been enabled.
   disabled: disabled.
   cooldown: You need to wait 5.49s until you can toggle your PvP status.
+  msg-enabled: PvP has been enabled
+  msg-disabled: PvP has been disabled
+hero:
+  reached-level-treshhold: §cDu musst dich freischalten lassen (http://rc-mc.eu/bewerbung) um über Level %s zu leveln.
