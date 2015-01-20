@@ -1,5 +1,5 @@
 name: Sumpf
-description: 'Lässt deinen Gegner im Boden versinken und verlangsamt sein Bewegungstempo um 75% für 7s.'
+description: 'LÃ¤sst deinen Gegner im Boden versinken und verlangsamt sein Bewegungstempo um 75% fÃ¼r 7s.'
 skill: magic-bolt
 custom:
   slow: true
@@ -8,8 +8,6 @@ cooldown:
 resources:
   mana:
     mana-base-modifier: 0.035
-  stamina:
-    base: 1
 range:
   base: 20
 effects:
