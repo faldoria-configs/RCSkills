@@ -12,9 +12,6 @@ cooldown:
   base: 6
 custom:
   max-targets: 5
-resources:
-  stamina:
-    base: 6
 damage:
   base: 72
   path-level-modifier: 13

@@ -8,9 +8,6 @@ weapons:
   - mace
 custom:
   sunder-armor: true
-resources:
-  stamina:
-    base: 3
 damage:
   base: 52
   path-level-modifier: 1

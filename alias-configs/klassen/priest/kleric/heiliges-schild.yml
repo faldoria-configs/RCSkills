@@ -4,8 +4,6 @@ skill: holy-shield
 resources:
   mana:
     mana-base-modifier: 0.02
-  stamina:
-    base: 1
 range:
   base: 25
 effects:

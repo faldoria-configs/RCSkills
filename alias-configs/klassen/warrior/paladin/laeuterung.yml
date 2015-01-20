@@ -6,8 +6,6 @@ cooldown:
 resources:
   mana:
     mana-base-modifier: 0.025
-  stamina:
-    base: 3
 damage:
   base: 73
   path-level-modifier: 1

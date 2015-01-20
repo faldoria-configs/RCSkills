@@ -8,9 +8,6 @@ weapons:
   - mace
 cooldown:
   base: 5
-resources:
-  stamina:
-    base: 7
 damage:
   base: 89
   path-level-modifier: 13

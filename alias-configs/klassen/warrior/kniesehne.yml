@@ -8,9 +8,6 @@ weapons:
   - mace
 custom:
   slow: true
-resources:
-  stamina:
-    base: 6
 cooldown:
   base: 12
 damage:

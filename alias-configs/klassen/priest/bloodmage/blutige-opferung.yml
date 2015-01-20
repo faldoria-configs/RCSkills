@@ -11,7 +11,5 @@ resources:
     from-max: true
     health-modifier: 0.15
     path-level-modifier: 0.001
-  stamina:
-    base: 1
 cooldown:
   base: 21

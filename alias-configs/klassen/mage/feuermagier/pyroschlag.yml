@@ -9,8 +9,6 @@ casttime:
 resources:
   mana:
     mana-base-modifier: 0.05
-  stamina:
-    base: 1
 custom:
   stack-damage:
     base: 25

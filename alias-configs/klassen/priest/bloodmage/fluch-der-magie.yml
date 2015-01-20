@@ -12,8 +12,6 @@ resources:
   health:
     from-max: true
     health-modifier: 0.05
-  stamina:
-    base: 1
 effects:
   curse:
     duration:

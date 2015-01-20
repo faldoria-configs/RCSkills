@@ -5,9 +5,6 @@ weapons:
   - sword
 cooldown:
   base: 8
-resources:
-  stamina:
-    base: 3
 damage:
   base: 77
   path-level-modifier: 13

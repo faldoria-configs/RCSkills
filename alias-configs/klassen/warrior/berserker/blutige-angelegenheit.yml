@@ -10,9 +10,7 @@ cooldown:
   base: 12
 resources:
   rage:
-    base: 30
-  stamina:
-    base: 10
+    base: 300
 damage:
   base: 55
   path-level-modifier: 1.5

@@ -7,8 +7,6 @@ weapons:
 custom:
   weaken: true
 resources:
-  stamina:
-    base: 1
 damage:
   base: 67
   path-level-modifier: 13

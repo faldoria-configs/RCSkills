@@ -9,8 +9,6 @@ cooldown:
 resources:
   mana:
     mana-base-modifier: 0.015
-  stamina:
-    base: 1
 range:
   base: 10
 effects:

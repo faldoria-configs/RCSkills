@@ -13,5 +13,3 @@ damage:
 resources:
   mana:
     mana-base-modifier: 0.01
-  stamina:
-    base: 1

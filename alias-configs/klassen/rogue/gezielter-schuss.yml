@@ -4,8 +4,6 @@ skill: aimed-shot
 weapons:
   - bow
 resources:
-  stamina:
-    base: 1
 effects:
   aimed-shot:
     duration:

@@ -9,8 +9,6 @@ damage:
 resources:
   rage:
     base: 15
-  stamina:
-    base: 3
 cooldown:
   base: 30
 effects:

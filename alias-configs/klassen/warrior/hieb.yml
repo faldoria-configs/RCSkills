@@ -7,8 +7,6 @@ weapons:
   - polearm
   - mace
 resources:
-  stamina:
-    base: 1
 damage:
   base: 45
   path-level-modifier: 13

@@ -8,8 +8,6 @@ custom:
   bonus-damage:
     base: 67
 resources:
-  stamina:
-    base: 1
 damage:
   base: 54
   path-level-modifier: 13

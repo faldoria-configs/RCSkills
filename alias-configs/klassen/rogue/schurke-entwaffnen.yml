@@ -13,5 +13,3 @@ effects:
     duration:
       base: 7
 resources:
-  stamina:
-    base: 1

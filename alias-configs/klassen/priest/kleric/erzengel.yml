@@ -18,5 +18,3 @@ range:
 resources:
   mana:
     mana-base-modifier: 0.075
-  stamina:
-    base: 1

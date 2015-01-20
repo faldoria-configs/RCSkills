@@ -10,5 +10,3 @@ cooldown:
 resources:
   mana:
     mana-base-modifier: 0.05
-  stamina:
-    base: 1

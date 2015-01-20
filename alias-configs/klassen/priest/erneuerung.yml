@@ -6,8 +6,6 @@ range:
 resources:
   mana:
     mana-base-modifier: 0.015
-  stamina:
-    base: 1
 effects:
   heal-over-time:
     name: 'Erneuerung'

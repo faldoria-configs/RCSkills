@@ -8,5 +8,3 @@ custom:
 cooldown:
   base: 180
 resources:
-  stamina:
-    base: 1

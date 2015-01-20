@@ -6,8 +6,6 @@ cooldown:
 resources:
   mana:
     mana-base-modifier: 0.10
-  stamina:
-    base: 5
 effects:
   divine-shield:
     duration:

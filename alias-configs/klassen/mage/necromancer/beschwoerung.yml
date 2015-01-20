@@ -14,10 +14,7 @@ exp:
 resources:
   mana:
     mana-base-modifier: 0.05
-  stamina:
-    base: 1
 custom:
-  resource: stamina
   creatures:
     zombie:
       name: Zombie

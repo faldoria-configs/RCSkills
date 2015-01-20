@@ -9,8 +9,6 @@ custom:
 cooldown:
   base: 18
 resources:
-  stamina:
-    base: 1
 damage:
   base: 51
   path-level-modifier: 13

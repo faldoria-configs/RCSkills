@@ -8,8 +8,6 @@ cooldown:
 resources:
   mana:
     base: 5
-  stamina:
-    base: 1
 effects:
   gather-strength:
     custom:

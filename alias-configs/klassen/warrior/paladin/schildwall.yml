@@ -6,8 +6,6 @@ cooldown:
 resources:
   mana:
     mana-base-modifier: 0.04
-  stamina:
-    base: 3
 effects:
   shieldwall:
     custom:

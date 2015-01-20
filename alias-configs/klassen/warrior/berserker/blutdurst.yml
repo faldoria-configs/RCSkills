@@ -10,6 +10,3 @@ custom:
     base: 20
 cooldown:
   base: 30
-resources:
-  stamina:
-    base: 5

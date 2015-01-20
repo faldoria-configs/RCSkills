@@ -13,7 +13,5 @@ resources:
   health:
     from-max: true
     health-modifier: 0.10
-  stamina:
-    base: 1
 range:
   base: 10

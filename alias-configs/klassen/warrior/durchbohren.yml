@@ -9,9 +9,6 @@ weapons:
 custom:
   ignore-armor: true
   bleed: true
-resources:
-  stamina:
-    base: 7
 cooldown:
   base: 12
 damage:

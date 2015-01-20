@@ -9,8 +9,6 @@ resources:
   health:
     from-max: true
     health-modifier: 0.02
-  stamina:
-    base: 1
 effects:
   bleed:
     duration:

@@ -12,8 +12,6 @@ cooldown:
 resources:
   mana:
     mana-base-modifier: 0.075
-  stamina:
-    base: 5
 effects:
   paladin-avatar:
     custom:

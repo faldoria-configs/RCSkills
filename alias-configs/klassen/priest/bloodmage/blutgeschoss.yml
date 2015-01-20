@@ -12,8 +12,6 @@ resources:
   health:
     from-max: true
     health-modifier: 0.025
-  stamina:
-    base: 1
 visual-effects:
   LINE:
     red:

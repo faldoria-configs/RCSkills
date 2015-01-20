@@ -11,8 +11,6 @@ damage:
 resources:
   mana:
     mana-base-modifier: 0.045
-  stamina:
-    base: 1
 custom:
   slow: true
 effects:

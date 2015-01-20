@@ -8,8 +8,6 @@ cooldown:
 resources:
   mana:
     mana-base-modifier: 0.035
-  stamina:
-    base: 1
 casttime:
   base: 0.5
 damage:

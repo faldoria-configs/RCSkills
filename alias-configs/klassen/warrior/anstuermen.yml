@@ -9,8 +9,5 @@ effects:
   stun:
     duration:
       base: 2.5
-resources:
-  stamina:
-    base: 2
 range:
   base: 15
