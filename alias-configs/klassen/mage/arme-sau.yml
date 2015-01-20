@@ -6,8 +6,6 @@ custom:
 resources:
   mana:
     mana-base-modifier: 0.035
-  stamina:
-    base: 1
 range:
   base: 25
 cooldown:
