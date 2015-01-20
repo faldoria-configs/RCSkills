@@ -11,8 +11,6 @@ damage:
 resources:
   mana:
     mana-base-modifier: 0.03
-  stamina:
-    base: 1
 effects:
   immobilize:
     duration:
