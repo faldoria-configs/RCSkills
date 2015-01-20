@@ -50,21 +50,6 @@ resources:
       base: 5
     usage-delay:
       base: 5
-  stamina:
-    name: Kondition
-    types:
-    - stamina
-    default: 0
-    min: 0
-    max:
-      base: 20
-      stamina-attr-modifier: 0.05
-    in-combat-regen:
-      base: 0.1
-    out-of-combat-regen:
-      base: 0.1
-    interval:
-      base: 3
   health:
     name: Leben
     out-of-combat-regen:
