@@ -14,7 +14,7 @@ creature-health:
   Squid: 45
   Zombie: 310
   Wolf: 190
-  CaveSpider: 155
+  CAVE_SPIDER: 155
   Enderman: 235
   Ender_Dragon: 5000
   Silverfish: 76
@@ -37,7 +37,7 @@ creature-damage:
   Enderman: 70.0
   Skeleton: 27.0
   Spider: 16.0
-  CaveSpider: 20.0
+  CAVE_SPIDER: 20.0
   SnowMan: 0.0
   Iron_Golem: 200.0
   Ocelot: 30.0
