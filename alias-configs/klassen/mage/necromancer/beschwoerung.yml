@@ -109,7 +109,7 @@ custom:
       exp: 35
     giftspinne:
       name: Gift Spinne
-      type: CAVE_SPIDER
+      type: CaveSpider
       requirements:
         skill-level:
           summon:
