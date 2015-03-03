@@ -141,7 +141,7 @@ custom:
       exp: 50
     pigzombie:
       name: Schweine Zombie
-      type: PigZombie
+      type: PIG_ZOMBIE
       requirements:
         skill-level:
           summon:
