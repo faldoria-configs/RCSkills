@@ -12,8 +12,12 @@ skills:
     level: 1
   destruktive-alchemie:
     level: 5
+  zerbrechlicher-runenstein:
+    level: 7
   frostig:
     level: 11
+  geringer-runenstein:
+    level: 13
   bewusstessen:
     level: 15
   alchemie2:
@@ -22,20 +26,28 @@ skills:
     level: 17
   beizen:
     level: 20
+  runenstein:
+    level: 21
   kondensation:
     level: 24
+  glaenzender-runenstein:
+    level: 25
   klebetrank:
     level: 27
   konstruktive-alchemie:
     level: 33
   verpufft:
     level: 40
+  starker-runenstein:
+    level: 43
   mcblyver:
     level: 45
   granate:
     level: 50
   verbesserte-alchemie:
     level: 55
+  maechtiger-runenstein:
+    level: 60
 health:
   base: 20
   level-modifier: 0.0

@@ -1,0 +1,11 @@
+﻿name: Glänzender Runenstein
+description: 'Ermöglicht das Herstellen von Zerbrechlichen Runensteinen.'
+skill: runestone
+custom:
+  uses: 5
+  name: 'Glänzender Runenstein'
+  quality: 'RARE'
+cooldown:
+  base: 28800
+reagents:
+  redstone_block: 1

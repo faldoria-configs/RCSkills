@@ -1,0 +1,5 @@
+name: Runenstein Verwendung
+description: 'Erlaubt die Verwendung von Runensteinen.'
+skill: runestone-user
+cooldown:
+  base: 300

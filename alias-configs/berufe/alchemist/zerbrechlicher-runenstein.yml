@@ -1,0 +1,11 @@
+﻿name: Zerbrechlicher Runenstein
+description: 'Ermöglicht das Herstellen von Zerbrechlichen Runensteinen.'
+skill: runestone
+custom:
+  uses: 1
+  name: 'Zerbrechlicher Runenstein'
+  quality: 'POOR'
+cooldown:
+  base: 28800
+reagents:
+  redstone_block: 1

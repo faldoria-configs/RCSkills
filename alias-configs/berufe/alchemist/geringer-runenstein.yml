@@ -1,0 +1,11 @@
+﻿name: Geringer Runenstein
+description: 'Ermöglicht das Herstellen von Zerbrechlichen Runensteinen.'
+skill: runestone
+custom:
+  uses: 2
+  name: 'Geringer Runenstein'
+  quality: 'COMMON'
+cooldown:
+  base: 28800
+reagents:
+  redstone_block: 1

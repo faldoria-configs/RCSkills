@@ -1,0 +1,11 @@
+﻿name: Starker Runenstein
+description: 'Ermöglicht das Herstellen von Zerbrechlichen Runensteinen.'
+skill: runestone
+custom:
+  uses: 7
+  name: 'Starker Runenstein'
+  quality: 'EPIC'
+cooldown:
+  base: 28800
+reagents:
+  redstone_block: 1

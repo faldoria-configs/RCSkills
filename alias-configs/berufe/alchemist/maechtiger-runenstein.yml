@@ -1,0 +1,11 @@
+﻿name: Mächtiger Runenstein
+description: 'Ermöglicht das Herstellen von Zerbrechlichen Runensteinen.'
+skill: runestone
+custom:
+  uses: 10
+  name: 'Mächtiger Runenstein'
+  quality: 'LEGENDARY'
+cooldown:
+  base: 28800
+reagents:
+  redstone_block: 1
