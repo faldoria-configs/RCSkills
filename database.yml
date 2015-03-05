@@ -4,6 +4,6 @@ host: localhost
 port: 3306
 database: minecraft_main
 username: minecraft
-password: 'efnu8v93X$7W3l*ZvEor&cNFEOWt5kN1'
+password: efnu8v93X$7W3l*ZvEor&cNFEOWt5kN1
 isolation: SERIALIZABLE
 rebuild: false

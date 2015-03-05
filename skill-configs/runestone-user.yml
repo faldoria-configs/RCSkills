@@ -1,0 +1,5 @@
+name: runestone-user
+description: Ermöglicht es Runensteine zu benutzen.
+max-level: 10
+level: 1
+hidden: false
