@@ -3,8 +3,7 @@ description: 'Ermöglicht das Herstellen von Zerbrechlichen Runensteinen.'
 skill: runestone
 custom:
   uses: 2
-  name: 'Geringer Runenstein'
-  quality: 'COMMON'
+  item: 3
 cooldown:
   base: 28800
 reagents:
