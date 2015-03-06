@@ -3,8 +3,7 @@ description: 'Ermöglicht das Herstellen von Zerbrechlichen Runensteinen.'
 skill: runestone
 custom:
   uses: 10
-  name: 'Mächtiger Runenstein'
-  quality: 'LEGENDARY'
+  item: 7
 cooldown:
   base: 28800
 reagents:

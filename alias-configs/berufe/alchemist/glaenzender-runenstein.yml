@@ -3,8 +3,7 @@ description: 'Ermöglicht das Herstellen von Zerbrechlichen Runensteinen.'
 skill: runestone
 custom:
   uses: 5
-  name: 'Glänzender Runenstein'
-  quality: 'RARE'
+  item: 5
 cooldown:
   base: 28800
 reagents:

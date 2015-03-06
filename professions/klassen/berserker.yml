@@ -61,3 +61,4 @@ resources:
       unfilled: DARK_GRAY
 allowed-armor:
   PLATE: 1
+color: GRAY

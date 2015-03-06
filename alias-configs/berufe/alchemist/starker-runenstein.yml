@@ -3,8 +3,7 @@ description: 'Ermöglicht das Herstellen von Zerbrechlichen Runensteinen.'
 skill: runestone
 custom:
   uses: 7
-  name: 'Starker Runenstein'
-  quality: 'EPIC'
+  item: 6
 cooldown:
   base: 28800
 reagents:
