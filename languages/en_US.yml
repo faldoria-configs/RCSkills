@@ -1,7 +1,7 @@
 commands:
   max-out: All skills and classes of %s have been maxed out.
   skill:
-    add: You gave {1} the skill {2} ({3}).
+    add: You gave %s the skill %s (%s).
     duplicate: The player already has the skill.
 pvp:
   disabled: disabled.

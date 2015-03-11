@@ -5,4 +5,4 @@ pvp:
   disabled: 'ausgeschaltet'
 commands:
   skill:
-    add: 'Du hast %s$1 den Skill %s$2 (%s$3) zugeteilt.'
+    add: 'Du hast %s den Skill %s (%s) zugeteilt.'
