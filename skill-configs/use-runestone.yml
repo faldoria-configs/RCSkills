@@ -1,0 +1,7 @@
+name: use-runestone
+description: Ermöglicht es Runensteine zu benutzen.
+max-level: 10
+level: 1
+hidden: false
+linked-skills: {}
+weapons: []

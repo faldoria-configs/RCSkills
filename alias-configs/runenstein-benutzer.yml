@@ -1,0 +1,13 @@
+name: Runenstein Benutzer
+skill: use-runestone
+castable: false
+hidden: true
+casttime:
+  base: 10
+cooldown:
+  base: 300
+effects:
+  immobilize:
+    name: Runenstein
+    duration:
+      base: 10
