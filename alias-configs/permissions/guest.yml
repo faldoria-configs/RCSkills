@@ -53,6 +53,9 @@ custom:
     - rcskills.admin.debug
     - rcachievements.cmd.top
     - rcachievements.cmd.list
+    - rcquests.quest.*
+    - rcquests.quest.complete
+    - rcquests.quest.start
   world:
     - rcskills.restricted
     - antiguest.preventions.bed
@@ -65,6 +68,7 @@ custom:
     - antiguest.preventions.door
     - antiguest.preventions.drop
     - antiguest.preventions.fight
+    - antiguest.preventions.fish
     - antiguest.preventions.furnace
     - antiguest.preventions.hunger
     - antiguest.preventions.item
