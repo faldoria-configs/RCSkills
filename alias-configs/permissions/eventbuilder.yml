@@ -113,5 +113,5 @@ custom:
     - elevatorpro.build
     - rcchat.prefix.eventbuilder
     - multiverse.access.*
-    - worldguard.*
+    - worldguard.build.*
     - worldedit.*    
