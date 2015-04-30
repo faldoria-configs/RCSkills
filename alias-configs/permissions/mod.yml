@@ -7,6 +7,7 @@ custom:
     - chestcopy.use
     - citizens.admin.*
     - bukkit.command.give
+    - bukkit.command.effect
     - bukkit.command.time.add
     - bukkit.command.time.set
     - bukkit.command.gamemode
@@ -68,3 +69,4 @@ custom:
     - rcgraveyards.admin
     - rcconversation.*
     - voxelsniper.sniper
+    - voxelsniper.brush.*

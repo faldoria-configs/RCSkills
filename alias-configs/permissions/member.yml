@@ -17,6 +17,7 @@ custom:
     - antiguest.preventions.door
     - antiguest.preventions.drop
     - antiguest.preventions.fight
+    - antiguest.preventions.fish
     - antiguest.preventions.furnace
     - antiguest.preventions.hunger
     - antiguest.preventions.item
@@ -36,6 +37,7 @@ custom:
     - antiguest.preventions.shear
     - antiguest.preventions.ad
     - antiguest.preventions.link
+    - rcquests.quest.*
   freebuild:
     - rcskills.restricted
     - antiguest.preventions.bed
@@ -121,3 +123,6 @@ custom:
     - rcachievements.cmd.top
     - rcachievements.cmd.list
     - rcskills.hero.allow-level-above-treshhold
+    - rcquests.quest.*
+    - rcquests.quest.complete
+    - rcquests.quest.start
