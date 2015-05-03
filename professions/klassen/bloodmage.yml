@@ -44,8 +44,9 @@ skills:
 requirements:
   profession-level:
     mage:
-      profession: priest
-      level: 30
+      args:
+        profession: priest
+        level: 30
 health:
   base: 120
   stamina-attr-modifier: 15
