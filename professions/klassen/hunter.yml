@@ -35,8 +35,9 @@ skills:
 requirements:
   profession-level:
     rogue:
-      profession: rogue
-      level: 30
+      args:
+        profession: rogue
+        level: 30
 health:
   base: 20
 resources:

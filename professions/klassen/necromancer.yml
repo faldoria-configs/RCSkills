@@ -30,6 +30,7 @@ health:
 requirements:
   profession-level:
     mage:
-      profession: mage
-      level: 30
+      args:
+        profession: mage
+        level: 30
 color: GRAY

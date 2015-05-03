@@ -41,5 +41,6 @@ health:
 requirements:
   profession-level:
     priest:
-      profession: priest
-      level: 30
+      args:
+        profession: priest
+        level: 30

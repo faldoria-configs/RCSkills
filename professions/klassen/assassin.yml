@@ -38,8 +38,9 @@ skills:
 requirements:
   profession-level:
     rogue:
-      profession: rogue
-      level: 30
+      args:
+        profession: rogue
+        level: 30
 resources:
   energy:
     name: Energie

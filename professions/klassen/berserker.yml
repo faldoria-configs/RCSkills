@@ -34,8 +34,9 @@ skills:
 requirements:
   profession-level:
     warrior:
-      profession: warrior
-      level: 30
+      args:
+        profession: warrior
+        level: 30
 health:
   base: 20
   level-modifier: 0.0
