@@ -39,8 +39,9 @@ health:
   base: 20
   level-modifier: 0.0
 requirements:
-  profession-level:
-    priest:
-      args:
-        profession: priest
-        level: 30
+  '0':
+    type: rcskills.hero.level
+    args:
+      type: profession
+      profession: priest
+      level: 30

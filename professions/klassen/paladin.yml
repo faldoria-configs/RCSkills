@@ -40,11 +40,12 @@ skills:
   paladin-avatar:
     level: 30
 requirements:
-  profession-level:
-    warrior:
-      args:
-        profession: warrior
-        level: 30
+  '0':
+    type: rcskills.hero.level
+    args:
+      type: profession
+      profession: warrior
+      level: 30
 health:
   base: 170
   stamina-attr-modifier: 15

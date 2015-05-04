@@ -42,11 +42,12 @@ skills:
   elkires-macht:
     level: 30
 requirements:
-  profession-level:
-    mage:
-      args:
-        profession: priest
-        level: 30
+  '0':
+    type: rcskills.hero.level
+    args:
+      type: profession
+      profession: priest
+      level: 30
 health:
   base: 120
   stamina-attr-modifier: 15
