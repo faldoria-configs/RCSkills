@@ -36,11 +36,12 @@ skills:
   schattentanz:
     level: 30
 requirements:
-  profession-level:
-    rogue:
-      args:
-        profession: rogue
-        level: 30
+  '0':
+    type: rcskills.hero.level
+    args:
+      type: profession
+      profession: rogue
+      level: 30
 resources:
   energy:
     name: Energie
