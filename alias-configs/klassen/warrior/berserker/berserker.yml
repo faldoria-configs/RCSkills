@@ -7,7 +7,8 @@ cooldown:
   base: 180
 resources:
   rage:
-    base: 500
+    rage-from-max: true
+    rage-modifier: 0.50
 effects:
   berserker:
     attack-increase: 0.25
