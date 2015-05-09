@@ -42,7 +42,7 @@ requirements:
 health:
   base: 20
 resources:
-   mana:
+  mana:
     name: Mana
     types:
     - EXPERIENCE
@@ -67,3 +67,4 @@ resources:
 allowed-armor:
   MAIL: 1
 description: Der Waldläufer ist ein Meister des Bogens und zieht einen großen Nutzen aus verschiedensten Pfeilen und Fallen.
+color: GRAY
