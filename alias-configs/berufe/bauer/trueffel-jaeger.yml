@@ -37,8 +37,10 @@ custom:
           chance:
             base: 0.0005
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 60
                 profession: bergarbeiter
@@ -47,8 +49,10 @@ custom:
           chance:
             base: 0.0005
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 70
                 profession: bergarbeiter
@@ -57,8 +61,10 @@ custom:
           chance:
             base: 0.0001
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 85
                 profession: bergarbeiter
@@ -74,8 +80,10 @@ custom:
           chance:
             base: 0.05
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 10
                 profession: bergarbeiter
@@ -84,8 +92,10 @@ custom:
           chance:
             base: 0.0133
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 20
                 profession: bergarbeiter
@@ -94,8 +104,10 @@ custom:
           chance:
             base: 0.005
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 30
                 profession: bergarbeiter
@@ -104,8 +116,10 @@ custom:
           chance:
             base: 0.005
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 40
                 profession: bergarbeiter
@@ -114,8 +128,10 @@ custom:
           chance:
             base: 0.0013
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 50
                 profession: bergarbeiter
@@ -124,8 +140,10 @@ custom:
           chance:
             base: 0.0005
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 60
                 profession: bergarbeiter
@@ -134,8 +152,10 @@ custom:
           chance:
             base: 0.0005
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 70
                 profession: bergarbeiter
@@ -144,8 +164,10 @@ custom:
           chance:
             base: 0.0001
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 85
                 profession: bergarbeiter
@@ -157,8 +179,10 @@ custom:
           chance:
             base: 0.05
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 10
                 profession: bergarbeiter
@@ -167,8 +191,10 @@ custom:
           chance:
             base: 0.01
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 25
                 profession: bergarbeiter
@@ -177,8 +203,10 @@ custom:
           chance:
             base: 0.0013
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 50
                 profession: bergarbeiter
@@ -187,8 +215,10 @@ custom:
           chance:
             base: 0.0005
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 60
                 profession: bergarbeiter
@@ -197,8 +227,10 @@ custom:
           chance:
             base: 0.0005
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 70
                 profession: bergarbeiter
@@ -207,8 +239,10 @@ custom:
           chance:
             base: 0.0001
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 85
                 profession: bergarbeiter
@@ -228,8 +262,10 @@ custom:
           chance:
             base: 0.05
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 15
                 profession: bergarbeiter
@@ -238,8 +274,10 @@ custom:
           chance:
             base: 0.01
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 25
                 profession: bergarbeiter
@@ -248,8 +286,10 @@ custom:
           chance:
             base: 0.0013
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 50
                 profession: bergarbeiter
@@ -258,8 +298,10 @@ custom:
           chance:
             base: 0.0005
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 60
                 profession: bergarbeiter
@@ -268,8 +310,10 @@ custom:
           chance:
             base: 0.0005
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 70
                 profession: bergarbeiter
@@ -278,8 +322,10 @@ custom:
           chance:
             base: 0.0001
           requirements:
-            skill-level:
-              trueffel-jaeger:
+            '0':
+              type: rcskills.hero.level
+              args:
+                type: skill
                 skill: trueffel-jaeger
                 level: 85
                 profession: bergarbeiter

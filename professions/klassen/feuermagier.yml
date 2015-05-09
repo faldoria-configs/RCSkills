@@ -31,8 +31,10 @@ skills:
   meteorschauer:
     level: 30
 requirements:
-  profession-level:
-    mage:
+  '0':
+    type: rcskills.hero.level
+    args:
+      type: profession
       profession: mage
       level: 30
 health:

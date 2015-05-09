@@ -40,8 +40,10 @@ skills:
   paladin-avatar:
     level: 30
 requirements:
-  profession-level:
-    warrior:
+  '0':
+    type: rcskills.hero.level
+    args:
+      type: profession
       profession: warrior
       level: 30
 health:

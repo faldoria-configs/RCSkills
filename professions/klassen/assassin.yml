@@ -36,8 +36,10 @@ skills:
   schattentanz:
     level: 30
 requirements:
-  profession-level:
-    rogue:
+  '0':
+    type: rcskills.hero.level
+    args:
+      type: profession
       profession: rogue
       level: 30
 resources:

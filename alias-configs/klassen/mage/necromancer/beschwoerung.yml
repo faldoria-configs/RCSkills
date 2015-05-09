@@ -20,8 +20,10 @@ custom:
       name: Zombie
       type: ZOMBIE
       requirements:
-        profession-level:
-          necromancer:
+        '0':
+          type: rcskills.hero.level
+          args:
+            type: profession
             profession: necromancer
             level: 3
       amount:
@@ -47,13 +49,17 @@ custom:
       name: Skelettbogenschütze
       type: SKELETON
       requirements:
-        skill-level:
-          summon:
+        '0':
+          type: rcskills.hero.level
+          args:
+            type: skill
             skill: beschwoerung
             level: 10
             profession: necromancer
-        profession-level:
-          necromancer:
+        '1':
+          type: rcskills.hero.level
+          args:
+            type: profession
             profession: necromancer
             level: 5
       amount:
@@ -111,13 +117,17 @@ custom:
       name: Gift Spinne
       type: CAVE_SPIDER
       requirements:
-        skill-level:
-          summon:
+        '0':
+          type: rcskills.hero.level
+          args:
+            type: skill
             skill: beschwoerung
             level: 30
             profession: necromancer
-        profession-level:
-          necromancer:
+        '1':
+          type: rcskills.hero.level
+          args:
+            type: profession
             profession: necromancer
             level: 15
       amount:
@@ -143,13 +153,17 @@ custom:
       name: Schweine Zombie
       type: PIG_ZOMBIE
       requirements:
-        skill-level:
-          summon:
+        '0':
+          type: rcskills.hero.level
+          args:
+            type: skill
             skill: beschwoerung
             level: 40
             profession: necromancer
-        profession-level:
-          necromancer:
+        '1':
+          type: rcskills.hero.level
+          args:
+            type: profession
             profession: necromancer
             level: 25
       amount:
@@ -175,13 +189,17 @@ custom:
       name: Ghast
       type: GHAST
       requirements:
-        skill-level:
-          summon:
+        '0':
+          type: rcskills.hero.level
+          args:
+            type: skill
             skill: beschwoerung
             level: 50
             profession: necromancer
-        profession-level:
-          necromancer:
+        '1':
+          type: rcskills.hero.level
+          args:
+            type: profession
             profession: necromancer
             level: 30
       amount:

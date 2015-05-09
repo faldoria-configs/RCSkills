@@ -24,6 +24,8 @@ interface:
 hero:
   max-level: 100
   level-treshhold: 10
+  primary-path: class
+  secundary-path: prof
 paths:
   skill-configs: skill-configs/
   alias-configs: alias-configs/

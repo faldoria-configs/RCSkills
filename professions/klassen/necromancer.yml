@@ -28,8 +28,10 @@ health:
   base: 20
   level-modifier: 0.0
 requirements:
-  profession-level:
-    mage:
+  '0':
+    type: rcskills.hero.level
+    args:
+      type: profession
       profession: mage
       level: 30
 color: GRAY
