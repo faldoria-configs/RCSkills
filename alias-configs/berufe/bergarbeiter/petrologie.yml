@@ -4,8 +4,8 @@ skill: ore-finder
 custom:
   find-message: 'Es liegt ein Geruch von wertvollen Erzen in der Luft...'
   blocks:
-    - 56
-    - 129
+    - diamond_ore
+    - emerald_ore
   max-active-time:
     base: 10
     path-level-modifier: 2

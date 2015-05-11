@@ -10,43 +10,39 @@ custom:
     - GOLD_PICKAXE
     - DIAMOND_PICKAXE
   blocks:
-    - 1
-    - 4
-    - 14
-    - 15
-    - 16
-    - 24
-    - 41
-    - 42
-    - 43
-    - 44
-    - 45
-    - 48
-    - 49
-    - 56
-    - 57
-    - 61
-    - 62
-    - 67
-    - 73
-    - 74
-    - 98
-    - 108
-    - 109
-    - 112
-    - 113
-    - 114
-    - 116
-    - 121
-    - 128
-    - 129
-    - 133
+    - stone
+    - cobblestone
+    - iron_ore
+    - gold_ore
+    - coal_ore
+    - sandstone
+    - mossy_cobblestone
+    - obsidian
+    - diamond_ore
+    - redstone_ore
+    - lit_redstone_ore
+    - ice
+    - snow
+    - snow_layer
+    - clay
+    - netherrack
+    - soul_sand
+    - glowstone
+    - stonebrick
+    - monster_egg
+    - brown_mushroom_block
+    - red_mushroom_block
+    - mycelium
+    - nether_brick
+    - quartz_ore
+    - prismarin
 cooldown:
   base: 600
   bergbau-skill-modifier: -1.5
   path-level-modifier: -1.0
 effects:
   speed-block-break:
+    name: Superbreaker
     duration:
       base: 2
       bergbau-skill-modifier: 0.2
@@ -54,4 +50,5 @@ effects:
     activate-message: "Superbreaker aktiviert!"
     deactivate-message: "Superbreaker abgelaufen!"
   queued-interact:
+    name: Superbreaker
     activate-message: "Du hebst deine Spitzhacke..."
