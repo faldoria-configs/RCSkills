@@ -12,3 +12,9 @@ resources:
 custom:
   width:
     base: 5
+visual-effects:
+  IMPACT:
+    1:
+      type: custom
+      args:
+        class: GridEffect

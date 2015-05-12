@@ -9,7 +9,7 @@ resources:
   mana:
     mana-base-modifier: 0.02
 visual-effects:
-  CAST:
+  CASTED:
     1:
       type: particle
       effect: enchantmenttable
