@@ -16,7 +16,7 @@ effects:
     duration:
       base: 4
 visual-effects:
-  CAST:
+  CASTED:
     1:
       type: particle
       effect: snowballpoof
