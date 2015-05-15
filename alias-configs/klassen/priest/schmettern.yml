@@ -1,5 +1,5 @@
 name: Schmettern
-description: ' Schmettert dem Gegner heiliges Licht entgegen und fügt heiligen Schaden zu. '
+description: 'Schmettert dem Gegner heiliges Licht entgegen und fügt heiligen Schaden zu.'
 skill: magic-bolt
 range:
   base: 20
