@@ -1,5 +1,5 @@
 name: Erneuerung
-description: ' Erneuert die Lebensenergie von einem Gruppenmitglied oder dem Priester für 12s. '
+description: 'Erneuert die Lebensenergie von einem Gruppenmitglied oder dem Priester für 12s.'
 skill: heal-over-time
 range:
   base: 25
