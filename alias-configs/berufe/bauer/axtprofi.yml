@@ -12,13 +12,11 @@ custom:
     base: 5
     path-level-modifier: 0.25
   allowed-blocks:
-    - WOOD
+    - LOG
+    - LEAVES
 cooldown:
   base: 1
 effects:
   queued-interact:
     activate-message: 'Du hebst deine Axt.'
     deactivate-message: 'Du senkst deine Axt.'
-  recursive-block-break:
-    duration:
-      base: 5
