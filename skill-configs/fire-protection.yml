@@ -1,3 +1,4 @@
 name: fire-protection
 description: Wirft alle 2 Sekunden ein Rüstungsteil ab und erlischt somit Flammen.
 max-level: 10
+level: 1
