@@ -37,6 +37,7 @@ custom:
     - antiguest.preventions.shear
     - antiguest.preventions.ad
     - antiguest.preventions.link
+    - antiguest.preventions.tripwire
     - rcquests.quest.*
   freebuild:
     - rcskills.restricted
