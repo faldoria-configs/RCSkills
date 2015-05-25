@@ -1,7 +1,10 @@
 name: Seelenernter
-description: 'Verschießt einen Witherskull und belegt dein Ziel mit dem Wither-Effekt. Wenn dein Gegner mit dem Effekt stirbt erhältst du eine Seele. '
-skill: soul-leecher
+description: 'Belegt das Ziel mit einem Fluch der Schwäche und vergiftet es.'
+skill: magic-bolt
 levelable: false
+custom:
+  slow: true
+  poison: true
 damage:
   base: 73
   path-level-modifier: 13
@@ -9,7 +12,24 @@ resources:
   mana:
     mana-base-modifier: 0.01
 effects:
-  soul-leecher:
-    name: Seelenernter
+  poison:
+    name: Seelengift
+    damage:
+      base: 27
+      path-level-modifier: 6
+    interval:
+      base: 1
+    durtaion:
+      base: 3
+      max: 9
+      path-level-modifier: 0.1
+  slow:
+    name: Schwere Seele
     duration:
-      base: 15
+      base: 3
+      max: 9
+      path-level-modifier: 0.1
+range:
+ base: 10
+cooldown:
+  base: 12

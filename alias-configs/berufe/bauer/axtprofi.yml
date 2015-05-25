@@ -15,7 +15,8 @@ custom:
     - LOG
     - LEAVES
 cooldown:
-  base: 1
+  base: 120
+  path-level-modifier: -1.0
 effects:
   queued-interact:
     activate-message: 'Du hebst deine Axt.'
