@@ -16,7 +16,7 @@ effects:
       APPLY:
         1:
           type: particle
-          effect: largesmoke
+          effect: SMOKE_LARGE
           amount: 100
           radius: 1
           sphere: true

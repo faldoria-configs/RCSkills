@@ -45,3 +45,4 @@ requirements:
       type: profession
       profession: priest
       level: 30
+color: GRAY

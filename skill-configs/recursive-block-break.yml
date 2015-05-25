@@ -3,3 +3,4 @@ description: Breaks blocks recursivly.
 max-level: 10
 level: 1
 hidden: false
+weapons: []

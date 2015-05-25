@@ -34,3 +34,9 @@ visual-effects:
     1:
       type: sound
       effect: PIG_DEATH
+  CASTED:
+    1:
+      type: custom
+      args:
+        class: HelixEffect
+        particle: cloud

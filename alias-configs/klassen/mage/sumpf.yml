@@ -20,7 +20,7 @@ visual-effects:
   IMPACT:
     1:
       type: particle
-      effect: splash
+      effect: WATER_SPLASH
       amount: 25
       shape: circle
       radius: 2

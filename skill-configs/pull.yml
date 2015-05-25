@@ -1,3 +1,4 @@
 name: pull
 description: Wirft die aktuelle Waffe in Richtung Gegner.
 max-level: 10
+level: 1
