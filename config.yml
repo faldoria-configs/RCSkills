@@ -10,7 +10,7 @@ defaults:
   skeleton-knockback: 0.75
   party-timeout: 30.0
   swing-time: 1.0
-  userinterface-refresh-interval: 100
+  userinterface-refresh-interval: 40
   pvp-combat-timeout: 300.0
   party-exp-range: 100
   pvp-toggle-delay: 300.0

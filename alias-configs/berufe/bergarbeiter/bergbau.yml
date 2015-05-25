@@ -12,14 +12,16 @@ custom:
     skill-level-modifier: 0.001
     cap: 0.6
   blocks:
-    - 1
-    - 14
-    - 15
-    - 16
-    - 21
-    - 24
-    - 56
-    - 73
-    - 74
-    - 129
+    - stone
+    - gold_ore
+    - iron_ore
+    - coal_ore
+    - lapis_ore
+    - sandstone
+    - diamond_ore
+    - redstone_ore
+    - lit_redstone_ore
+    - emerald_ore
+    - quartz_ore
+    - prismarine
 use-in-combat: false

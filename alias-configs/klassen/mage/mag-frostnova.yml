@@ -16,10 +16,10 @@ effects:
     duration:
       base: 4
 visual-effects:
-  CAST:
+  CASTED:
     1:
       type: particle
-      effect: snowballpoof
+      effect: SNOWBALL
       amount: 10
       shape: circle
       radius: 7

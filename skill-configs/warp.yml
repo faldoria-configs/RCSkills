@@ -1,7 +1,7 @@
 name: warp
 description: Teleportiert den Benutzer zu den angegbenen Koordinaten
 max-level: 10
-enabled: true
+enabled: false
 hidden: false
 linked-skills: {}
 level: 1
