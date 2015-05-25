@@ -14,6 +14,9 @@ custom:
     - bukkit.command.weather
     - bukkit.command.kill
     - commandbook.*
+    - commandbook.give
+    - commandbook.kit.list
+    - commandbook.kit.kits.*
     - craftbook.*
     - dragontravelplus.*
     - enderchest.admin

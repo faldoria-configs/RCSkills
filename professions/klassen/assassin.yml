@@ -57,12 +57,12 @@ resources:
     out-of-combat-regen:
       base: 1
       percent: false
-    interval: 
+    interval:
       base: 0.1
   combopoints:
     name: Kombopunkte
-    types: 
-      - scoreboard
+    types:
+    - scoreboard
     default: 0
     max:
       base: 5
@@ -74,3 +74,4 @@ resources:
     color:
       filled: DARK_RED
       unfilled: DARK_GRAY
+color: GRAY
