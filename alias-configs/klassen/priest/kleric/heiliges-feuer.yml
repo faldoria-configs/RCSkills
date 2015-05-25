@@ -1,5 +1,5 @@
 name: Heiliges Feuer
-description: 'Fügt dem Gegner heiligen Schaden zu und lässt ihn für 7s in Flammen aufgehen, die jede Sekunde 9 + 0.1* Schaden verursachen.'
+description: 'Fügt dem Gegner heiligen Schaden zu und lässt ihn für 7s in Flammen|aufgehen, die jede Sekunde 9 + 0.1* Schaden verursachen.'
 skill: magic-bolt
 custom:
   burn: true

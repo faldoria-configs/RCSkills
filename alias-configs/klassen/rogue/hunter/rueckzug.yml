@@ -5,6 +5,8 @@ range:
   base: 20
 custom:
   remove-combat: true
+  force: 0.3
+  height: 5
 cooldown:
   base: 45
 resources:

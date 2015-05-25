@@ -17,3 +17,10 @@ effects:
       base: 3
     interval:
       base: 3
+    visual-effects:
+      TICK:
+        1:
+          type: custom
+          args:
+            class: ShieldEffect
+            particle: FLAME

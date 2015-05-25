@@ -24,3 +24,26 @@ effects:
       base: 2
     duration:
       base: 12
+    visual-effects:
+      IMPACT:
+        1:
+          type: custom
+          args:
+            class: FlameEffect
+      TICK:
+        1:
+          type: custom
+          args:
+            class: FlameEffect
+      DAMAGE:
+        1:
+          type: custom
+          args:
+            class: BleedEffect
+visual-effects:
+  CASTED:
+    1:
+      type: custom
+      args:
+        class: VortexEffect
+        particle: FLAME

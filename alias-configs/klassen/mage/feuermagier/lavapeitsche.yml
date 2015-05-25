@@ -18,3 +18,14 @@ effects:
   stun:
     duration:
       base: 3
+visual-effects:
+  CASTED:
+    1:
+      type: custom
+      args:
+        class: ArcEffect
+  IMPACT:
+    1:
+      type: custom
+      args: 
+        class: FlameEffect

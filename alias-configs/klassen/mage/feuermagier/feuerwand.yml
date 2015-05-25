@@ -12,3 +12,14 @@ resources:
 custom:
   width:
     base: 5
+effects:
+  trap:
+    duration:
+      base: 5
+      path-level-modifier: 0.25
+visual-effects:
+  IMPACT:
+    1:
+      type: custom
+      args:
+        class: GridEffect
