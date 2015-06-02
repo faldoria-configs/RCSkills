@@ -53,7 +53,6 @@ custom:
     - rcskills.admin.debug
     - rcachievements.cmd.top
     - rcachievements.cmd.list
-    - rcquests.quest.*
     - rcquests.quest.complete
     - rcquests.quest.start
   world:
