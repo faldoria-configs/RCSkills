@@ -4,6 +4,7 @@ skill: bloodlust
 effects:
   bloodlust:
     custom:
+      name: Blutrausch
       max-stacks: 5
       damage-increase:
         base: 0.05
