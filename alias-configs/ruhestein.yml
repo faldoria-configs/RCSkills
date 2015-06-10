@@ -2,6 +2,9 @@ name: Ruhestein
 skill: warp
 castable: false
 hidden: true
+worlds:
+  - world
+  - faldoria
 custom:
   x: 37
   y: 70
