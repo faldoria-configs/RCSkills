@@ -4,10 +4,10 @@ castable: false
 hidden: true
 custom:
   x: 37
-  y: 80
-  z: 184
-  yaw: -90
-  pitch: 143
+  y: 70
+  z: 183
+  yaw: -131
+  pitch: -8
   world: world
   bed-spawn: true
 casttime:
