@@ -1,0 +1,6 @@
+name: map-builder
+description: Allows the switching into Gamemode, prevents the dropping of items and clears the inventory.
+max-level: 10
+hidden: false
+linked-skills: {}
+level: 1
