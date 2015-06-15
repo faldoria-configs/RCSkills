@@ -58,5 +58,5 @@ environmental-damage:
   POISON: 0.025
   SUFFOCATION: 0.05
   DROWNING: 0.1
-  STARVATION: 0.0
+  STARVATION: 0.02
   VOID: 0.5

@@ -1,9 +1,0 @@
-name: Voxelsniper
-skill: permission
-custom:
-  world:
-    - voxelsniper.sniper
-    - voxelsniper.brush.*
-  dungeon:
-    - voxelsniper.sniper
-    - voxelsniper.brush.*

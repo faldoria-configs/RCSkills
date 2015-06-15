@@ -1,5 +1,6 @@
 name: Admin
 skill: permission
+enabled: false
 custom:
   global:
     - worldguard.blacklist.admin
