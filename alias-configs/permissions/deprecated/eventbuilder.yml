@@ -1,5 +1,6 @@
 name: Eventbuilder
 skill: permission
+enabled: false
 custom:
   global:
     - rcportals.portal.use.lobby_eventbuilder

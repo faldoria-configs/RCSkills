@@ -1,4 +1,4 @@
-name: Mapbuilder+
+name: Mapbuilder Lehrling
 skill: map-builder
 custom:
   global-permissions:
@@ -8,7 +8,7 @@ custom:
     - multiverse.access.dungeon
     - multiverse.teleport.self.faldoria
     - multiverse.access.faldoria
-    - rcchat.prefix.mapbuilder
+    - rcchat.prefix.team
   permissions:
     - admintools.admin
     - commandbook.clear
@@ -23,7 +23,6 @@ custom:
     - commandbook.time.player
     - elevatorpro.build
     - worldguard.*
-    - worldedit.*
     - rchome.home.everywhere
     - rchome.cmd.sethome
     - antiguest.*
@@ -31,7 +30,6 @@ custom:
     - dragontravelplus.warp
     - multiverse.access.*
     - skulls.get
-    - voxelsniper.command.*
 effects:
   map-builder:
     name: Mapbuilder

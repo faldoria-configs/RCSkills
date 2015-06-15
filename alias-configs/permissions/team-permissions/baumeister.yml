@@ -1,4 +1,4 @@
-name: Mapbuilder
+name: Baumeister
 skill: map-builder
 custom:
   global-permissions:
@@ -31,6 +31,9 @@ custom:
     - dragontravelplus.warp
     - multiverse.access.*
     - skulls.get
+    - voxelsniper.command.*
+    - voxelsniper.sniper
+    - voxelsniper.brush.*
 effects:
   map-builder:
     name: Mapbuilder
