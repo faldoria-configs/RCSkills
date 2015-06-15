@@ -2,7 +2,7 @@ logging: false
 driver: MYSQL
 host: localhost
 port: 3306
-database: minecraft_test
+database: minecraft_main
 username: minecraft
 password: efnu8v93X$7W3l*ZvEor&cNFEOWt5kN1
 isolation: SERIALIZABLE
