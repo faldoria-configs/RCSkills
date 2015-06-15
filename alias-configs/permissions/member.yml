@@ -39,6 +39,7 @@ custom:
     - antiguest.preventions.link
     - antiguest.preventions.tripwire
     - rcquests.quest.*
+    - rcregions.info
   freebuild:
     - rcskills.restricted
     - antiguest.preventions.bed

@@ -1,0 +1,41 @@
+name: Team Mitglied
+skill: permission
+custom:
+  global:
+    - rcchat.prefix.team
+    - rcportals.portal.use.lobby_guildcraft
+    - rcportals.portal.use.lobby_dungeon
+    - rcportals.portal.use.lobby_guildcraftwar
+    - rcportals.portal.use.lobby_guildcraftwar
+    - rcportals.portal.use.lobby_nether
+    - multiverse.teleport.self.guildcraft
+    - multiverse.teleport.self.guildcraftwar
+    - multiverse.teleport.self.old_dungon
+    - multiverse.teleport.self.dungeon
+    - multiverse.teleport.self.nether
+    - multiverse.teleport.self.w
+    - multiverse.access.nether
+    - multiverse.access.guildcraftwar
+    - multiverse.access.old_dungeon
+    - multiverse.access.guildcraft
+    - multiverse.access.dungeon
+    - multiverse.core.list.worlds
+    - rcportals.portal.use.lobby_eventbuilder
+    - rcportals.portal.use.lobby_dungeonbuilder
+    - rcportals.portal.use.lobby_dungeon
+    - multiverse.access.dungeon
+    - multiverse.access.old_dungeon
+    - multiverse.teleport.self.dungeon
+    - multiverse.teleport.selt.old_dungeon
+    - rcportals.portal.use.lobby_faldoria
+    - multiverse.teleport.self.faldoria
+    - multiverse.access.faldoria
+    - rcwarn.warn
+    - rcpetition.admin
+    - prism.lookup
+    - prism.setmy.wand
+    - performance.info
+    - petition.moderate
+    - petition.moderator
+    - rcchat.channels.team
+    - rcregions.info.worldguard

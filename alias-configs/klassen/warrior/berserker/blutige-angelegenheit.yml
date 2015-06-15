@@ -10,7 +10,8 @@ cooldown:
   base: 12
 resources:
   rage:
-    base: 300
+    from-max: true
+    rage-modifier: 0.30
 damage:
   base: 55
   path-level-modifier: 1.5
