@@ -3,6 +3,7 @@ skill: permission
 custom:
   global:
     - rcportals.portal.use.lobby_dungeon
+    - rcportals.portal.use.faldoria_lobby
     - multiverse.teleport.self.dungeon
     - multiverse.access.dungeon
   dungeon:
