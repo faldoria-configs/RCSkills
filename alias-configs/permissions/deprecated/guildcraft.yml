@@ -1,5 +1,6 @@
 name: Guildcraft
 skill: permission
+enabled: false
 custom:
   global:
     - rcportals.portal.use.lobby_guildcraft

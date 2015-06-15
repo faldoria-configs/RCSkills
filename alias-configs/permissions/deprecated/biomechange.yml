@@ -1,5 +1,6 @@
 name: 'Biom ändern Dungeon'
 skill: permission
+enabled: false
 custom:
   dungeon:
     - weatherman.basic

@@ -1,4 +1,4 @@
-disable-error-skills: true
+disable-error-skills: false
 callback-purge-ticks: 1200
 health-scale: 20.0
 defaults:
@@ -16,6 +16,7 @@ defaults:
   pvp-toggle-delay: 300.0
   exp-bat-despawn-delay: 10.0
   character-invalidation-interval: 100
+  disable-vanilla-hunger: false
 profession:
   change-cost: 100
   change-level-modifier: 25.0

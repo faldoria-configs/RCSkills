@@ -2,13 +2,16 @@ name: Ruhestein
 skill: warp
 castable: false
 hidden: true
+worlds:
+  - world
+  - faldoria
 custom:
-  x: -1238
-  y: 125
-  z: -312
-  yaw: -90
-  pitch: 143
-  world: lobby
+  x: 37
+  y: 70
+  z: 183
+  yaw: -131
+  pitch: -8
+  world: world
   bed-spawn: true
 casttime:
   base: 10

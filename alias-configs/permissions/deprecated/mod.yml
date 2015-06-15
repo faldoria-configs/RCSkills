@@ -1,5 +1,6 @@
 name: Moderator
 skill: permission
+enabled: false
 custom:
   global:
     - admintools.*

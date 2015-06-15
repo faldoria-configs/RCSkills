@@ -13,5 +13,6 @@ range:
   base: 10
 effects:
   haste-buff:
+    name: Hast
     duration:
       base: 12
