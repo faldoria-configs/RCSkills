@@ -1,0 +1,19 @@
+name: Supporter
+skill: permission
+enabled: false
+custom:
+  global:
+    - antiguest.preventions.ad
+    - antiguest.preventions.link
+    - commandbook.mute
+    - commandbook.return
+    - commandbook.gamemode.*
+    - prism.lookup
+    - prism.setmy.wand
+    - performance.info
+    - petition.moderate
+    - petition.moderator
+    - rcchat.channels.team
+    - rcchat.prefix.supporter
+    - rcwarn.warn
+    - rcpetition.admin

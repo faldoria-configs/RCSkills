@@ -1,0 +1,35 @@
+name: Mapbuilder Lehrling
+skill: map-builder
+custom:
+  global-permissions:
+    - rcportals.portal.use.lobby_dungeon
+    - rcportals.portal.use.lobby_faldoria
+    - multiverse.teleport.self.dungeon
+    - multiverse.access.dungeon
+    - multiverse.teleport.self.faldoria
+    - multiverse.access.faldoria
+    - rcchat.prefix.team
+  permissions:
+    - admintools.admin
+    - commandbook.clear
+    - commandbook.kit.kits.admin
+    - commandbook.teleport
+    - commandbook.warp.set
+    - commandbook.warp.list
+    - commandbook.warp.remove
+    - commandbook.warp.teleport
+    - commandbook.weather 
+    - commandbook.spawn
+    - commandbook.time.player
+    - elevatorpro.build
+    - worldguard.*
+    - rchome.home.everywhere
+    - rchome.cmd.sethome
+    - antiguest.*
+    - schematichelper.use
+    - dragontravelplus.warp
+    - multiverse.access.*
+    - skulls.get
+effects:
+  map-builder:
+    name: Mapbuilder

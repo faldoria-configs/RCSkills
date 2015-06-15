@@ -14,16 +14,11 @@ resources:
   mana:
     mana-base-modifier: 0.01
 visual-effects:
-  CASTED:
+  CAST:
     1:
       type: sound
       effect: GHAST_FIREBALL
-    2:
-      type: custom
-      args:
-        class: LineEffect
-        particle: SMOKE
-  #LINE:
-  #  1:
-  #    type: bukkit
-  #    effect: SMOKE
+  LINE:
+    1:
+      type: bukkit
+      effect: SMOKE

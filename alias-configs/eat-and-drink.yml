@@ -2,7 +2,7 @@ name: Essen und Trinken
 skill: consume
 hidden: true
 custom:
-  food-level: 0
+  food-level: 17
   food:
     apple:
       gain:

@@ -1,5 +1,6 @@
 name: Developer
 skill: permission
+enabled: false
 custom:
   global:
     - rcchat.prefix.developer
