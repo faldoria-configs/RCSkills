@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< HEAD:alias-configs/permissions/mapbuilder.yml
 name: Mapbuilder
 skill: permission
@@ -145,6 +146,8 @@ custom:
     - dragontravelplus.warp
     - multiverse.access.*
 =======
+=======
+>>>>>>> 82987ef934ae4e03a4b7385d37813c5b487936ea
 name: Mapbuilder
 skill: permission
 enabled: false
@@ -431,5 +434,8 @@ custom:
     - schematichelper.use
     - dragontravelplus.warp
     - multiverse.access.*
+<<<<<<< HEAD
 >>>>>>> 1.9.2:alias-configs/permissions/deprecated/mapbuilder.yml
+=======
+>>>>>>> 82987ef934ae4e03a4b7385d37813c5b487936ea
     - skulls.get
