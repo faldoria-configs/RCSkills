@@ -9,6 +9,7 @@ custom:
     - multiverse.teleport.self.faldoria
     - multiverse.access.faldoria
     - rcchat.prefix.team
+  permissions:
     - admintools.admin
     - commandbook.clear
     - commandbook.kit.kits.admin
