@@ -10,6 +10,15 @@ custom:
     - multiverse.access.faldoria
     - rcchat.prefix.team
   permissions:
+    - bukkit.command.effect
+    - commandbook.spawn
+    - commandbook.locations.coords
+    - commandbook.teleport
+    - commandbook.return
+    - commandbook.speed.flight
+    - commandbook.god
+    - commandbook.gamemode
+    - commandbook.gamemode.change
     - admintools.admin
     - commandbook.clear
     - commandbook.kit.kits.admin
