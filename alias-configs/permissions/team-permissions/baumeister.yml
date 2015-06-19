@@ -1,5 +1,6 @@
 name: Baumeister
 skill: map-builder
+use-in-combat: false
 custom:
   global-permissions:
     - rcportals.portal.use.lobby_dungeon
