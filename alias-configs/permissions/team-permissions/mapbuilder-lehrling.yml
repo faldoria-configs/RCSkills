@@ -33,6 +33,7 @@ custom:
     - elevatorpro.build
     - worldguard.*
     - rchome.home.everywhere
+    - rcgraveyards.warp
     - rchome.cmd.sethome
     - antiguest.*
     - schematichelper.use
