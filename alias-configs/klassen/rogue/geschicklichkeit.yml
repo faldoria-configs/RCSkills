@@ -1,7 +1,8 @@
 name: Geschicklichkeit
 description: ' Du hast eine Chance von 1% + 0.25/Level Angriffen auszuweichen. '
-skill: evade
+skill: evasion
 custom:
-  evade-chance:
+  chance:
     base: 0.01
     path-level-modifier: 0.0025
+    cap: 0.60

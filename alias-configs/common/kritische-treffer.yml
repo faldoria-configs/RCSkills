@@ -1,0 +1,10 @@
+name: Kritische Treffer
+description: 'Es besteht bei allen Angriffen die Chance einen kritischen Treffer zu erzielen|und somit den 2x Schaden anzurichten.'
+skill: critical-strike
+custom:
+  chance:
+    base: 0.05
+    agility-modifier: 0.0005
+    cap: 0.6
+  damage-modifier:
+    base: 2.0
