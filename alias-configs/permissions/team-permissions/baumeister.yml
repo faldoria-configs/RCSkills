@@ -11,6 +11,7 @@ custom:
     - multiverse.access.faldoria
     - rcchat.prefix.team
   permissions:
+    - faldoria.brushes
     - rcmultiworld.tp
     - bukkit.command.effect
     - commandbook.spawn
