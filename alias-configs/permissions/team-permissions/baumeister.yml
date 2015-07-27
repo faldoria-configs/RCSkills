@@ -46,6 +46,7 @@ custom:
     - worldedit.*
     - voxelsniper.command.*
     - voxelsniper.sniper
+    - voxelsniper.ignorelimitations
     - voxelsniper.brush.*
 effects:
   map-builder:
