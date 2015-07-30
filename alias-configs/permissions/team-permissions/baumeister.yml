@@ -33,6 +33,7 @@ custom:
     - commandbook.weather 
     - commandbook.spawn
     - commandbook.time.player
+    - dynmap.radiusrender
     - elevatorpro.build
     - worldguard.*
     - rchome.home.everywhere
