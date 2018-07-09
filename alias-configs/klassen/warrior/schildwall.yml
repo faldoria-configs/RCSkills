@@ -1,0 +1,15 @@
+name: Schildwall
+description: ' Du hebst dein Schild und erleidest 6 Sekunden lang 60% weniger Schaden. '
+skill: shieldwall
+cooldown:
+  base: 120
+resources:
+  mana:
+    mana-base-modifier: 0.04
+effects:
+  shieldwall:
+    custom:
+      damage-reduction:
+        base: 0.60
+    duration:
+      base: 10

@@ -1,0 +1,11 @@
+name: Vampirschlag
+description: ''
+skill: strike
+custom:
+  life-leach:
+    base: 1
+damage:
+  base: 73
+  path-level-modifier: 13
+cooldown:
+  base: 5

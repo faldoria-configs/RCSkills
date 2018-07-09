@@ -1,0 +1,19 @@
+name: Multischuss
+description: ' Du schießt 3-5 Pfeile auf einmal ab. Abhängig von deinem "Meisterschütze" Skill. '
+skill: multi-shot
+weapons:
+  - bow
+custom:
+  amount:
+    cap: 5
+    base: 1
+    meisterschuetze-modifier: 0.1
+cooldown:
+  base: 14
+resources:
+  mana:
+    base: 15
+effects:
+  multi-shot:
+    duration:
+      base: 10

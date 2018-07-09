@@ -1,0 +1,31 @@
+name: Schleichen
+description: ' Du wirst unsichtbar, bewegst dich jedoch 60% langsamer. Angriffe oder Aktionen brechen den Effekt ab. Kann nicht im Kampf verwendet werden. '
+skill: stealth
+use-in-combat: false
+cooldown:
+  base: 15
+effects:
+  invisibility:
+    custom:
+      slow: true
+      remove-on-damage: true
+      remove-on-attack: true
+    duration:
+      base: 300
+    visual-effects:
+      APPLY:
+        1:
+          type: particle
+          effect: SMOKE_LARGE
+          amount: 100
+          radius: 1
+          sphere: true
+          shape: circle
+        2:
+          type: sound
+          effect: WITHER_SHOOT
+          pitch: 1.0
+      REMOVE:
+        1:
+          type: bukkit
+          effect: SMOKE

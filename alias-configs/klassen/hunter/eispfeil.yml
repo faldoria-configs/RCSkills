@@ -1,0 +1,23 @@
+name: Eispfeil
+description: ' Deine Pfeile vereisen den Gegner für 7s, wodurch seine Bewegungsgeschwindigkeit verringert wird. '
+skill: shot
+levelable: false
+weapons:
+  - bow
+custom:
+  slow: true
+cooldown:
+  base: 24
+damage:
+  base: 64
+  path-level-modifier: 13
+  weapon-damage: true
+resources:
+  mana:
+    base: 5
+effects:
+  slow:
+    custom:
+      potion-amplifier: 2
+    duration:
+      base: 7

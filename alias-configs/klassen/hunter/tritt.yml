@@ -1,0 +1,17 @@
+name: Tritt
+description: ' Unterbricht den aktuellen Zauber des Ziels. Wenn ein Zauber unterbrochen wurde, wird das Ziel für 3s mit dem Effekt Stille belegt. '
+skill: strike
+custom:
+  silence: true
+damage:
+  base: 28
+  agility-attr-modifier: 0.75
+cooldown:
+  base: 30
+effects:
+  silence:
+    duration:
+      base: 7
+resources:
+  energy:
+    base: 30

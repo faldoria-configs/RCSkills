@@ -1,0 +1,12 @@
+name: Schwacher Schlag
+description: 'Verpasst deinem Gegner einen schwachen Schlag mit einer Waffe.'
+skill: strike
+weapons:
+  - sword
+  - axe
+  - polearm
+  - mace
+damage:
+  base: 45
+  path-level-modifier: 13
+  weapon-damage: true

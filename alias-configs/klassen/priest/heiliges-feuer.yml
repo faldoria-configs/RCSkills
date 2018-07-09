@@ -1,0 +1,26 @@
+name: Heiliges Feuer
+description: 'Fügt dem Gegner heiligen Schaden zu und lässt ihn für 7s in Flammen|aufgehen, die jede Sekunde 9 + 0.1* Schaden verursachen.'
+skill: magic-bolt
+custom:
+  burn: true
+cooldown:
+  base: 10
+resources:
+  mana:
+    mana-base-modifier: 0.035
+casttime:
+  base: 0.5
+damage:
+  base: 154
+  path-level-modifier: 13
+range:
+  base: 20
+effects:
+  burn:
+    duration:
+      base: 7
+    interval:
+      base: 1
+    damage:
+      base: 19
+      path-level-modifier: 0.5

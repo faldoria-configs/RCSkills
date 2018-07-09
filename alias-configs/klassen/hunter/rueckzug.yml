@@ -1,0 +1,14 @@
+name: 'Rückzug'
+description: 'Du ziehst dich aus dem Kampf zurück und springst instinktiv nach hinten.'
+skill: retreat
+range:
+  base: 20
+custom:
+  remove-combat: true
+  force: 0.3
+  height: 5
+cooldown:
+  base: 45
+resources:
+  mana:
+    base: 10

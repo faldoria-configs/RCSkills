@@ -1,0 +1,17 @@
+name: Meteor
+description: 'Lässt einen Meteor am Ziel einschlagen. Verursacht am Einschlagspunkt den vollen Schaden und nimmt nach außen ab. '
+skill: meteor
+levelable: false
+range:
+  base: 30
+cooldown:
+  base: 20
+damage:
+  base: 155
+  path-level-modifier: 13
+resources:
+  mana:
+    mana-base-modifier: 0.03
+custom:
+  amount:
+    base: 1

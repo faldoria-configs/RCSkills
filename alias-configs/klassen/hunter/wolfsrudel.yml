@@ -1,0 +1,38 @@
+name: Wolfsrudel
+description: 'Beschwört ein Rudel Wölfe, dass für den Waldläufer kämpft.'
+skill: summon
+max-level: 100
+levelable: false
+range:
+  base: 30
+effects:
+  summoned:
+    duration:
+      base: 30
+resources:
+  mana:
+    mana-base-modifier: 0.05
+custom:
+  creatures:
+    wolf:
+      name: Wolf
+      type: wolf
+      amount:
+        base: 1
+        prof-level-modifier: 0.2
+        cap: 3
+      min-damage:
+        base: 21
+        prof-level-modifier: 1
+      max-damage:
+        base: 27
+        prof-level-modifier: 1
+      min-health:
+        base: 250
+        prof-level-modifier: 1
+      max-health:
+        base: 270
+        prof-level-modifier: 1
+      resource-cost:
+        base: 1
+      exp: 15
