@@ -3,28 +3,37 @@ description: Die Magier verlassen sich nicht nur auf die materiellen Waffen unse
 tag: MAG
 max-level: 30
 formula: primary
-childs:
-- necromancer
-- feuermagier
 skills:
   prefix-mage:
     level: 1
     hidden: true
   magisches-geschoss:
     level: 1
-  kettenblitz:
+  feuerball:
+    level: 3
+  mag-frostnova:
     level: 5
+  lavapeitsche:
+    level: 7
+  geysir-feuer:
+    level: 10
   arme-sau:
     level: 10
-  mag-frostnova:
-    level: 15
   blinzeln:
+    level: 13
+  kettenblitz:
+    level: 15
+  mana-aura:
+    level: 17
+  meteor-feuer:
     level: 20
+  sumpf:
+    level: 23
   blitzgewitter:
     level: 25
-  telekinese:
-    level: 25
-  sumpf:
+  lohenbeschwoerung:
+    level: 27
+  meteorschauer:
     level: 30
 resources:
   mana:

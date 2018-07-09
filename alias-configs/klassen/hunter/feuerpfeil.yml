@@ -1,0 +1,25 @@
+name: Brandpfeil
+description: ' Du zündest die Spitzen deiner Pfeile an, welche dadurch deinen Feinden zusätzlich für 12s schweren Feuerschaden verursachen. '
+skill: shot
+weapons:
+  - bow
+custom:
+  burn: true
+cooldown:
+  base: 5
+damage:
+  base: 57
+  path-level-modifier: 13
+  weapon-damage: true
+resources:
+  mana:
+    base: 20
+effects:
+  burn:
+    duration:
+      base: 12
+    interval:
+      base: 2
+    damage:
+      base: 27
+      path-level-modifier: 0.1

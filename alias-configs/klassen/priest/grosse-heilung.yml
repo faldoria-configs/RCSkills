@@ -1,0 +1,15 @@
+name: Grosse Heilung
+description: 'Heilt dein Ziel um eine große Menge an Leben.'
+skill: heal
+casttime:
+  base: 0.75
+cooldown:
+  base: 5.0
+range:
+  base: 25
+damage:
+  base: 254
+  path-level-modifier: 4
+resources:
+  mana:
+    mana-base-modifier: 0.03

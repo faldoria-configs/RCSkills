@@ -11,19 +11,29 @@ skills:
     level: 1
   schmettern:
     level: 1
-  erneuerung:
-    level: 5
-  seelenwort-leben:
-    level: 5
-  schattenwort-schmerz:
-    level: 10
   blitzheilung:
+    level: 3
+  schattenwort-schmerz:
+    level: 5
+  fluch-der-magie:
+    level: 7
+  grosse-heilung:
+    level: 10
+  heiliges-feuer:
+    level: 13
+  seelenwort-leben:
     level: 15
-  entrinnen:
-    level: 20
-  gedankenschinden:
-    level: 25
+  heilige-nova:
+    level: 18
   gebet-der-heilung:
+    level: 20
+  heiliges-schild:
+    level: 23
+  suehne:
+    level: 25
+  hast:
+    level: 28
+  erzengel:
     level: 30
 resources:
   mana:

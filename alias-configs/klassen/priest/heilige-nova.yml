@@ -1,0 +1,17 @@
+name: Heilige Nova
+description: 'Der Kleriker lässt an seinen Füßen eine Nova aus purem Licht entsrehen. Je weiter weg umso mehr Schaden.'
+skill: blood-nova
+custom:
+  damage-per-block:
+    base: 12.3
+damage:
+  base: 6.0
+  path-level-modifier: 13
+cooldown:
+  base: 4
+resources:
+  mana:
+    from-max: true
+    mana-modifier: 0.10
+range:
+  base: 10

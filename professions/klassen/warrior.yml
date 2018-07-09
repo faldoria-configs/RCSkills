@@ -1,13 +1,12 @@
 name: Krieger
 description: Der Krieger ist die Grundklasse des direkten Angriffs. 
 tag: KRI
-childs:
-- berserker
-- paladin
 max-level: 30
 formula: primary
 skills:
   prefix-warrior:
+    level: 1
+  krieger-ausweichen:
     level: 1
   hieb:
     level: 1
@@ -15,12 +14,16 @@ skills:
     level: 3
   spalten:
     level: 5
+  parrieren:
+    level: 7
   siegesrausch:
     level: 7
   anstuermen:
     level: 10
   verwuesten:
     level: 13
+  schildblock:
+    level: 15
   heldenhafter-stoss:
     level: 15
   krieger-entwaffnen:
@@ -28,6 +31,8 @@ skills:
   durchbohren:
     level: 25
   kniesehne:
+    level: 30
+  schildwall:
     level: 30
 resources:
   health:

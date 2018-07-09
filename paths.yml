@@ -6,6 +6,7 @@ class:
   - rogue
   - mage
   - priest
+  - hunter
   select-in-combat: true
   select-out-of-combat: false
 prof:

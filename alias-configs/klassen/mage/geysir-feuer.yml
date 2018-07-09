@@ -1,0 +1,23 @@
+name: Geysir
+description: 'Schleudert deinen Gegner in die Luft und verursacht durch die heiße Luft des Geysirs Schaden.'
+skill: magic-bolt
+levelable: false
+range:
+  base: 30
+damage:
+  base: 50
+  path-level-modifier: 1
+cooldown:
+  base: 25
+resources:
+  mana:
+    mana-base-modifier: 0.03
+custom:
+  throw-up:
+    base: 5
+visual-effects:
+  IMPACT:
+    1:
+      type: custom
+      args:
+        class: FountainEffect

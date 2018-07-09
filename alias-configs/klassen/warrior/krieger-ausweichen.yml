@@ -1,0 +1,7 @@
+name: Ausweichen
+description: ' Du hast eine Chance von 2% + 0.25%/Level einem Angriff auszuweichen. '
+skill: evade
+custom:
+  evade-chance:
+    base: 0.02
+    path-level-modifier: 0.0025

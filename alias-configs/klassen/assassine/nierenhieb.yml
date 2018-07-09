@@ -1,0 +1,23 @@
+name: Nierenhieb
+description: ' Betäubt den Gegner je nach Anzahl der Combopunkte für 2-6s. '
+skill: strike
+weapons:
+  - dagger
+  - sword
+custom:
+  stun: true
+damage:
+  base: 39
+cooldown:
+  base: 17
+resources:
+  energy:
+    base: 25
+  combopoints:
+    base: 5
+    variable: true
+effects:
+  stun:
+    duration:
+      base: 1
+      combopoints-modifier: 1

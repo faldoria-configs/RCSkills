@@ -1,0 +1,15 @@
+name: Mana Aura
+description: 'Erhöht die Mana-Regenration deiner Gruppe um 5% + 0.0025/Level. Es kann immer nur eine Aura gleichzeitig aktiv sein.'
+skill: aura
+custom:
+  type: mana-regain
+effects:
+  mana-regain-aura:
+    name: Mana Aura
+    mana-regain:
+      base: 0.05
+      path-level-modifier: 0.0025
+    duration:
+      base: 600
+    interval:
+      base: 5

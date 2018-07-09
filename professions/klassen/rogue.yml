@@ -1,32 +1,39 @@
-name: Schurke
-description: Der Schurke versteht sich auf das Brauen von Giften und ist auf den heimlichen Angriff aus dem Schatten spezialisiert.
+name: Assassine
+description: Der Assassine versteht sich auf das Brauen von Giften und ist auf den heimlichen Angriff aus dem Schatten spezialisiert.
 tag: SCH
-childs:
-- assassin
-- hunter
 max-level: 30
 formula: primary
 skills:
   prefix-rogue:
     level: 1
+  geschicklichtkeit:
+    level: 1
   schattenschlag:
     level: 1
   schleichen:
     level: 1
-  pfeilbeschwoerung:
+  vampirschlag:
     level: 3
-  todesstoss:
+  hinterhalt:
     level: 5
-  gezielter-schuss:
+  ausweiden:
     level: 7
-  geschicklichkeit:
+  schattenschritt:
     level: 10
+  gunst-der-schatten:
+    level: 13
+  nierenhieb:
+    level: 15
+  zerreisen:
+    level: 17
   schurke-entwaffnen:
     level: 20
+  dolchfaecher:
+    level: 23
   dunkler-stich:
     level: 25
-  verkrueppelnder-schuss:
-    level: 25
+  schattentanz:
+    level: 30
 resources:
   health:
     name: Leben
@@ -36,6 +43,37 @@ resources:
       base: 0.025
     interval:
       base: 5
+  energy:
+    name: Energie
+    types:
+    - experience
+    default: 0
+    max:
+      base: 100
+    min: 0
+    in-combat-regen:
+      base: 1
+      percent: false
+    out-of-combat-regen:
+      base: 1
+      percent: false
+    interval:
+      base: 0.1
+  combopoints:
+    name: Kombopunkte
+    types:
+    - scoreboard
+    default: 0
+    max:
+      base: 5
+    min: 0
+    regen:
+      base: 0.0
+    interval:
+      base: 60
+    color:
+      filled: DARK_RED
+      unfilled: DARK_GRAY
 attributes:
   strength:
     base-value:
