@@ -1,1 +1,4 @@
-*.jar
+database.yml
+legacy_database.yml
+abilities/
+skills-and-effects/
