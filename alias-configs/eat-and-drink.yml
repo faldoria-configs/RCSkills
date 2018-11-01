@@ -3,96 +3,9 @@ skill: consume
 hidden: true
 custom:
   food-level: 17
-  food:
-    apple:
-      gain:
-        base: 0.2
-    baked_potato:
-      gain:
-        base: 0.3
-    bread:
-      gain:
-        base: 0.25
-    bread:
-      gain:
-        base: 0.25
-    cake:
-      gain:
-        base: 0.1
-    carrot:
-      gain:
-        base: 0.2
-    cooked_chicken:
-      gain:
-        base: 0.3
-    cooked_fish:
-      gain:
-        base: 0.25
-    grilled_pork:
-      gain:
-        base: 0.4
-    cookie:
-      gain:
-        base: 0.1
-    carrot:
-      gain:
-        base: 0.2
-    golden_apple:
-      gain:
-        base: 0.6
-    golden_carrot:
-      gain:
-        base: 0.8
-    melon:
-      resource: mana
-      gain:
-        base: 0.3
-    MUSHROOM_SOUP:
-      resource: mana
-      gain:
-        base: 0.4
-    potato:
-      gain:
-        base: 0.05
-    baked_potato:
-      gain:
-        base: 0.30
-    poisonous_potato:
-      gain:
-        base: 0.1
-    pumpkin_pie:
-      resource: mana
-      gain:
-        base: 0.6
-    raw_beef:
-      gain:
-        base: 0.15
-    raw_chicken:
-      gain:
-        base: 0.1
-    raw_fish:
-      resource: mana
-      gain:
-        base: 0.1
-    PORK:
-      gain:
-        base: 0.15
-    rotten_flesh:
-      gain:
-        base: 0.2
-    spider_eye:
-      gain:
-        base: 0.1
-    COOKED_BEEF:
-      gain:
-        base: 0.4
-    MILK_BUCKET:
-      resource: mana
-      gain:
-        base: 0.8
 effects:
   consume:
-    name: Essen und Trinken
+    name: Nahrung
     priority: 1.0
     custom:
       break-on-damage: true
