@@ -1,0 +1,22 @@
+name: Tiefe Wunde
+description: ' Lässt das Ziel für 15 Sekunden bluten. '
+skill: strike
+weapons:
+  - sword
+  - axe
+  - polearm
+  - mace
+damage:
+  base: 41
+  path-level-modifier: 13
+custom:
+  bleed: true
+effects:
+  bleed:
+    duration:
+      base: 12
+    interval:
+      base: 3
+    damage:
+      base: 21
+      path-level-modifier: 1

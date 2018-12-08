@@ -1,0 +1,17 @@
+name: Mana Sucht
+description: 'Wenn immer der Blutmagier Leben durch einen eigenen Zauber verliert werden 10% + 1% des Schadens vom Mana anstatt von den Leben abgezogen. Wobei 1HP(Level 1)-2HP(Level 60) = 1MP. Kann aus- und angeschaltet werden.'
+skill: resource-transfer
+custom:
+  source-resource: health
+  destination-resource: mana
+  transfer-amount:
+    base: 0.10
+    path-level-modifier: 0.01
+    cap: 1.0
+  transfer-ratio:
+    base: 1.0
+    path-level-modifier: -0.01
+    low: 0.5
+resources:
+  mana:
+    mana-base-modifier: 0.025

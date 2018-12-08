@@ -1,0 +1,13 @@
+name: Ansturm
+description: ' Stürmt ein Ziel in 15m an und betäubt es für 2.0 Sekunden. '
+skill: charge
+custom:
+  stun: true
+cooldown:
+  base: 24
+effects:
+  stun:
+    duration:
+      base: 2.5
+range:
+  base: 15

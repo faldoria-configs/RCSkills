@@ -1,6 +1,0 @@
-name: Chatpräfix Schatten-Orden
-skill: permission
-hidden: true
-custom:
-  global:
-    - rcchat.prefix.schatten-orden

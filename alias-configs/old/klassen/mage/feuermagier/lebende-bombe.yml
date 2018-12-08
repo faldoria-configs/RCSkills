@@ -1,0 +1,21 @@
+name: Lebende Bombe
+description: 'Verwandelt das Ziel in eine lebende Bombe und sprengt alle Personen um die Bombe nach Ablauf der Zeit.'
+skill: living-bomb
+levelable: false
+range:
+  base: 20
+cooldown:
+  base: 60
+resources:
+  mana:
+    mana-base-modifier: 0.05
+effects:
+  living-bomb:
+    custom:
+      blast-radius:
+        base: 5
+    damage:
+      base: 77
+      path-level-modifier: 1
+    duration:
+      base: 5

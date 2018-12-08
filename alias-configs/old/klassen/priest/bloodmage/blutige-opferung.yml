@@ -1,0 +1,15 @@
+name: Blutige Opferung
+description: 'Heilt die Gruppe des Blutmagiers um die Menge der geopferten Leben und fügt allen Gegnern im Umkreis von 10m den selben Schaden zu. Es werden die aktuellen Leben verrechnet, nicht die max. Leben.'
+skill: bloody-sacrifice
+range:
+  base: 10
+damage:
+  health-modifier: 0.15
+  path-level-modifier: 0.0025
+resources:
+  health:
+    from-max: true
+    health-modifier: 0.15
+    path-level-modifier: 0.001
+cooldown:
+  base: 21

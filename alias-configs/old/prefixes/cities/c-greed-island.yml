@@ -1,0 +1,6 @@
+name: Chatpräfix Greed-Island
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.greed-island

@@ -1,0 +1,16 @@
+name: Entwaffnen
+description: ' Entwaffnet das Ziel und verhindert alle Angriffe mit Waffen für 5 Sekunden. '
+skill: strike
+weapons:
+  - sword
+  - axe
+  - polearm
+  - mace
+custom:
+  disarm: true
+cooldown:
+  base: 30
+effects:
+  disarm:
+    duration:
+      base: 8

@@ -1,0 +1,24 @@
+name: Magisches Geschoss
+description: 'Schießt ein magisches Geschoss auf den Gegner.'
+skill: magic-bolt
+levelable: false
+range:
+  base: 30
+custom:
+  default-attack: true
+  knockback: true
+damage:
+  base: 47
+  path-level-modifier: 13
+resources:
+  mana:
+    mana-base-modifier: 0.01
+visual-effects:
+  CAST:
+    1:
+      type: sound
+      effect: GHAST_FIREBALL
+  LINE:
+    1:
+      type: bukkit
+      effect: SMOKE

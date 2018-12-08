@@ -1,0 +1,11 @@
+name: Gegenschlag
+description: ' Der nächste Schlag nach einer erfolgreichen Parade verursacht zusätzlichen Schaden. '
+skill: counter-attack
+weapons:
+  - sword
+cooldown:
+  base: 8
+damage:
+  base: 77
+  path-level-modifier: 13
+  weapon-damage: true

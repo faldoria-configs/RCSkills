@@ -1,0 +1,21 @@
+name: Kniesehne
+description: ' Verlangsamt deinen Gegner um 50%. '
+skill: strike
+weapons:
+  - sword
+  - axe
+  - polearm
+  - mace
+custom:
+  slow: true
+cooldown:
+  base: 12
+damage:
+  base: 21
+  path-level-modifier: 1
+  weapon-damage: true
+effects:
+  slow:
+    potion-amplifier: 3
+    duration:
+      base: 7

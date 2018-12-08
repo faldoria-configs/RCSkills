@@ -1,0 +1,25 @@
+name: Avatar des Lichts
+description: 'Verwandelt dich für 20 Sekunden in einen Avatar des Lichts:'
+usage:
+  - 'Erhöht die Leben um 25%'
+  - 'Verringert den erlittenen Schaden um 10%'
+  - 'Erhöht die erhaltene Heilung um 10%'
+skill: avatar
+custom:
+  type: paladin
+cooldown:
+  base: 180
+resources:
+  mana:
+    mana-base-modifier: 0.075
+effects:
+  paladin-avatar:
+    custom:
+      health-increase:
+        base: 0.25
+      damage-reduction:
+        base: 0.10
+      heal-percentage:
+        base: 0.10
+    duration:
+      base: 20

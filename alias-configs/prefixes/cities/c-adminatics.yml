@@ -1,6 +1,0 @@
-name: Chatpräfix Adminatics
-skill: permission
-hidden: true
-custom:
-  global:
-    - rcchat.prefix.adminatics

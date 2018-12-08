@@ -1,0 +1,6 @@
+name: Dickes Blut
+description: 'Erhöht die maximalen Leben des Blutmagiers um 25%.'
+skill: health-increase
+custom:
+  health-increase:
+    base: 0.25

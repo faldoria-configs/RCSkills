@@ -1,6 +1,0 @@
-name: Chatpräfix Undraeth
-skill: permission
-hidden: true
-custom:
-  global:
-    - rcchat.prefix.undraeth

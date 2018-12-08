@@ -1,0 +1,30 @@
+name: Bergbau
+description: Ermöglicht die Chance von 0.1% pro Level einen Doppeldrop bei verschiedenen Blöcken zu erhalten.
+skill: double-drop
+max-level: 1000
+exp:
+  base: 0.5
+  path-level-modifier: 0.05
+custom:
+  tool: PICKAXE
+  chance:
+    base: 0.01
+    skill-level-modifier: 0.01
+    cap: 1.0
+  blocks:
+    - stone
+    - sand
+    - brick
+    - smooth_brick
+    - gold_ore
+    - iron_ore
+    - coal_ore
+    - lapis_ore
+    - sandstone
+    - diamond_ore
+    - redstone_ore
+    - lit_redstone_ore
+    - emerald_ore
+    - quartz_ore
+    - prismarine
+use-in-combat: false

@@ -1,0 +1,23 @@
+name: Wirbelwind
+description: ' Fügt maximal vier Gegnern im Umkreis Schaden zu und stößt sie leicht zurück. '
+skill: whirlwind
+weapons:
+  - axe
+custom:
+  knockback: true
+  max-targets: 4
+damage:
+  base: 73
+  path-level-modifier: 1
+  weapon-damage: true
+cooldown:
+  base: 14
+resources:
+  rage: 
+    base: 20
+range:
+  base: 4
+effects:
+  knockback:
+    custom:
+      power: 0.9

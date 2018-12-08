@@ -1,0 +1,6 @@
+name: Chatpräfix Wallenstein
+skill: permission
+hidden: true
+custom:
+  global:
+    - rcchat.prefix.wallenstein

@@ -1,0 +1,16 @@
+name: Handauflegen
+description: ' Heilt dich oder dein Ziel um 100%, braucht jedoch alle restlichen Ressourcen auf. '
+skill: layhands
+range:
+  base: 5
+cooldown:
+  base: 180
+resources:
+  mana:
+    from-max: true
+    base: 1.0
+effects:
+  layhands:
+    name: Handauflegen
+    duration:
+      base: 60

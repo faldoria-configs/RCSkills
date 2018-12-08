@@ -1,6 +1,0 @@
-name: Chatpräfix Venezia
-skill: permission
-hidden: true
-custom:
-  global:
-    - rcchat.prefix.venezia
