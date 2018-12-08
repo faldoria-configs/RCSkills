@@ -1,6 +1,7 @@
 name: Bergarbeiter
 description: Den Bergarbeitern der Gegenden von Azuran wohnt eine große wirtschaftliche sowie kulturelle Rolle inne. So stellen die Bergarbeiter nicht nur einen Großteil der verfügbaren Rohstoffe, sondern spielten auch immer eine bedeutende Rolle beim Roden und Planieren von Landschaften.
 tag: BEA
+enabled: false
 max-level: 60
 formula: beruf
 exp-money-conversion-rate:

@@ -1,12 +1,8 @@
-class:
-  name: Klassen
+combat:
+  name: Kampf
   priority: 10
   parents:
-  - warrior
-  - rogue
-  - mage
-  - priest
-  - hunter
+  - kaishi
   select-in-combat: true
   select-out-of-combat: false
 prof:

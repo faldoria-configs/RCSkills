@@ -1,6 +1,7 @@
 name: Alchemist
 description: Die Alchemisten der Gegenden von Azuran besitzen ein tiefes Verständnis über die nicht sichtbaren Zusammenhänge in der Welt. So ist es ihnen auch möglich die Struktur eines Materials zu verändern und so Blöcke zu erschaffen, die sich normalerweise nicht schadenfrei abbauen ließen.
 tag: ALC
+enabled: false
 max-level: 60
 formula: beruf
 exp-money-conversion-rate:

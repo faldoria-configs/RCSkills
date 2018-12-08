@@ -1,6 +1,7 @@
 name: Schmied
 description: 'Schmiede können Gegenstände reparieren, sowie Rüstungen und Waffen herstellen und verbessern.'
 tag: SCH
+enabled: false
 max-level: 60
 formula: beruf
 exp-money-conversion-rate:

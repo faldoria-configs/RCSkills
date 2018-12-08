@@ -1,6 +1,7 @@
 name: Berserker
 description: Der Berserker verzichtet auf Verteidigung für vernichtende Angriffe auf mehrere Feinde.
 tag: BER
+enabled: false
 parent: warrior
 max-level: 30
 formula: secundary

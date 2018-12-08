@@ -6,8 +6,6 @@ health:
   base: 20
   level-modifier: 0.0
 skills:
-  guest:
-    level: 1
   member:
     level: 1
   runenstein-benutzer:

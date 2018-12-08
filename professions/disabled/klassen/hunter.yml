@@ -1,0 +1,112 @@
+name: Waldläufer
+tag: WAL
+enabled: false
+max-level: 30
+formula: primary
+skills:
+  prefix-hunter:
+    level: 1
+  meisterschuetze:
+    level: 1
+  feuerpfeil:
+    level: 1
+  pfeilbeschwoerung:
+    level: 1
+  schwacher-schlag:
+    level: 3
+  wolfsrudel:
+    level: 5
+  eispfeil:
+    level: 7
+  feuerfalle:
+    level: 10
+  bogenbeherrschung:
+    level: 13
+  heiliger-schuss:
+    level: 15
+  multischuss:
+    level: 18
+  rueckzug:
+    level: 20
+  tritt:
+    level: 23
+  schwaechender-pfeil:
+    level: 25
+  pfeilregen:
+    level: 28
+  avatar-des-waldes:
+    level: 30
+resources:
+  health:
+    name: Leben
+    out-of-combat-regen:
+      percent: true
+      from-max: true
+      base: 0.025
+    interval:
+      base: 5
+  mana:
+    name: Mana
+    types:
+    - EXPERIENCE
+    default: 0
+    base:
+      base: 100
+      path-level-modifier: 27.25
+    max:
+      intellect-attr-modifier: 15
+    min: 0
+    in-combat-regen:
+      percent: false
+      mana-base-modifier: 0.05
+      spirit-attr-modifier: 0.1
+    out-of-combat-regen:
+      percent: true
+      base: 0.01
+      mana-base-modifier: 0.05
+      spirit-attr-modifier: 0.001
+    interval:
+      base: 5
+    usage-delay:
+      base: 5
+attributes:
+  strength:
+    base-value:
+      base: 7
+      path-level-modifier: 0.75
+    damage-modifiers:
+      PHYSICAL: 1.0
+  agility:
+    base-value:
+      base: 17
+      path-level-modifier: 1.5
+    damage-modifiers:
+      PHYSICAL: 2.0
+      DEFAULT_ATTACK: 0.1
+  stamina:
+    base-value:
+      base: 14
+      path-level-modifier: 1
+  intellect:
+    base-value:
+      base: 9
+      path-level-modifier: 0.75
+  spirit:
+    base-value:
+      base: 5
+      path-level-modifier: 0.5
+health:
+  base: 280
+  prof-level-modifier: 12.5
+  path-level-modifier: 9.0
+  stamina-attr-modifier: 10
+allowed-armor:
+  CLOTH: 1
+  LEATHER: 1
+allowed-weapons:
+  dagger: 1
+  sword: 1
+  mace: 1
+  axe: 1
+  bow: 1
+color: GRAY

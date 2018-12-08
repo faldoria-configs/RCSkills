@@ -1,0 +1,96 @@
+name: Krieger
+description: Der Krieger ist die Grundklasse des direkten Angriffs. 
+tag: KRI
+enabled: false
+max-level: 30
+formula: primary
+skills:
+  prefix-warrior:
+    level: 1
+  krieger-ausweichen:
+    level: 1
+  hieb:
+    level: 1
+  tiefe-wunde:
+    level: 3
+  spalten:
+    level: 5
+  parrieren:
+    level: 7
+  siegesrausch:
+    level: 7
+  anstuermen:
+    level: 10
+  verwuesten:
+    level: 13
+  schildblock:
+    level: 15
+  heldenhafter-stoss:
+    level: 15
+  krieger-entwaffnen:
+    level: 20
+  durchbohren:
+    level: 25
+  kniesehne:
+    level: 30
+  schildwall:
+    level: 30
+resources:
+  health:
+    name: Leben
+    in-combat-regen:
+      from-max: true
+      percent: true
+      base: 0.01
+    out-of-combat-regen:
+      percent: true
+      from-max: true
+      base: 0.025
+    interval:
+      base: 5
+health:
+  base: 360
+  prof-level-modifier: 15.5
+  path-level-modifier: 11.75
+  stamina-attr-modifier: 10
+attributes:
+  strength:
+    base-value:
+      base: 15
+      path-level-modifier: 1.5
+    damage-modifiers:
+      PHYSICAL: 2.0
+      DEFAULT_ATTACK: 0.1
+  agility:
+    base-value:
+      base: 9
+      path-level-modifier: 0.75
+  stamina:
+    base-value:
+      base: 17
+      path-level-modifier: 1.25
+  intellect:
+    base-value:
+      base: 5
+      path-level-modifier: 0.25
+  spirit:
+    base-value:
+      base: 3
+      path-level-modifier: 0.25
+allowed-armor:
+  CLOTH: 1
+  LEATHER: 1
+  MAIL: 1
+  SHIELD: 1
+allowed-weapons:
+  sword: 1
+  two_hand_sword: 1
+  mace: 1
+  two_hand_mace: 1
+  axe: 1
+  two_hand_axe: 1
+  polearm: 1
+  dagger: 1
+  staff: 1
+  bow: 1
+color: GRAY

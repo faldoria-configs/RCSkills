@@ -16,6 +16,11 @@ skills:
     type: mcmmo
     base: 200
     x: 225
+  # EXP für nächstes Level = base + x * level
+  weapon-skills:
+    type: mcmmo
+    base: 100
+    x: 22
 heroes:
   default:
     type: wow

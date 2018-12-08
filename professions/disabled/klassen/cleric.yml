@@ -1,6 +1,7 @@
 name: Kleriker
 description: Der Kleriker hat sich auf die Heilung und Unterstützung von Freunden und seiner Gruppe spezialisiert.
 tag: KLE
+enabled: false
 parent: priest
 max-level: 30
 formula: secundary

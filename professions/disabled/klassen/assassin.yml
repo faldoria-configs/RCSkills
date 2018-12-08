@@ -2,6 +2,7 @@ name: Assassine
 description: Der Assassine benutzt Gifte und Verwirrung, um Gegner kampfunfähig und so zu leichter Beute zu machen.
 tag: ASS
 parent: rogue
+enabled: false
 max-level: 30
 formula: secundary
 skills:

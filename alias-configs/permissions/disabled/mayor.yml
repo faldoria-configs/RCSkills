@@ -1,5 +1,6 @@
 name: 'Bürgermeister'
 skill: permission
+enabled: false
 custom:
   world:
     - rccities.skill.mayor

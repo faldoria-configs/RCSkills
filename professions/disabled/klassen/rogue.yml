@@ -1,39 +1,39 @@
-name: Waldläufer
-tag: WAL
+name: Assassine
+description: Der Assassine versteht sich auf das Brauen von Giften und ist auf den heimlichen Angriff aus dem Schatten spezialisiert.
+tag: SCH
+enabled: false
 max-level: 30
 formula: primary
 skills:
-  prefix-hunter:
+  prefix-rogue:
     level: 1
-  meisterschuetze:
+  geschicklichtkeit:
     level: 1
-  feuerpfeil:
+  schattenschlag:
     level: 1
-  pfeilbeschwoerung:
+  schleichen:
     level: 1
-  schwacher-schlag:
+  vampirschlag:
     level: 3
-  wolfsrudel:
+  hinterhalt:
     level: 5
-  eispfeil:
+  ausweiden:
     level: 7
-  feuerfalle:
+  schattenschritt:
     level: 10
-  bogenbeherrschung:
+  gunst-der-schatten:
     level: 13
-  heiliger-schuss:
+  nierenhieb:
     level: 15
-  multischuss:
-    level: 18
-  rueckzug:
+  zerreisen:
+    level: 17
+  schurke-entwaffnen:
     level: 20
-  tritt:
+  dolchfaecher:
     level: 23
-  schwaechender-pfeil:
+  dunkler-stich:
     level: 25
-  pfeilregen:
-    level: 28
-  avatar-des-waldes:
+  schattentanz:
     level: 30
 resources:
   health:
@@ -44,30 +44,37 @@ resources:
       base: 0.025
     interval:
       base: 5
-  mana:
-    name: Mana
+  energy:
+    name: Energie
     types:
-    - EXPERIENCE
+    - experience
     default: 0
-    base:
-      base: 100
-      path-level-modifier: 27.25
     max:
-      intellect-attr-modifier: 15
+      base: 100
     min: 0
     in-combat-regen:
+      base: 1
       percent: false
-      mana-base-modifier: 0.05
-      spirit-attr-modifier: 0.1
     out-of-combat-regen:
-      percent: true
-      base: 0.01
-      mana-base-modifier: 0.05
-      spirit-attr-modifier: 0.001
+      base: 1
+      percent: false
     interval:
+      base: 0.1
+  combopoints:
+    name: Kombopunkte
+    types:
+    - scoreboard
+    default: 0
+    max:
       base: 5
-    usage-delay:
-      base: 5
+    min: 0
+    regen:
+      base: 0.0
+    interval:
+      base: 60
+    color:
+      filled: DARK_RED
+      unfilled: DARK_GRAY
 attributes:
   strength:
     base-value:

@@ -5,7 +5,7 @@ defaults:
   environment-damage-in-percent: true
   effect-priority: 1.0
   global-cooldown: 1.5
-  permission-group: guest
+  permission-group: member
   fist-damage: 1.0
   skeleton-knockback: 0.75
   party-timeout: 30.0
@@ -25,7 +25,7 @@ interface:
 hero:
   max-level: 100
   level-treshhold: 10
-  primary-path: class
+  primary-path: kaishi
   secundary-path: prof
 paths:
   skill-configs: skill-configs/

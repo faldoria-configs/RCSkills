@@ -1,6 +1,7 @@
 name: Bauer
 description: Die Bauern der Gegenden von Azuran dürfen in keiner Ortschaft fehlen. Sie kümmern sich um alles, was die Herstellung und Verarbeitung von Nahrung betrifft und züchten zu diesem Zwecke auch Tiere heran. Dabei fällt den Bauern besonders die effektive Nutzung der Rohmaterialien leicht.
 tag: BAU
+enabled: false
 max-level: 60
 formula: beruf
 exp-money-conversion-rate:

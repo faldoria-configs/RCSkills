@@ -1,6 +1,7 @@
 name: Blutmagier
 description: Der Blutmagier scheut sich bei der Unterstützung seiner Gruppe nicht vor dem Aufopfern eigener Lebensenergie, schließlich kann er diese aus gegnerischen Truppen aufsaugen und aufnehmen.
 tag: BLU
+enabled: false
 max-level: 30
 formula: secundary
 parent: priest
