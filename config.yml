@@ -52,3 +52,4 @@ sidebar-effect-types:
 - DAMAGING
 - BUFF
 - DEBUFF
+skip-disabled-directory: true
