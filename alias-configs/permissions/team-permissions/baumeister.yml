@@ -1,5 +1,5 @@
 name: Baumeister
-skill: map-builder
+skill: permission
 use-in-combat: false
 custom:
   global-permissions:

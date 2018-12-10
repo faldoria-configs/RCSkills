@@ -1,5 +1,5 @@
 name: Mapbuilder Lehrling
-skill: map-builder
+skill: permission
 use-in-combat: false
 custom:
   global-permissions:
