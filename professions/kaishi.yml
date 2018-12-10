@@ -22,3 +22,23 @@ allowed-weapons:
 skills:
   sword-training:
     level: 1
+attributes:
+  strength:
+    base-value:
+      base: 15
+      path-level-modifier: 1.5
+    damage-modifiers:
+      PHYSICAL: 2.0
+      DEFAULT_ATTACK: 0.1
+  agility:
+    base-value:
+      base: 9
+      path-level-modifier: 0.75
+  stamina:
+    base-value:
+      base: 17
+      path-level-modifier: 1.25
+  intellect:
+    base-value:
+      base: 5
+      path-level-modifier: 0.25
