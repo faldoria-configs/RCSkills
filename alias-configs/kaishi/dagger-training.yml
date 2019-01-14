@@ -1,0 +1,22 @@
+name: Dolche
+description: 'Je mehr du Dolche benutzt umso besser wirst du darin. Erhöht deinen Schaden mit Dolchen um 1% pro Skill Level.'
+skill: weapon-bonus
+levelable: true
+# Nutze die EXP Formel 'weapon-skills' aus der levels.yml config
+formula: weapon-skills
+# Der Skill soll nur durch Trainer weiter als dieses Level levelbar sein
+max-level: 20
+# Die Erfahrung die der Spieler pro erfolgreichem Schlag erhält
+exp:
+  # Erhält 1 EXP + je alle 4 Level 1 extra EXP
+  base: 1
+  path-level-modifier: 0.25
+custom:
+  # Erhält zusätzlich pro 40 Schaden 1 EXP
+  exp-per-damage:
+    base: 0.025
+  weapons:
+    dagger:
+      cap: 0.2
+      # Je Skill Level macht der Spieler mit Schwertern 1% mehr Schaden
+      sword-training-skill-modifier: 0.01

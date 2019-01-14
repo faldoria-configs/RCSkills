@@ -22,6 +22,16 @@ allowed-weapons:
 skills:
   sword-training:
     level: 1
+  axe-training:
+    level: 1
+  bow-training:
+    level: 1
+  dagger-training:
+    level: 1
+  two-hand-sword-training:
+    level: 1
+  two-hand-axe-training:
+    level: 1
 attributes:
   strength:
     base-value:
